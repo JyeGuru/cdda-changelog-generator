@@ -1,3 +1,18 @@
+* put threads in spool (#89074)
+* Add medium boxes with garbage bags in (#89092)
+* Increase items in unlooted farm supply store (#89090)
+
+Cataclysm-DDA experimental build 2026-10-16-0406 (c45b948)
+* Finish all items loc (#89019)
+
+Cataclysm-DDA experimental build 2026-10-16-0241 (14cccd1)
+* [Innawood] Filter Mask is now auto-learned (#89091)
+* Update fence constructions and bash results (#89098)
+
+Cataclysm-DDA experimental build 2026-10-16-0158 (71c1aee)
+* [XedraWood] Hollow One updates (#89094)
+
+Cataclysm-DDA experimental build 2026-10-16-0036 (46fb823)
 * Update seasoning condition to check for allergies directly (#89082)
 
 Cataclysm-DDA experimental build 2026-10-15-2346 (94060cc)
@@ -47,9 +62,6 @@ Cataclysm-DDA experimental build 2026-10-14-1432 (9a82cdd)
 Cataclysm-DDA experimental build 2026-10-14-0706 (62981aa)
 * Fix Creatures In Vehicles Leaving Blood Footprints (#89054)
 
-Cataclysm-DDA experimental build 2026-10-14-0440 (918f396)
-* New relic recharges portal storm and underground (#88920)
-
 Cataclysm-DDA experimental build 2026-10-14-0341 (55f57e7)
 * fix overflow in scarlet storm math (#89061)
 
@@ -81,20 +93,12 @@ Cataclysm-DDA experimental build 2026-10-12-2143 (afe69bd)
 
 Cataclysm-DDA experimental build 2026-10-12-1843 (1bdee11)
 * Fix Z level fragment of reality (#89021)
-
-Cataclysm-DDA experimental build 2026-10-12-1758 (c0f5f9f)
 * Arachnid Limbs/Arms are now limbs (#89025)
-
-Cataclysm-DDA experimental build 2026-10-11-2343 (c5972f8)
 * wounds can transform over time into another wounds (#89010)
 * Pipe cleaner is not a skillful recipe (#89018)
 * Fix crash in zone sort after loading a save (#89020)
 * Access to labyrinth safehouse in the transition between levels 1 and 2 (#89022)
-
-Cataclysm-DDA experimental build 2026-10-11-2241 (21baebc)
 * Fix NPC self-care walks (#89017)
-
-Cataclysm-DDA experimental build 2026-10-11-1833 (6c0641c)
 * refactor callers of all_items_loc (#88998)
 * Add car charging stations (#88963)
 * Fix requirements for Isherwood rescue prep sidequests (#89012)
@@ -139,13 +143,7 @@ Cataclysm-DDA experimental build 2026-10-11-1833 (6c0641c)
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. (#88934)
 * Prefilter smooth filtered light once per light change (#88925)
 * Fix plugged-in devices coming loose when leaving the reality bubble (#88921)
-* Weekly Changelog 2026-09-28 to 2026-10-05 (#88917)
 * add sticks, leaves, feldspar to forest trash (#88928)
 * spawn newspaper in floor trash (#88927)
-* delete old bundle recipe references (#88919)
 * Dim the standing lamp (#88924)
-* Add a GPU backend option to the graphics settings (#88918)
-* migrate innawoods to SUS trash itemgroup (#88915)
-* Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances (#88913)
-* update plastic shopping bag pocket data (#88916)
 * remove unused variable (#88922)

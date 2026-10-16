@@ -1,3 +1,30 @@
+* put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
+* Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
+* Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-0406 ([c45b948](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0406))
+
+* Finish all items loc ([#89019](https://github.com/CleverRaven/Cataclysm-DDA/pull/89019))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-0241 ([14cccd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0241))
+
+* [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
+* Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-0158 ([71c1aee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0158))
+
+* [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-16-0036 ([46fb823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0036))
+
 * Update seasoning condition to check for allergies directly ([#89082](https://github.com/CleverRaven/Cataclysm-DDA/pull/89082))
 
 ---
@@ -88,12 +115,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-10-14-0440 ([918f396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0440))
-
-* New relic recharges portal storm and underground ([#88920](https://github.com/CleverRaven/Cataclysm-DDA/pull/88920))
-
----
-
 #### Cataclysm-DDA experimental build 2026-10-14-0341 ([55f57e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0341))
 
 * fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
@@ -153,32 +174,12 @@
 #### Cataclysm-DDA experimental build 2026-10-12-1843 ([1bdee11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-1843))
 
 * Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-12-1758 ([c0f5f9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-12-1758))
-
 * Arachnid Limbs/Arms are now limbs ([#89025](https://github.com/CleverRaven/Cataclysm-DDA/pull/89025))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-11-2343 ([c5972f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-2343))
-
 * wounds can transform over time into another wounds ([#89010](https://github.com/CleverRaven/Cataclysm-DDA/pull/89010))
 * Pipe cleaner is not a skillful recipe ([#89018](https://github.com/CleverRaven/Cataclysm-DDA/pull/89018))
 * Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-11-2241 ([21baebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-2241))
-
 * Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-11-1833 ([6c0641c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1833))
-
 * refactor callers of all_items_loc ([#88998](https://github.com/CleverRaven/Cataclysm-DDA/pull/88998))
 * Add car charging stations ([#88963](https://github.com/CleverRaven/Cataclysm-DDA/pull/88963))
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
@@ -223,13 +224,7 @@
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
 * Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
 * Fix plugged-in devices coming loose when leaving the reality bubble ([#88921](https://github.com/CleverRaven/Cataclysm-DDA/pull/88921))
-* Weekly Changelog 2026-09-28 to 2026-10-05 ([#88917](https://github.com/CleverRaven/Cataclysm-DDA/pull/88917))
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
-* delete old bundle recipe references ([#88919](https://github.com/CleverRaven/Cataclysm-DDA/pull/88919))
 * Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
-* Add a GPU backend option to the graphics settings ([#88918](https://github.com/CleverRaven/Cataclysm-DDA/pull/88918))
-* migrate innawoods to SUS trash itemgroup ([#88915](https://github.com/CleverRaven/Cataclysm-DDA/pull/88915))
-* Scarlet Storm/Sea weather now more diverse, comes with dynamic(ish) lightning and fog, and has associated rebalances ([#88913](https://github.com/CleverRaven/Cataclysm-DDA/pull/88913))
-* update plastic shopping bag pocket data ([#88916](https://github.com/CleverRaven/Cataclysm-DDA/pull/88916))
 * remove unused variable ([#88922](https://github.com/CleverRaven/Cataclysm-DDA/pull/88922))
