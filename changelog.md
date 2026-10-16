@@ -1,3 +1,15 @@
+* Update seasoning condition to check for allergies directly ([#89082](https://github.com/CleverRaven/Cataclysm-DDA/pull/89082))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-15-2346 ([94060cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-2346))
+
+* 'Work on Craft or Disassembly' menus compare primary skill ([#89081](https://github.com/CleverRaven/Cataclysm-DDA/pull/89081))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-15-2245 ([df01902](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-2245))
+
 * [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
 * Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
 
@@ -168,16 +180,10 @@
 #### Cataclysm-DDA experimental build 2026-10-11-1833 ([6c0641c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1833))
 
 * refactor callers of all_items_loc ([#88998](https://github.com/CleverRaven/Cataclysm-DDA/pull/88998))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-11-1547 ([fd160fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-11-1547))
-
 * Add car charging stations ([#88963](https://github.com/CleverRaven/Cataclysm-DDA/pull/88963))
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
 * Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 * Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
-* [DinoMod] attach zombie legs and create brute and skeleton legs ([#88910](https://github.com/CleverRaven/Cataclysm-DDA/pull/88910))
 * Bloody Footprints ([#89004](https://github.com/CleverRaven/Cataclysm-DDA/pull/89004))
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
@@ -199,7 +205,6 @@
 * Mainline CBM slots and obsolete the mod ([#88956](https://github.com/CleverRaven/Cataclysm-DDA/pull/88956))
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
 * Fix house_w_3 bathroom ([#88955](https://github.com/CleverRaven/Cataclysm-DDA/pull/88955))
-* allow modifying items via post_process_generator ([#88912](https://github.com/CleverRaven/Cataclysm-DDA/pull/88912))
 * Remove mil_surplus itemgroup ([#88958](https://github.com/CleverRaven/Cataclysm-DDA/pull/88958))
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
