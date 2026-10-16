@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-16-1414 (c44ca63)
+* redo requirement loading for wound and fault fixes to support copy-from (#89060)
+
 Cataclysm-DDA experimental build 2026-10-16-1303 (fd4399e)
 * Add more cars to highways (#89095)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-10-13-1217 (da6e7b4)
 
 Cataclysm-DDA experimental build 2026-10-13-0731 (5349739)
 * Fix #89035 Flying Creatures Leaving Bloody Footprints (#89044)
-
-Cataclysm-DDA experimental build 2026-10-13-0402 (50fd903)
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality (#89039)
 * NPCs weigh their needs against following and guarding (#89028)
 * [alt-map-key] Add new overmap terrain (#89024)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2026-10-13-0402 (50fd903)
 * Prefilter smooth filtered light once per light change (#88925)
 * add sticks, leaves, feldspar to forest trash (#88928)
 * spawn newspaper in floor trash (#88927)
-* Dim the standing lamp (#88924)

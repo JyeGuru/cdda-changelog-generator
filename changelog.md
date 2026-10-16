@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-16-1414 ([c44ca63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1414))
+
+* redo requirement loading for wound and fault fixes to support copy-from ([#89060](https://github.com/CleverRaven/Cataclysm-DDA/pull/89060))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-16-1303 ([fd4399e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1303))
 
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-10-13-0731 ([5349739](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0731))
 
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-13-0402 ([50fd903](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0402))
-
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
 * NPCs weigh their needs against following and guarding ([#89028](https://github.com/CleverRaven/Cataclysm-DDA/pull/89028))
 * [alt-map-key] Add new overmap terrain ([#89024](https://github.com/CleverRaven/Cataclysm-DDA/pull/89024))
@@ -228,4 +229,3 @@
 * Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
-* Dim the standing lamp ([#88924](https://github.com/CleverRaven/Cataclysm-DDA/pull/88924))
