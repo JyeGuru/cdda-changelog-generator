@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-16-1900 ([9da8cce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1900))
+
+* Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-16-1414 ([c44ca63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1414))
 
 * redo requirement loading for wound and fault fixes to support copy-from ([#89060](https://github.com/CleverRaven/Cataclysm-DDA/pull/89060))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-10-13-1217 ([da6e7b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-1217))
 
 * wound improvements ([#89033](https://github.com/CleverRaven/Cataclysm-DDA/pull/89033))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-13-0731 ([5349739](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-0731))
-
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
 * NPCs weigh their needs against following and guarding ([#89028](https://github.com/CleverRaven/Cataclysm-DDA/pull/89028))
@@ -226,6 +227,5 @@
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
 * remove two nonsensical frame recipes ([#88926](https://github.com/CleverRaven/Cataclysm-DDA/pull/88926))
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
-* Prefilter smooth filtered light once per light change ([#88925](https://github.com/CleverRaven/Cataclysm-DDA/pull/88925))
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
 * spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))
