@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-17-1759 ([52b4787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1759))
+
+* add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-17-1414 ([dba01b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1414))
 
 * Integrate menstrual pad with its sterile bag ([#89101](https://github.com/CleverRaven/Cataclysm-DDA/pull/89101))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-10-14-0706 ([62981aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0706))
 
 * Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-0341 ([55f57e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0341))
-
 * fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
 * Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
 * [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
@@ -226,4 +227,3 @@
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
 * Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
-* Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
