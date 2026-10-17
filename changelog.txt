@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-10-17-0119 (d29db9c)
 * Aftershock: Screen mirrors can display messages (#89111)
 
 Cataclysm-DDA experimental build 2026-10-17-0022 (47fd30c)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2026-10-14-0048 (09316dc)
 * Add a distinct groundcover for ravine edges (#89038)
 * [DinoMod] heavier zombies (#89042)
 * Spider mutants can skitter (#89047)
-
-Cataclysm-DDA experimental build 2026-10-13-2343 (1bf15de)
 * NPCs get proper sleep (#89056)
 * wound improvements (#89033)
 * Fix #89035 Flying Creatures Leaving Bloody Footprints (#89044)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-17-0119 ([d29db9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-0119))
+
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
 
 ---
@@ -168,11 +173,6 @@
 * Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
 * [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
 * Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-13-2343 ([1bf15de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-2343))
-
 * NPCs get proper sleep ([#89056](https://github.com/CleverRaven/Cataclysm-DDA/pull/89056))
 * wound improvements ([#89033](https://github.com/CleverRaven/Cataclysm-DDA/pull/89033))
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
