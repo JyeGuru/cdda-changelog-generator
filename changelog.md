@@ -1,3 +1,10 @@
+* Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-17-0022 ([47fd30c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-0022))
+
+* threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
 
 ---
 
@@ -167,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-10-13-2343 ([1bf15de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-2343))
 
 * NPCs get proper sleep ([#89056](https://github.com/CleverRaven/Cataclysm-DDA/pull/89056))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-13-1217 ([da6e7b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-13-1217))
-
 * wound improvements ([#89033](https://github.com/CleverRaven/Cataclysm-DDA/pull/89033))
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
@@ -225,7 +227,5 @@
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
 * Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
-* remove two nonsensical frame recipes ([#88926](https://github.com/CleverRaven/Cataclysm-DDA/pull/88926))
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
 * add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
-* spawn newspaper in floor trash ([#88927](https://github.com/CleverRaven/Cataclysm-DDA/pull/88927))

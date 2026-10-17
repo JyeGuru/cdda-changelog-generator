@@ -1,3 +1,7 @@
+* Aftershock: Screen mirrors can display messages (#89111)
+
+Cataclysm-DDA experimental build 2026-10-17-0022 (47fd30c)
+* threads do have price (#89114)
 
 Cataclysm-DDA experimental build 2026-10-16-1900 (9da8cce)
 * Butchering tips (#89109)
@@ -89,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-14-0048 (09316dc)
 
 Cataclysm-DDA experimental build 2026-10-13-2343 (1bf15de)
 * NPCs get proper sleep (#89056)
-
-Cataclysm-DDA experimental build 2026-10-13-1217 (da6e7b4)
 * wound improvements (#89033)
 * Fix #89035 Flying Creatures Leaving Bloody Footprints (#89044)
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality (#89039)
@@ -144,7 +146,5 @@ Cataclysm-DDA experimental build 2026-10-13-1217 (da6e7b4)
 * Boost scarlet sea lighting (#88952)
 * Fix crash with wheel<->corpse gibbing use-after-free (#88946)
 * Entrances to labyrinth in the portal storm dungeon (#88935)
-* remove two nonsensical frame recipes (#88926)
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. (#88934)
 * add sticks, leaves, feldspar to forest trash (#88928)
-* spawn newspaper in floor trash (#88927)
