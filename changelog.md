@@ -196,7 +196,6 @@
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
 * Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
-* restore old number of rations in evac shelter cabinet ([#88930](https://github.com/CleverRaven/Cataclysm-DDA/pull/88930))
 * You kill it; they own it ([#88949](https://github.com/CleverRaven/Cataclysm-DDA/pull/88949))
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
@@ -228,4 +227,3 @@
 * Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
 * Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
 * Creeks no longer contain exclusively pristine and perfectly straight sticks. ([#88934](https://github.com/CleverRaven/Cataclysm-DDA/pull/88934))
-* add sticks, leaves, feldspar to forest trash ([#88928](https://github.com/CleverRaven/Cataclysm-DDA/pull/88928))
