@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-17-1414 ([dba01b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1414))
+
+* Integrate menstrual pad with its sterile bag ([#89101](https://github.com/CleverRaven/Cataclysm-DDA/pull/89101))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-17-0119 ([d29db9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-0119))
 
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
@@ -105,7 +111,6 @@
 
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
-* more trash on forest trails ([#88931](https://github.com/CleverRaven/Cataclysm-DDA/pull/88931))
 * Scenarios are now divided into separate difficulty categories ([#88947](https://github.com/CleverRaven/Cataclysm-DDA/pull/88947))
 
 ---
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-10-14-0341 ([55f57e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0341))
 
 * fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-0048 ([09316dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0048))
-
 * Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
 * [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
 * Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
