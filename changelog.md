@@ -1,6 +1,30 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-18-0359 ([0d8843f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0359))
+
+* Sanify Powdered Coffee ([#89080](https://github.com/CleverRaven/Cataclysm-DDA/pull/89080))
+* fix dremel not being included in workshop station ([#89110](https://github.com/CleverRaven/Cataclysm-DDA/pull/89110))
+* Display NPCs' current activity when examining ([#89122](https://github.com/CleverRaven/Cataclysm-DDA/pull/89122))
+* Reduce sizeof(item) by 5% ([#89100](https://github.com/CleverRaven/Cataclysm-DDA/pull/89100))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-18-0302 ([60c56a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0302))
+
+* break craft_activity_actor into smaller private functions ([#89102](https://github.com/CleverRaven/Cataclysm-DDA/pull/89102))
+* More consistent names and crafting times for makeshift ballistic plates ([#89119](https://github.com/CleverRaven/Cataclysm-DDA/pull/89119))
+* Fix camp drop hammer only allowing one anvil type ([#89116](https://github.com/CleverRaven/Cataclysm-DDA/pull/89116))
+* Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-18-0207 ([e472ecf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0207))
+
+* Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-17-1759 ([52b4787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1759))
 
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
@@ -117,7 +141,6 @@
 
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
-* Scenarios are now divided into separate difficulty categories ([#88947](https://github.com/CleverRaven/Cataclysm-DDA/pull/88947))
 
 ---
 
@@ -158,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-10-14-1530 ([052ddfc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1530))
 
 * Fix non-character vitamin drain for star vampire bite ([#89068](https://github.com/CleverRaven/Cataclysm-DDA/pull/89068))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-1432 ([9a82cdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1432))
-
 * Update price of instant coffee mix ([#89048](https://github.com/CleverRaven/Cataclysm-DDA/pull/89048))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-0706 ([62981aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-0706))
-
 * Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
 * fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
 * Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
@@ -197,7 +210,6 @@
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
 * Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
-* You kill it; they own it ([#88949](https://github.com/CleverRaven/Cataclysm-DDA/pull/88949))
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
 * wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
@@ -208,7 +220,6 @@
 * Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
-* Fix error with templated NPC portraits ([#88945](https://github.com/CleverRaven/Cataclysm-DDA/pull/88945))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
 * Mainline CBM slots and obsolete the mod ([#88956](https://github.com/CleverRaven/Cataclysm-DDA/pull/88956))
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
@@ -217,13 +228,6 @@
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
-* Add more trauma ([#88950](https://github.com/CleverRaven/Cataclysm-DDA/pull/88950))
 * Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
-* Fix pseudo-exit of portal dungeon ([#88938](https://github.com/CleverRaven/Cataclysm-DDA/pull/88938))
-* Refactor visibility caches ([#88942](https://github.com/CleverRaven/Cataclysm-DDA/pull/88942))
-* Dim the wall lights ([#88944](https://github.com/CleverRaven/Cataclysm-DDA/pull/88944))
-* Fix traps with practice 2 being free to place ([#88951](https://github.com/CleverRaven/Cataclysm-DDA/pull/88951))
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
 * Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
-* Fix crash with wheel<->corpse gibbing use-after-free ([#88946](https://github.com/CleverRaven/Cataclysm-DDA/pull/88946))
-* Entrances to labyrinth in the portal storm dungeon ([#88935](https://github.com/CleverRaven/Cataclysm-DDA/pull/88935))
