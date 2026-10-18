@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-18-0950 (b4c2487)
+* Stop Berserk from locking up between two foes (#89104)
+
 Cataclysm-DDA experimental build 2026-10-18-0359 (0d8843f)
 * Sanify Powdered Coffee (#89080)
 * fix dremel not being included in workshop station (#89110)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-10-14-2322 (249d50c)
 
 Cataclysm-DDA experimental build 2026-10-14-1731 (ef31b1f)
 * Balthazar bunker bunker update EOC fixes (#89070)
-
-Cataclysm-DDA experimental build 2026-10-14-1530 (052ddfc)
 * Fix non-character vitamin drain for star vampire bite (#89068)
 * Update price of instant coffee mix (#89048)
 * Fix Creatures In Vehicles Leaving Blood Footprints (#89054)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-10-14-1530 (052ddfc)
 * Interdimensional teleportation has bad side effects (#88961)
 * Remove lumbermill riot damage (#88957)
 * Remove a typo in the mapgen docs (#88962)
-* Boost scarlet sea lighting (#88952)

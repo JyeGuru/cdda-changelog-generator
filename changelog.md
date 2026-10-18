@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-18-0950 ([b4c2487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0950))
+
+* Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-18-0359 ([0d8843f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0359))
 
 * Sanify Powdered Coffee ([#89080](https://github.com/CleverRaven/Cataclysm-DDA/pull/89080))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2026-10-14-1731 ([ef31b1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1731))
 
 * Balthazar bunker bunker update EOC fixes ([#89070](https://github.com/CleverRaven/Cataclysm-DDA/pull/89070))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-1530 ([052ddfc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1530))
-
 * Fix non-character vitamin drain for star vampire bite ([#89068](https://github.com/CleverRaven/Cataclysm-DDA/pull/89068))
 * Update price of instant coffee mix ([#89048](https://github.com/CleverRaven/Cataclysm-DDA/pull/89048))
 * Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
@@ -230,4 +231,3 @@
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
 * Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
-* Boost scarlet sea lighting ([#88952](https://github.com/CleverRaven/Cataclysm-DDA/pull/88952))
