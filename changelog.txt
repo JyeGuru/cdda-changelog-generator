@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-10-18-1709 (cd650cf)
+* Fix Light Industry camp drop hammer not working for crafting (#89148)
+
+Cataclysm-DDA experimental build 2026-10-18-1614 (4d8c765)
+* Fix stomach (#89137)
+
 Cataclysm-DDA experimental build 2026-10-18-0950 (b4c2487)
 * Stop Berserk from locking up between two foes (#89104)
 
@@ -91,11 +97,7 @@ Cataclysm-DDA experimental build 2026-10-15-0008 (853418e)
 * Aftershock: Pirate faction & Integrate them with  Smuggler scenario (#89046)
 * [SkyIsland] Allow merchant stall to be constructed without the bunker entrance (#89065)
 * fix is_underwater condition, add and expose is_swimming (#89053)
-
-Cataclysm-DDA experimental build 2026-10-14-2322 (249d50c)
 * Fix misplaced window in home improvement store. (#89076)
-
-Cataclysm-DDA experimental build 2026-10-14-1731 (ef31b1f)
 * Balthazar bunker bunker update EOC fixes (#89070)
 * Fix non-character vitamin drain for star vampire bite (#89068)
 * Update price of instant coffee mix (#89048)
@@ -138,11 +140,9 @@ Cataclysm-DDA experimental build 2026-10-14-1731 (ef31b1f)
 * Fix red mp3 player (again) (#88978)
 * Android bells and whistles (#88977)
 * Update megacity starts (#88975)
-* Mainline CBM slots and obsolete the mod (#88956)
 * [SkyIsland] Minor Sky Island Fixes (#88976)
 * Remove mil_surplus itemgroup (#88958)
 * [Hunvre] Give Hunvre it's own vacuum (#88966)
 * Increase uniqueness of artifact books (#88964)
 * Interdimensional teleportation has bad side effects (#88961)
-* Remove lumbermill riot damage (#88957)
 * Remove a typo in the mapgen docs (#88962)

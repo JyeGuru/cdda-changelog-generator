@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-18-1709 ([cd650cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1709))
+
+* Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-18-1614 ([4d8c765](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1614))
+
+* Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-18-0950 ([b4c2487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0950))
 
 * Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
@@ -169,17 +181,7 @@
 * Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
 * [SkyIsland] Allow merchant stall to be constructed without the bunker entrance ([#89065](https://github.com/CleverRaven/Cataclysm-DDA/pull/89065))
 * fix is_underwater condition, add and expose is_swimming ([#89053](https://github.com/CleverRaven/Cataclysm-DDA/pull/89053))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-2322 ([249d50c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-2322))
-
 * Fix misplaced window in home improvement store. ([#89076](https://github.com/CleverRaven/Cataclysm-DDA/pull/89076))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-14-1731 ([ef31b1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-14-1731))
-
 * Balthazar bunker bunker update EOC fixes ([#89070](https://github.com/CleverRaven/Cataclysm-DDA/pull/89070))
 * Fix non-character vitamin drain for star vampire bite ([#89068](https://github.com/CleverRaven/Cataclysm-DDA/pull/89068))
 * Update price of instant coffee mix ([#89048](https://github.com/CleverRaven/Cataclysm-DDA/pull/89048))
@@ -222,11 +224,9 @@
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
-* Mainline CBM slots and obsolete the mod ([#88956](https://github.com/CleverRaven/Cataclysm-DDA/pull/88956))
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
 * Remove mil_surplus itemgroup ([#88958](https://github.com/CleverRaven/Cataclysm-DDA/pull/88958))
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
-* Remove lumbermill riot damage ([#88957](https://github.com/CleverRaven/Cataclysm-DDA/pull/88957))
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
