@@ -224,7 +224,6 @@
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
 * Mainline CBM slots and obsolete the mod ([#88956](https://github.com/CleverRaven/Cataclysm-DDA/pull/88956))
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
-* Fix house_w_3 bathroom ([#88955](https://github.com/CleverRaven/Cataclysm-DDA/pull/88955))
 * Remove mil_surplus itemgroup ([#88958](https://github.com/CleverRaven/Cataclysm-DDA/pull/88958))
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
