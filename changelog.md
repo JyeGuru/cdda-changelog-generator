@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-18-2151 ([bf02322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-2151))
+
+* adjust price of 12 gauge shots ([#89144](https://github.com/CleverRaven/Cataclysm-DDA/pull/89144))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-18-2106 ([7e5e453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-2106))
+
+* buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-18-1709 ([cd650cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1709))
 
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
@@ -165,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-10-15-0346 ([d454760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0346))
 
 * Fix bleach not spawning ([#89031](https://github.com/CleverRaven/Cataclysm-DDA/pull/89031))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-0110 ([8eb2c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0110))
-
 * Inherit faults when crafting ([#89015](https://github.com/CleverRaven/Cataclysm-DDA/pull/89015))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-0008 ([853418e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0008))
-
 * Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
 * Weekly Changelog 2026-10-05 to 2026-10-12 ([#89026](https://github.com/CleverRaven/Cataclysm-DDA/pull/89026))
 * Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
@@ -216,7 +218,6 @@
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
 * wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
-* Add rebar into construction palettes ([#88960](https://github.com/CleverRaven/Cataclysm-DDA/pull/88960))
 * Build your own sandwich ([#88979](https://github.com/CleverRaven/Cataclysm-DDA/pull/88979))
 * add electric rocks to radiosphere ([#88984](https://github.com/CleverRaven/Cataclysm-DDA/pull/88984))
 * First portal storm dungeon fragment of reality message is a popup ([#88989](https://github.com/CleverRaven/Cataclysm-DDA/pull/88989))
@@ -225,7 +226,6 @@
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
-* Remove mil_surplus itemgroup ([#88958](https://github.com/CleverRaven/Cataclysm-DDA/pull/88958))
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
 * Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
