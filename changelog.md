@@ -1,3 +1,19 @@
+* [CR] Fungal infection and antifungal effects from C++ to EOC ([#89078](https://github.com/CleverRaven/Cataclysm-DDA/pull/89078))
+* Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
+* [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
+* cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-19-0440 ([e6a6449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0440))
+
+* Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-19-0128 ([ee3de80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0128))
+
+* improve craft and disassembly interactions ([#89132](https://github.com/CleverRaven/Cataclysm-DDA/pull/89132))
 
 ---
 
@@ -170,11 +186,6 @@
 #### Cataclysm-DDA experimental Android bundle 2026-10-15-0631 ([27de780](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-aab-bundle-2026-10-15-0631))
 
 * make zombies able to move through guardrails ([#89049](https://github.com/CleverRaven/Cataclysm-DDA/pull/89049))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-0433 ([7c38b59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0433))
-
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
 * Fix bleach not spawning ([#89031](https://github.com/CleverRaven/Cataclysm-DDA/pull/89031))
@@ -208,7 +219,6 @@
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
 * Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
 * refactor callers of all_items_loc ([#88998](https://github.com/CleverRaven/Cataclysm-DDA/pull/88998))
-* Add car charging stations ([#88963](https://github.com/CleverRaven/Cataclysm-DDA/pull/88963))
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
 * Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 * Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
@@ -227,6 +237,3 @@
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
 * Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
-* [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
-* Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
-* Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
