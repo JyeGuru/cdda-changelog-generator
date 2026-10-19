@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-19-0834 ([bb52239](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0834))
+
+* [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-19-0747 ([9b012e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0747))
+
+* Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-19-0536 ([ec32143](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0536))
+
 * [CR] Fungal infection and antifungal effects from C++ to EOC ([#89078](https://github.com/CleverRaven/Cataclysm-DDA/pull/89078))
 * Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
@@ -161,24 +178,9 @@
 #### Cataclysm-DDA experimental build 2026-10-16-0036 ([46fb823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0036))
 
 * Update seasoning condition to check for allergies directly ([#89082](https://github.com/CleverRaven/Cataclysm-DDA/pull/89082))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-2346 ([94060cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-2346))
-
 * 'Work on Craft or Disassembly' menus compare primary skill ([#89081](https://github.com/CleverRaven/Cataclysm-DDA/pull/89081))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-2245 ([df01902](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-2245))
-
 * [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
 * Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-2132 ([492f58d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-2132))
-
 * Adjust Wasteland Scavengers faction area claim ([#89083](https://github.com/CleverRaven/Cataclysm-DDA/pull/89083))
 
 ---
@@ -235,5 +237,3 @@
 * Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
 * Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
 * Android bells and whistles ([#88977](https://github.com/CleverRaven/Cataclysm-DDA/pull/88977))
-* Update megacity starts ([#88975](https://github.com/CleverRaven/Cataclysm-DDA/pull/88975))
-* [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))

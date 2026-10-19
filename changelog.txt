@@ -1,3 +1,11 @@
+
+Cataclysm-DDA experimental build 2026-10-19-0834 (bb52239)
+* [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind (#89163)
+
+Cataclysm-DDA experimental build 2026-10-19-0747 (9b012e0)
+* Weekly Changelog 2026-10-12 to 2026-10-19 (#89164)
+
+Cataclysm-DDA experimental build 2026-10-19-0536 (ec32143)
 * [CR] Fungal infection and antifungal effects from C++ to EOC (#89078)
 * Fix a handful of NPC camp and crafting bugs (#89128)
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations (#89161)
@@ -86,15 +94,9 @@ Cataclysm-DDA experimental build 2026-10-16-0158 (71c1aee)
 
 Cataclysm-DDA experimental build 2026-10-16-0036 (46fb823)
 * Update seasoning condition to check for allergies directly (#89082)
-
-Cataclysm-DDA experimental build 2026-10-15-2346 (94060cc)
 * 'Work on Craft or Disassembly' menus compare primary skill (#89081)
-
-Cataclysm-DDA experimental build 2026-10-15-2245 (df01902)
 * [MoM] PLASTIC flag also applies to telekinetic damage  (#89088)
 * Remove riot damage from survivor bunkers (#89093)
-
-Cataclysm-DDA experimental build 2026-10-15-2132 (492f58d)
 * Adjust Wasteland Scavengers faction area claim (#89083)
 
 Cataclysm-DDA experimental Android bundle 2026-10-15-0631 (27de780)
@@ -148,5 +150,3 @@ Cataclysm-DDA experimental Android bundle 2026-10-15-0631 (27de780)
 * Add clause prohibiting LLM use and advocacy to code of conduct (#88990)
 * Fix red mp3 player (again) (#88978)
 * Android bells and whistles (#88977)
-* Update megacity starts (#88975)
-* [SkyIsland] Minor Sky Island Fixes (#88976)
