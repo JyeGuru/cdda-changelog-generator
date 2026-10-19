@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-19-1819 ([ea88344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-1819))
+
+* Add multifuel diesel engine ([#89009](https://github.com/CleverRaven/Cataclysm-DDA/pull/89009))
+* Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-19-1734 ([af0d17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-1734))
+
+* cut wounds! ([#88985](https://github.com/CleverRaven/Cataclysm-DDA/pull/88985))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-19-0834 ([bb52239](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0834))
 
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
@@ -172,21 +185,11 @@
 #### Cataclysm-DDA experimental build 2026-10-16-0158 ([71c1aee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0158))
 
 * [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-0036 ([46fb823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0036))
-
 * Update seasoning condition to check for allergies directly ([#89082](https://github.com/CleverRaven/Cataclysm-DDA/pull/89082))
 * 'Work on Craft or Disassembly' menus compare primary skill ([#89081](https://github.com/CleverRaven/Cataclysm-DDA/pull/89081))
 * [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
 * Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
 * Adjust Wasteland Scavengers faction area claim ([#89083](https://github.com/CleverRaven/Cataclysm-DDA/pull/89083))
-
----
-
-#### Cataclysm-DDA experimental Android bundle 2026-10-15-0631 ([27de780](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-aab-bundle-2026-10-15-0631))
-
 * make zombies able to move through guardrails ([#89049](https://github.com/CleverRaven/Cataclysm-DDA/pull/89049))
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
@@ -231,8 +234,5 @@
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
 * wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
-* Build your own sandwich ([#88979](https://github.com/CleverRaven/Cataclysm-DDA/pull/88979))
-* add electric rocks to radiosphere ([#88984](https://github.com/CleverRaven/Cataclysm-DDA/pull/88984))
 * First portal storm dungeon fragment of reality message is a popup ([#88989](https://github.com/CleverRaven/Cataclysm-DDA/pull/88989))
 * Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
-* Fix red mp3 player (again) ([#88978](https://github.com/CleverRaven/Cataclysm-DDA/pull/88978))
