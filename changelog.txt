@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-19-0007 (138e141)
+* Accept solar panel arrays in radio tower recipes (#89152)
+
 Cataclysm-DDA experimental build 2026-10-18-2151 (bf02322)
 * adjust price of 12 gauge shots (#89144)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental Android bundle 2026-10-15-0631 (27de780)
 Cataclysm-DDA experimental build 2026-10-15-0433 (7c38b59)
 * make portable portal unusable in portal storm dungeon (#89072)
 * Give Stormwrought: Manatouched same restrictions as rest of them (#89063)
-
-Cataclysm-DDA experimental build 2026-10-15-0346 (d454760)
 * Fix bleach not spawning (#89031)
 * Inherit faults when crafting (#89015)
 * Plastic-Shopping-bags-are-open-containers (#89069)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2026-10-15-0346 (d454760)
 * [SkyIsland] Minor Sky Island Fixes (#88976)
 * [Hunvre] Give Hunvre it's own vacuum (#88966)
 * Increase uniqueness of artifact books (#88964)
-* Interdimensional teleportation has bad side effects (#88961)
 * Remove a typo in the mapgen docs (#88962)

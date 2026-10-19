@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-19-0007 ([138e141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0007))
+
+* Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-18-2151 ([bf02322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-2151))
 
 * adjust price of 12 gauge shots ([#89144](https://github.com/CleverRaven/Cataclysm-DDA/pull/89144))
@@ -171,11 +177,6 @@
 
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-15-0346 ([d454760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-15-0346))
-
 * Fix bleach not spawning ([#89031](https://github.com/CleverRaven/Cataclysm-DDA/pull/89031))
 * Inherit faults when crafting ([#89015](https://github.com/CleverRaven/Cataclysm-DDA/pull/89015))
 * Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
@@ -228,5 +229,4 @@
 * [SkyIsland] Minor Sky Island Fixes ([#88976](https://github.com/CleverRaven/Cataclysm-DDA/pull/88976))
 * [Hunvre] Give Hunvre it's own vacuum ([#88966](https://github.com/CleverRaven/Cataclysm-DDA/pull/88966))
 * Increase uniqueness of artifact books ([#88964](https://github.com/CleverRaven/Cataclysm-DDA/pull/88964))
-* Interdimensional teleportation has bad side effects ([#88961](https://github.com/CleverRaven/Cataclysm-DDA/pull/88961))
 * Remove a typo in the mapgen docs ([#88962](https://github.com/CleverRaven/Cataclysm-DDA/pull/88962))
