@@ -1,16 +1,16 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-19-2149 ([9d42bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-2149))
+
+* No more random fungal infections ([#89168](https://github.com/CleverRaven/Cataclysm-DDA/pull/89168))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-19-1819 ([ea88344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-1819))
 
 * Add multifuel diesel engine ([#89009](https://github.com/CleverRaven/Cataclysm-DDA/pull/89009))
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-1734 ([af0d17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-1734))
-
-* cut wounds! ([#88985](https://github.com/CleverRaven/Cataclysm-DDA/pull/88985))
 
 ---
 
@@ -179,11 +179,6 @@
 
 * [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
 * Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-0158 ([71c1aee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0158))
-
 * [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
 * Update seasoning condition to check for allergies directly ([#89082](https://github.com/CleverRaven/Cataclysm-DDA/pull/89082))
 * 'Work on Craft or Disassembly' menus compare primary skill ([#89081](https://github.com/CleverRaven/Cataclysm-DDA/pull/89081))

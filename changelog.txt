@@ -1,10 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-10-19-2149 (9d42bf0)
+* No more random fungal infections (#89168)
+
 Cataclysm-DDA experimental build 2026-10-19-1819 (ea88344)
 * Add multifuel diesel engine (#89009)
 * Aftershock: Color Spaceport lights (#89167)
-
-Cataclysm-DDA experimental build 2026-10-19-1734 (af0d17f)
-* cut wounds! (#88985)
 
 Cataclysm-DDA experimental build 2026-10-19-0834 (bb52239)
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind (#89163)
@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2026-10-16-0406 (c45b948)
 Cataclysm-DDA experimental build 2026-10-16-0241 (14cccd1)
 * [Innawood] Filter Mask is now auto-learned (#89091)
 * Update fence constructions and bash results (#89098)
-
-Cataclysm-DDA experimental build 2026-10-16-0158 (71c1aee)
 * [XedraWood] Hollow One updates (#89094)
 * Update seasoning condition to check for allergies directly (#89082)
 * 'Work on Craft or Disassembly' menus compare primary skill (#89081)
