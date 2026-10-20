@@ -1,3 +1,4 @@
+* Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
 
 ---
 
@@ -225,4 +226,3 @@
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
 * Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
-* Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
