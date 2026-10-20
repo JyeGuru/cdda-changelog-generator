@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-20-1027 ([bd94c7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-20-1027))
+
 * Naming cracklins ([#89160](https://github.com/CleverRaven/Cataclysm-DDA/pull/89160))
 * Some additional cbms that can't be removed ([#89165](https://github.com/CleverRaven/Cataclysm-DDA/pull/89165))
 
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-10-16-0642 ([820a046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0642))
 
 * charge chem_black_powder back ([#89052](https://github.com/CleverRaven/Cataclysm-DDA/pull/89052))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-0510 ([591f5dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0510))
-
 * put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
 * Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))

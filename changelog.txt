@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-10-20-1027 (bd94c7a)
 * Naming cracklins (#89160)
 * Some additional cbms that can't be removed (#89165)
 
@@ -91,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-16-1201 (1c72420)
 
 Cataclysm-DDA experimental build 2026-10-16-0642 (820a046)
 * charge chem_black_powder back (#89052)
-
-Cataclysm-DDA experimental build 2026-10-16-0510 (591f5dc)
 * put threads in spool (#89074)
 * Add medium boxes with garbage bags in (#89092)
 * Increase items in unlooted farm supply store (#89090)
