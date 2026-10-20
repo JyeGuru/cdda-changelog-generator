@@ -1,3 +1,11 @@
+* Naming cracklins ([#89160](https://github.com/CleverRaven/Cataclysm-DDA/pull/89160))
+* Some additional cbms that can't be removed ([#89165](https://github.com/CleverRaven/Cataclysm-DDA/pull/89165))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-20-0942 ([ee5f9e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-20-0942))
+
+* Update wire price ([#89177](https://github.com/CleverRaven/Cataclysm-DDA/pull/89177))
 
 ---
 
@@ -172,11 +180,6 @@
 * put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
 * Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-0406 ([c45b948](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0406))
-
 * Finish all items loc ([#89019](https://github.com/CleverRaven/Cataclysm-DDA/pull/89019))
 * [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
 * Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
@@ -228,6 +231,3 @@
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
 * Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
-* remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
-* wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
-* Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
