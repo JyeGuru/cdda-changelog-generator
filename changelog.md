@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-20-0156 ([479c532](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-20-0156))
+
+* Revert vehicle cargo sizes to sane values (2) ([#89176](https://github.com/CleverRaven/Cataclysm-DDA/pull/89176))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-19-2149 ([9d42bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-2149))
 
 * No more random fungal infections ([#89168](https://github.com/CleverRaven/Cataclysm-DDA/pull/89168))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-10-16-0406 ([c45b948](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0406))
 
 * Finish all items loc ([#89019](https://github.com/CleverRaven/Cataclysm-DDA/pull/89019))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-0241 ([14cccd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0241))
-
 * [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
 * Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
 * [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
@@ -229,5 +230,4 @@
 * Speed up the repair and construction menus near large item piles ([#88995](https://github.com/CleverRaven/Cataclysm-DDA/pull/88995))
 * remove dead code - set_item_defaults() ([#88992](https://github.com/CleverRaven/Cataclysm-DDA/pull/88992))
 * wound flag checks support arrays ([#88991](https://github.com/CleverRaven/Cataclysm-DDA/pull/88991))
-* First portal storm dungeon fragment of reality message is a popup ([#88989](https://github.com/CleverRaven/Cataclysm-DDA/pull/88989))
 * Add clause prohibiting LLM use and advocacy to code of conduct ([#88990](https://github.com/CleverRaven/Cataclysm-DDA/pull/88990))
