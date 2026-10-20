@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2026-10-16-1303 (fd4399e)
 
 Cataclysm-DDA experimental build 2026-10-16-1201 (1c72420)
 * Add the swirling vortex, a new nether monster (#89084)
-
-Cataclysm-DDA experimental build 2026-10-16-0642 (820a046)
 * charge chem_black_powder back (#89052)
 * put threads in spool (#89074)
 * Add medium boxes with garbage bags in (#89092)

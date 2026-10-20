@@ -171,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-10-16-1201 ([1c72420](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1201))
 
 * Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-0642 ([820a046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-0642))
-
 * charge chem_black_powder back ([#89052](https://github.com/CleverRaven/Cataclysm-DDA/pull/89052))
 * put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
