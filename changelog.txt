@@ -1,3 +1,10 @@
+* Aftershock: More natural ravine floors.  (#89200)
+
+Cataclysm-DDA experimental build 2026-10-21-1113 (8dcca2c)
+* Camping itemgroup tweaks (#89181)
+
+Cataclysm-DDA experimental build 2026-10-21-1028 (7a77ea2)
+* Switch hub from likes_u=-200, to likes_u=0 + kill on sight (#89193)
 
 Cataclysm-DDA experimental build 2026-10-21-0931 (ac89899)
 * Aftershock Minor bug fixing (#89199)
@@ -82,14 +89,8 @@ Cataclysm-DDA experimental build 2026-10-17-1414 (dba01b0)
 
 Cataclysm-DDA experimental build 2026-10-17-0119 (d29db9c)
 * Aftershock: Screen mirrors can display messages (#89111)
-
-Cataclysm-DDA experimental build 2026-10-17-0022 (47fd30c)
 * threads do have price (#89114)
-
-Cataclysm-DDA experimental build 2026-10-16-1900 (9da8cce)
 * Butchering tips (#89109)
-
-Cataclysm-DDA experimental build 2026-10-16-1414 (c44ca63)
 * redo requirement loading for wound and fault fixes to support copy-from (#89060)
 * Add more cars to highways (#89095)
 * Add the swirling vortex, a new nether monster (#89084)
@@ -142,6 +143,3 @@ Cataclysm-DDA experimental build 2026-10-16-1414 (c44ca63)
 * Fix requirements for Isherwood rescue prep sidequests (#89012)
 * Benchtop centrifuge (#89007)
 * Sanitized Hydration Packs (#89011)
-* Bloody Footprints (#89004)
-* change variables in tests to not be shadowing #defines (#89002)
-* fix bionic loading typo (#89001)

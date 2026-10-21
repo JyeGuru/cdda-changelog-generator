@@ -1,3 +1,16 @@
+* Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-1113 ([8dcca2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1113))
+
+* Camping itemgroup tweaks ([#89181](https://github.com/CleverRaven/Cataclysm-DDA/pull/89181))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-1028 ([7a77ea2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1028))
+
+* Switch hub from likes_u=-200, to likes_u=0 + kill on sight ([#89193](https://github.com/CleverRaven/Cataclysm-DDA/pull/89193))
 
 ---
 
@@ -154,23 +167,8 @@
 #### Cataclysm-DDA experimental build 2026-10-17-0119 ([d29db9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-0119))
 
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-17-0022 ([47fd30c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-0022))
-
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-1900 ([9da8cce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1900))
-
 * Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-1414 ([c44ca63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1414))
-
 * redo requirement loading for wound and fault fixes to support copy-from ([#89060](https://github.com/CleverRaven/Cataclysm-DDA/pull/89060))
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
 * Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
@@ -223,6 +221,3 @@
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
 * Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 * Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
-* Bloody Footprints ([#89004](https://github.com/CleverRaven/Cataclysm-DDA/pull/89004))
-* change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
-* fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
