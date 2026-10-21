@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2026-10-21-0038 (4d87d49)
+* [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message (#89187)
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version (#89191)
 
 Cataclysm-DDA experimental build 2026-10-20-1027 (bd94c7a)
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2026-10-16-1414 (c44ca63)
 
 Cataclysm-DDA experimental build 2026-10-16-1303 (fd4399e)
 * Add more cars to highways (#89095)
-
-Cataclysm-DDA experimental build 2026-10-16-1201 (1c72420)
 * Add the swirling vortex, a new nether monster (#89084)
 * charge chem_black_powder back (#89052)
 * put threads in spool (#89074)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2026-10-16-1201 (1c72420)
 * Bloody Footprints (#89004)
 * change variables in tests to not be shadowing #defines (#89002)
 * fix bionic loading typo (#89001)
-* Fix user fonts.json being reset on every launch (#88996)

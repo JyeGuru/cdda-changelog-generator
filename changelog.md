@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-0038 ([4d87d49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-0038))
+
+* [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
 
 ---
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-10-16-1303 ([fd4399e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1303))
 
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-1201 ([1c72420](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1201))
-
 * Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
 * charge chem_black_powder back ([#89052](https://github.com/CleverRaven/Cataclysm-DDA/pull/89052))
 * put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
@@ -225,4 +226,3 @@
 * Bloody Footprints ([#89004](https://github.com/CleverRaven/Cataclysm-DDA/pull/89004))
 * change variables in tests to not be shadowing #defines ([#89002](https://github.com/CleverRaven/Cataclysm-DDA/pull/89002))
 * fix bionic loading typo ([#89001](https://github.com/CleverRaven/Cataclysm-DDA/pull/89001))
-* Fix user fonts.json being reset on every launch ([#88996](https://github.com/CleverRaven/Cataclysm-DDA/pull/88996))
