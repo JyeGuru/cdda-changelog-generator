@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-1942 ([4941a55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1942))
+
+* typo fix ([#89186](https://github.com/CleverRaven/Cataclysm-DDA/pull/89186))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
 
 ---
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-10-17-1759 ([52b4787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1759))
 
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-17-1414 ([dba01b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1414))
-
 * Integrate menstrual pad with its sterile bag ([#89101](https://github.com/CleverRaven/Cataclysm-DDA/pull/89101))
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
@@ -209,7 +210,6 @@
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
 * Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
 * Arachnid Limbs/Arms are now limbs ([#89025](https://github.com/CleverRaven/Cataclysm-DDA/pull/89025))
-* wounds can transform over time into another wounds ([#89010](https://github.com/CleverRaven/Cataclysm-DDA/pull/89010))
 * Pipe cleaner is not a skillful recipe ([#89018](https://github.com/CleverRaven/Cataclysm-DDA/pull/89018))
 * Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
