@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-21-0931 ([ac89899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-0931))
+
+* Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-21-0038 ([4d87d49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-0038))
 
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2026-10-16-1414 ([c44ca63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1414))
 
 * redo requirement loading for wound and fault fixes to support copy-from ([#89060](https://github.com/CleverRaven/Cataclysm-DDA/pull/89060))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-16-1303 ([fd4399e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-16-1303))
-
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
 * Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
 * charge chem_black_powder back ([#89052](https://github.com/CleverRaven/Cataclysm-DDA/pull/89052))
@@ -219,7 +220,6 @@
 * Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
 * Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
-* refactor callers of all_items_loc ([#88998](https://github.com/CleverRaven/Cataclysm-DDA/pull/88998))
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
 * Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 * Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
