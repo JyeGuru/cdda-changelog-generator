@@ -1,3 +1,10 @@
+* Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-1701 ([ceb31ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1701))
+
+* Clear debug_mode on a new character that is not a debug character ([#89185](https://github.com/CleverRaven/Cataclysm-DDA/pull/89185))
 * Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
 
 ---
@@ -49,12 +56,6 @@
 #### Cataclysm-DDA experimental build 2026-10-19-2149 ([9d42bf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-2149))
 
 * No more random fungal infections ([#89168](https://github.com/CleverRaven/Cataclysm-DDA/pull/89168))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-1819 ([ea88344](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-1819))
-
-* Add multifuel diesel engine ([#89009](https://github.com/CleverRaven/Cataclysm-DDA/pull/89009))
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
 
 ---
@@ -161,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2026-10-17-1414 ([dba01b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1414))
 
 * Integrate menstrual pad with its sterile bag ([#89101](https://github.com/CleverRaven/Cataclysm-DDA/pull/89101))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-17-0119 ([d29db9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-0119))
-
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
 * Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
@@ -219,5 +215,4 @@
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
 * Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
 * Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
-* Benchtop centrifuge ([#89007](https://github.com/CleverRaven/Cataclysm-DDA/pull/89007))
 * Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))

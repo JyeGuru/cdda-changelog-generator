@@ -1,3 +1,7 @@
+* Pin astyle-code and style-code jobs that run astyle to ubuntu 24 (#89204)
+
+Cataclysm-DDA experimental build 2026-10-21-1701 (ceb31ab)
+* Clear debug_mode on a new character that is not a debug character (#89185)
 * Aftershock: More natural ravine floors.  (#89200)
 
 Cataclysm-DDA experimental build 2026-10-21-1113 (8dcca2c)
@@ -25,9 +29,6 @@ Cataclysm-DDA experimental build 2026-10-20-0156 (479c532)
 
 Cataclysm-DDA experimental build 2026-10-19-2149 (9d42bf0)
 * No more random fungal infections (#89168)
-
-Cataclysm-DDA experimental build 2026-10-19-1819 (ea88344)
-* Add multifuel diesel engine (#89009)
 * Aftershock: Color Spaceport lights (#89167)
 
 Cataclysm-DDA experimental build 2026-10-19-0834 (bb52239)
@@ -86,8 +87,6 @@ Cataclysm-DDA experimental build 2026-10-17-1759 (52b4787)
 
 Cataclysm-DDA experimental build 2026-10-17-1414 (dba01b0)
 * Integrate menstrual pad with its sterile bag (#89101)
-
-Cataclysm-DDA experimental build 2026-10-17-0119 (d29db9c)
 * Aftershock: Screen mirrors can display messages (#89111)
 * threads do have price (#89114)
 * Butchering tips (#89109)
@@ -141,5 +140,4 @@ Cataclysm-DDA experimental build 2026-10-17-0119 (d29db9c)
 * Access to labyrinth safehouse in the transition between levels 1 and 2 (#89022)
 * Fix NPC self-care walks (#89017)
 * Fix requirements for Isherwood rescue prep sidequests (#89012)
-* Benchtop centrifuge (#89007)
 * Sanitized Hydration Packs (#89011)
