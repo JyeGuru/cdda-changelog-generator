@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-22-0244 ([566f0c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-0244))
+
+* crafting works properly when continuing craft on the ground ([#89175](https://github.com/CleverRaven/Cataclysm-DDA/pull/89175))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-22-0029 ([c15a5fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-0029))
+
 * Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
 
 ---
@@ -145,26 +156,11 @@
 #### Cataclysm-DDA experimental build 2026-10-18-1614 ([4d8c765](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1614))
 
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-0950 ([b4c2487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0950))
-
 * Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-0359 ([0d8843f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0359))
-
 * Sanify Powdered Coffee ([#89080](https://github.com/CleverRaven/Cataclysm-DDA/pull/89080))
 * fix dremel not being included in workshop station ([#89110](https://github.com/CleverRaven/Cataclysm-DDA/pull/89110))
 * Display NPCs' current activity when examining ([#89122](https://github.com/CleverRaven/Cataclysm-DDA/pull/89122))
 * Reduce sizeof(item) by 5% ([#89100](https://github.com/CleverRaven/Cataclysm-DDA/pull/89100))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-0302 ([60c56a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0302))
-
 * break craft_activity_actor into smaller private functions ([#89102](https://github.com/CleverRaven/Cataclysm-DDA/pull/89102))
 * More consistent names and crafting times for makeshift ballistic plates ([#89119](https://github.com/CleverRaven/Cataclysm-DDA/pull/89119))
 * Fix camp drop hammer only allowing one anvil type ([#89116](https://github.com/CleverRaven/Cataclysm-DDA/pull/89116))
@@ -218,6 +214,5 @@
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
 * Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
 * Arachnid Limbs/Arms are now limbs ([#89025](https://github.com/CleverRaven/Cataclysm-DDA/pull/89025))
-* Pipe cleaner is not a skillful recipe ([#89018](https://github.com/CleverRaven/Cataclysm-DDA/pull/89018))
 * Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
