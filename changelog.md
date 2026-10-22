@@ -1,3 +1,22 @@
+* Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-2346 ([31ea98f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2346))
+
+* fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-2255 ([f3516b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2255))
+
+* README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-21-2209 ([56e4a54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2209))
+
+* [ Xedra Evolved ] Dino Dave beloved child of Rat ([#89197](https://github.com/CleverRaven/Cataclysm-DDA/pull/89197))
 
 ---
 
@@ -150,17 +169,7 @@
 * More consistent names and crafting times for makeshift ballistic plates ([#89119](https://github.com/CleverRaven/Cataclysm-DDA/pull/89119))
 * Fix camp drop hammer only allowing one anvil type ([#89116](https://github.com/CleverRaven/Cataclysm-DDA/pull/89116))
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-0207 ([e472ecf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-0207))
-
 * Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-17-1759 ([52b4787](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-17-1759))
-
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
 * Integrate menstrual pad with its sterile bag ([#89101](https://github.com/CleverRaven/Cataclysm-DDA/pull/89101))
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
@@ -186,7 +195,6 @@
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
 * Fix bleach not spawning ([#89031](https://github.com/CleverRaven/Cataclysm-DDA/pull/89031))
-* Inherit faults when crafting ([#89015](https://github.com/CleverRaven/Cataclysm-DDA/pull/89015))
 * Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
 * Weekly Changelog 2026-10-05 to 2026-10-12 ([#89026](https://github.com/CleverRaven/Cataclysm-DDA/pull/89026))
 * Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
@@ -213,6 +221,3 @@
 * Pipe cleaner is not a skillful recipe ([#89018](https://github.com/CleverRaven/Cataclysm-DDA/pull/89018))
 * Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
 * Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
-* Fix NPC self-care walks ([#89017](https://github.com/CleverRaven/Cataclysm-DDA/pull/89017))
-* Fix requirements for Isherwood rescue prep sidequests ([#89012](https://github.com/CleverRaven/Cataclysm-DDA/pull/89012))
-* Sanitized Hydration Packs ([#89011](https://github.com/CleverRaven/Cataclysm-DDA/pull/89011))
