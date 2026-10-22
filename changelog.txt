@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-22-1939 (afe52ab)
+* Don't show body temp messages if just crossing warm/chilly treshold (#89215)
+
 Cataclysm-DDA experimental build 2026-10-22-0244 (566f0c0)
 * crafting works properly when continuing craft on the ground (#89175)
 
@@ -78,8 +81,6 @@ Cataclysm-DDA experimental build 2026-10-18-2106 (7e5e453)
 
 Cataclysm-DDA experimental build 2026-10-18-1709 (cd650cf)
 * Fix Light Industry camp drop hammer not working for crafting (#89148)
-
-Cataclysm-DDA experimental build 2026-10-18-1614 (4d8c765)
 * Fix stomach (#89137)
 * Stop Berserk from locking up between two foes (#89104)
 * Sanify Powdered Coffee (#89080)
@@ -103,7 +104,6 @@ Cataclysm-DDA experimental build 2026-10-18-1614 (4d8c765)
 * put threads in spool (#89074)
 * Add medium boxes with garbage bags in (#89092)
 * Increase items in unlooted farm supply store (#89090)
-* Finish all items loc (#89019)
 * [Innawood] Filter Mask is now auto-learned (#89091)
 * Update fence constructions and bash results (#89098)
 * [XedraWood] Hollow One updates (#89094)

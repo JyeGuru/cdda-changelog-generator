@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-22-1939 ([afe52ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-1939))
+
+* Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-22-0244 ([566f0c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-0244))
 
 * crafting works properly when continuing craft on the ground ([#89175](https://github.com/CleverRaven/Cataclysm-DDA/pull/89175))
@@ -150,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2026-10-18-1709 ([cd650cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1709))
 
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-1614 ([4d8c765](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1614))
-
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
 * Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
 * Sanify Powdered Coffee ([#89080](https://github.com/CleverRaven/Cataclysm-DDA/pull/89080))
@@ -178,7 +179,6 @@
 * put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
 * Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
-* Finish all items loc ([#89019](https://github.com/CleverRaven/Cataclysm-DDA/pull/89019))
 * [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
 * Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
 * [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
