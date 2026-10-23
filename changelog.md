@@ -1,6 +1,31 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-23-0443 ([4c24a2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0443))
+
+* Arachnid Arms clothing coverage ([#89096](https://github.com/CleverRaven/Cataclysm-DDA/pull/89096))
+* Allow starting a fire with an acetylene torch ([#89147](https://github.com/CleverRaven/Cataclysm-DDA/pull/89147))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-23-0349 ([8edda0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0349))
+
+* [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart ([#89174](https://github.com/CleverRaven/Cataclysm-DDA/pull/89174))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-23-0253 ([7b966a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0253))
+
+* add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-23-0158 ([bc7ed7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0158))
+
+* Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-22-1939 ([afe52ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-1939))
 
 * Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
@@ -132,29 +157,9 @@
 #### Cataclysm-DDA experimental build 2026-10-19-0128 ([ee3de80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0128))
 
 * improve craft and disassembly interactions ([#89132](https://github.com/CleverRaven/Cataclysm-DDA/pull/89132))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-0007 ([138e141](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0007))
-
 * Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-2151 ([bf02322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-2151))
-
 * adjust price of 12 gauge shots ([#89144](https://github.com/CleverRaven/Cataclysm-DDA/pull/89144))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-2106 ([7e5e453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-2106))
-
 * buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-18-1709 ([cd650cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-18-1709))
-
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
 * Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
@@ -210,9 +215,4 @@
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
 * NPCs weigh their needs against following and guarding ([#89028](https://github.com/CleverRaven/Cataclysm-DDA/pull/89028))
-* [alt-map-key] Add new overmap terrain ([#89024](https://github.com/CleverRaven/Cataclysm-DDA/pull/89024))
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
-* Fix Z level fragment of reality ([#89021](https://github.com/CleverRaven/Cataclysm-DDA/pull/89021))
-* Arachnid Limbs/Arms are now limbs ([#89025](https://github.com/CleverRaven/Cataclysm-DDA/pull/89025))
-* Fix crash in zone sort after loading a save ([#89020](https://github.com/CleverRaven/Cataclysm-DDA/pull/89020))
-* Access to labyrinth safehouse in the transition between levels 1 and 2 ([#89022](https://github.com/CleverRaven/Cataclysm-DDA/pull/89022))
