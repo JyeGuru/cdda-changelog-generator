@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-23-2353 ([a91f88c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-2353))
+
+* [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-23-1142 ([24937c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-1142))
 
 * I don't want to talk to you. ([#89113](https://github.com/CleverRaven/Cataclysm-DDA/pull/89113))
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2026-10-19-0747 ([9b012e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0747))
 
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-0536 ([ec32143](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0536))
-
 * [CR] Fungal infection and antifungal effects from C++ to EOC ([#89078](https://github.com/CleverRaven/Cataclysm-DDA/pull/89078))
 * Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
@@ -212,7 +213,6 @@
 * [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
 * Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
 * NPCs get proper sleep ([#89056](https://github.com/CleverRaven/Cataclysm-DDA/pull/89056))
-* wound improvements ([#89033](https://github.com/CleverRaven/Cataclysm-DDA/pull/89033))
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
