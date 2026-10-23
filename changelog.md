@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-23-0528 ([975a7fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0528))
+
+* Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
+* Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-23-0443 ([4c24a2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0443))
 
 * Arachnid Arms clothing coverage ([#89096](https://github.com/CleverRaven/Cataclysm-DDA/pull/89096))
@@ -151,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2026-10-19-0440 ([e6a6449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0440))
 
 * Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-0128 ([ee3de80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0128))
-
 * improve craft and disassembly interactions ([#89132](https://github.com/CleverRaven/Cataclysm-DDA/pull/89132))
 * Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
 * adjust price of 12 gauge shots ([#89144](https://github.com/CleverRaven/Cataclysm-DDA/pull/89144))
@@ -197,7 +199,6 @@
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
 * Fix bleach not spawning ([#89031](https://github.com/CleverRaven/Cataclysm-DDA/pull/89031))
 * Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
-* Weekly Changelog 2026-10-05 to 2026-10-12 ([#89026](https://github.com/CleverRaven/Cataclysm-DDA/pull/89026))
 * Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
 * [SkyIsland] Allow merchant stall to be constructed without the bunker entrance ([#89065](https://github.com/CleverRaven/Cataclysm-DDA/pull/89065))
 * fix is_underwater condition, add and expose is_swimming ([#89053](https://github.com/CleverRaven/Cataclysm-DDA/pull/89053))
@@ -214,5 +215,4 @@
 * wound improvements ([#89033](https://github.com/CleverRaven/Cataclysm-DDA/pull/89033))
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
-* NPCs weigh their needs against following and guarding ([#89028](https://github.com/CleverRaven/Cataclysm-DDA/pull/89028))
 * forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
