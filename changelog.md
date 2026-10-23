@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-23-1142 ([24937c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-1142))
+
+* I don't want to talk to you. ([#89113](https://github.com/CleverRaven/Cataclysm-DDA/pull/89113))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-23-0528 ([975a7fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0528))
 
 * Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
@@ -152,11 +158,6 @@
 * Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
 * cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-0440 ([e6a6449](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0440))
-
 * Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
 * improve craft and disassembly interactions ([#89132](https://github.com/CleverRaven/Cataclysm-DDA/pull/89132))
 * Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
@@ -197,7 +198,6 @@
 * make zombies able to move through guardrails ([#89049](https://github.com/CleverRaven/Cataclysm-DDA/pull/89049))
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
-* Fix bleach not spawning ([#89031](https://github.com/CleverRaven/Cataclysm-DDA/pull/89031))
 * Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
 * Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
 * [SkyIsland] Allow merchant stall to be constructed without the bunker entrance ([#89065](https://github.com/CleverRaven/Cataclysm-DDA/pull/89065))
