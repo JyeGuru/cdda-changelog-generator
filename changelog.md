@@ -1,3 +1,24 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-24-0623 ([c1d1d00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0623))
+
+* derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
+* Added steps to pie recipes and made unattended versions of them ([#89149](https://github.com/CleverRaven/Cataclysm-DDA/pull/89149))
+* obsolete earth autodocs/CBM spawns ([#89201](https://github.com/CleverRaven/Cataclysm-DDA/pull/89201))
+* Broken ravine pipes ([#89230](https://github.com/CleverRaven/Cataclysm-DDA/pull/89230))
+* Fix a bunch of NPC bugs ([#89231](https://github.com/CleverRaven/Cataclysm-DDA/pull/89231))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-24-0538 ([848d3a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0538))
+
+* reduce pain light scratches can give you ([#89245](https://github.com/CleverRaven/Cataclysm-DDA/pull/89245))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-24-0252 ([4733654](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0252))
+
 * fix typo in NPC_ranch_doctor dialogue ([#89234](https://github.com/CleverRaven/Cataclysm-DDA/pull/89234))
 
 ---
@@ -150,11 +171,6 @@
 
 * No more random fungal infections ([#89168](https://github.com/CleverRaven/Cataclysm-DDA/pull/89168))
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-0834 ([bb52239](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0834))
-
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
 * [CR] Fungal infection and antifungal effects from C++ to EOC ([#89078](https://github.com/CleverRaven/Cataclysm-DDA/pull/89078))
@@ -202,17 +218,11 @@
 * make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
 * Give Stormwrought: Manatouched same restrictions as rest of them ([#89063](https://github.com/CleverRaven/Cataclysm-DDA/pull/89063))
 * Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
-* Aftershock: Pirate faction & Integrate them with  Smuggler scenario ([#89046](https://github.com/CleverRaven/Cataclysm-DDA/pull/89046))
 * [SkyIsland] Allow merchant stall to be constructed without the bunker entrance ([#89065](https://github.com/CleverRaven/Cataclysm-DDA/pull/89065))
 * fix is_underwater condition, add and expose is_swimming ([#89053](https://github.com/CleverRaven/Cataclysm-DDA/pull/89053))
 * Fix misplaced window in home improvement store. ([#89076](https://github.com/CleverRaven/Cataclysm-DDA/pull/89076))
 * Balthazar bunker bunker update EOC fixes ([#89070](https://github.com/CleverRaven/Cataclysm-DDA/pull/89070))
 * Fix non-character vitamin drain for star vampire bite ([#89068](https://github.com/CleverRaven/Cataclysm-DDA/pull/89068))
-* Update price of instant coffee mix ([#89048](https://github.com/CleverRaven/Cataclysm-DDA/pull/89048))
 * Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
 * fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
-* [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
-* Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
 * NPCs get proper sleep ([#89056](https://github.com/CleverRaven/Cataclysm-DDA/pull/89056))
-* Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
-* [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
