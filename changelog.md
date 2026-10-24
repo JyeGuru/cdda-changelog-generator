@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-24-2205 ([6d68fda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-2205))
+
+* do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 ([#89255](https://github.com/CleverRaven/Cataclysm-DDA/pull/89255))
 
 ---
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-10-21-0931 ([ac89899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-0931))
 
 * Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-0038 ([4d87d49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-0038))
-
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
 * Naming cracklins ([#89160](https://github.com/CleverRaven/Cataclysm-DDA/pull/89160))
