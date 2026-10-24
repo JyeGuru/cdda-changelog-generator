@@ -1,3 +1,10 @@
+* fix typo in NPC_ranch_doctor dialogue ([#89234](https://github.com/CleverRaven/Cataclysm-DDA/pull/89234))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-24-0155 ([d5f8cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0155))
+
+* [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
 
 ---
 
@@ -149,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2026-10-19-0834 ([bb52239](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0834))
 
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-19-0747 ([9b012e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-19-0747))
-
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
 * [CR] Fungal infection and antifungal effects from C++ to EOC ([#89078](https://github.com/CleverRaven/Cataclysm-DDA/pull/89078))
 * Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
@@ -209,10 +211,8 @@
 * Update price of instant coffee mix ([#89048](https://github.com/CleverRaven/Cataclysm-DDA/pull/89048))
 * Fix Creatures In Vehicles Leaving Blood Footprints ([#89054](https://github.com/CleverRaven/Cataclysm-DDA/pull/89054))
 * fix overflow in scarlet storm math ([#89061](https://github.com/CleverRaven/Cataclysm-DDA/pull/89061))
-* Add a distinct groundcover for ravine edges ([#89038](https://github.com/CleverRaven/Cataclysm-DDA/pull/89038))
 * [DinoMod] heavier zombies ([#89042](https://github.com/CleverRaven/Cataclysm-DDA/pull/89042))
 * Spider mutants can skitter ([#89047](https://github.com/CleverRaven/Cataclysm-DDA/pull/89047))
 * NPCs get proper sleep ([#89056](https://github.com/CleverRaven/Cataclysm-DDA/pull/89056))
 * Fix #89035 Flying Creatures Leaving Bloody Footprints ([#89044](https://github.com/CleverRaven/Cataclysm-DDA/pull/89044))
 * [Sky Island] Update `ter_close_tears_and_portals` when MoM is running to account for cracks in reality ([#89039](https://github.com/CleverRaven/Cataclysm-DDA/pull/89039))
-* forest islands in radiosphere ([#89034](https://github.com/CleverRaven/Cataclysm-DDA/pull/89034))
