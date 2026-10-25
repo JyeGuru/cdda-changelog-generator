@@ -1,3 +1,17 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-25-0438 ([1588c9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-0438))
+
+* Body Status Menu (ImGui port of Body Status, Medical, and Sort Armor UIs) ([#89141](https://github.com/CleverRaven/Cataclysm-DDA/pull/89141))
+* add caps to wound mod_values ([#89242](https://github.com/CleverRaven/Cataclysm-DDA/pull/89242))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-25-0355 ([176e44b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-0355))
+
+* Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
+* Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
 * Add missing languages ([#89260](https://github.com/CleverRaven/Cataclysm-DDA/pull/89260))
 
 ---
@@ -165,17 +179,7 @@
 
 * Clear debug_mode on a new character that is not a debug character ([#89185](https://github.com/CleverRaven/Cataclysm-DDA/pull/89185))
 * Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-1113 ([8dcca2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1113))
-
 * Camping itemgroup tweaks ([#89181](https://github.com/CleverRaven/Cataclysm-DDA/pull/89181))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-1028 ([7a77ea2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1028))
-
 * Switch hub from likes_u=-200, to likes_u=0 + kill on sight ([#89193](https://github.com/CleverRaven/Cataclysm-DDA/pull/89193))
 * Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
@@ -227,8 +231,4 @@
 * [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
 * Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
 * Adjust Wasteland Scavengers faction area claim ([#89083](https://github.com/CleverRaven/Cataclysm-DDA/pull/89083))
-* make portable portal unusable in portal storm dungeon ([#89072](https://github.com/CleverRaven/Cataclysm-DDA/pull/89072))
-* Plastic-Shopping-bags-are-open-containers ([#89069](https://github.com/CleverRaven/Cataclysm-DDA/pull/89069))
 * Fix misplaced window in home improvement store. ([#89076](https://github.com/CleverRaven/Cataclysm-DDA/pull/89076))
-* Balthazar bunker bunker update EOC fixes ([#89070](https://github.com/CleverRaven/Cataclysm-DDA/pull/89070))
-* Fix non-character vitamin drain for star vampire bite ([#89068](https://github.com/CleverRaven/Cataclysm-DDA/pull/89068))
