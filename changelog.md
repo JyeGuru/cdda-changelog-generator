@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-25-1521 ([e205329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1521))
+
+* Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-25-1442 ([911b1d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1442))
+
+* obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-25-1017 ([1181971](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1017))
 
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
@@ -165,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-10-21-2255 ([f3516b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2255))
 
 * README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-2209 ([56e4a54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2209))
-
 * [ Xedra Evolved ] Dino Dave beloved child of Rat ([#89197](https://github.com/CleverRaven/Cataclysm-DDA/pull/89197))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-1942 ([4941a55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1942))
-
 * typo fix ([#89186](https://github.com/CleverRaven/Cataclysm-DDA/pull/89186))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
 * Clear debug_mode on a new character that is not a debug character ([#89185](https://github.com/CleverRaven/Cataclysm-DDA/pull/89185))
@@ -193,7 +195,6 @@
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
-* [CR] Fungal infection and antifungal effects from C++ to EOC ([#89078](https://github.com/CleverRaven/Cataclysm-DDA/pull/89078))
 * Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
 * cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
@@ -231,4 +232,3 @@
 * [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
 * Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
 * Adjust Wasteland Scavengers faction area claim ([#89083](https://github.com/CleverRaven/Cataclysm-DDA/pull/89083))
-* Fix misplaced window in home improvement store. ([#89076](https://github.com/CleverRaven/Cataclysm-DDA/pull/89076))
