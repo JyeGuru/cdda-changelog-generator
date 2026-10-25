@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-25-1017 ([1181971](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1017))
+
+* Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-25-0438 ([1588c9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-0438))
 
 * Body Status Menu (ImGui port of Body Status, Medical, and Sort Armor UIs) ([#89141](https://github.com/CleverRaven/Cataclysm-DDA/pull/89141))
@@ -172,11 +178,6 @@
 
 * typo fix ([#89186](https://github.com/CleverRaven/Cataclysm-DDA/pull/89186))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-1701 ([ceb31ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-1701))
-
 * Clear debug_mode on a new character that is not a debug character ([#89185](https://github.com/CleverRaven/Cataclysm-DDA/pull/89185))
 * Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
 * Camping itemgroup tweaks ([#89181](https://github.com/CleverRaven/Cataclysm-DDA/pull/89181))
@@ -220,7 +221,6 @@
 * Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
 * Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
-* put threads in spool ([#89074](https://github.com/CleverRaven/Cataclysm-DDA/pull/89074))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
 * Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
 * [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
