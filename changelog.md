@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-26-2051 ([e705cc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-2051))
+
+* Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-26-1756 ([b904cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-1756))
 
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-10-22-1939 ([afe52ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-1939))
 
 * Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-22-0244 ([566f0c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-0244))
-
 * crafting works properly when continuing craft on the ground ([#89175](https://github.com/CleverRaven/Cataclysm-DDA/pull/89175))
 * Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
 * fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
@@ -223,7 +224,6 @@
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
 * Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
-* Add the swirling vortex, a new nether monster ([#89084](https://github.com/CleverRaven/Cataclysm-DDA/pull/89084))
 * Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
 * Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
 * [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
@@ -231,4 +231,3 @@
 * [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
 * [MoM] PLASTIC flag also applies to telekinetic damage  ([#89088](https://github.com/CleverRaven/Cataclysm-DDA/pull/89088))
 * Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
-* Adjust Wasteland Scavengers faction area claim ([#89083](https://github.com/CleverRaven/Cataclysm-DDA/pull/89083))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-26-2051 (e705cc7)
+* Fix clang debug builds with mold and libstdc++ 16 (#89299)
+
 Cataclysm-DDA experimental build 2026-10-26-1756 (b904cab)
 * wound healing time can be adjusted (#89280)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-23-0158 (bc7ed7d)
 
 Cataclysm-DDA experimental build 2026-10-22-1939 (afe52ab)
 * Don't show body temp messages if just crossing warm/chilly treshold (#89215)
-
-Cataclysm-DDA experimental build 2026-10-22-0244 (566f0c0)
 * crafting works properly when continuing craft on the ground (#89175)
 * Fix Finger Lighter CBM item description to match left-hand slot (#89209)
 * fix incendiary stats (#89203)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2026-10-22-0244 (566f0c0)
 * threads do have price (#89114)
 * Butchering tips (#89109)
 * Add more cars to highways (#89095)
-* Add the swirling vortex, a new nether monster (#89084)
 * Add medium boxes with garbage bags in (#89092)
 * Increase items in unlooted farm supply store (#89090)
 * [Innawood] Filter Mask is now auto-learned (#89091)
@@ -147,4 +147,3 @@ Cataclysm-DDA experimental build 2026-10-22-0244 (566f0c0)
 * [XedraWood] Hollow One updates (#89094)
 * [MoM] PLASTIC flag also applies to telekinetic damage  (#89088)
 * Remove riot damage from survivor bunkers (#89093)
-* Adjust Wasteland Scavengers faction area claim (#89083)
