@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-26-0037 ([eb86dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-0037))
+
+* NPCs eat better ([#89265](https://github.com/CleverRaven/Cataclysm-DDA/pull/89265))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-25-1521 ([e205329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1521))
 
 * Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2026-10-21-2346 ([31ea98f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2346))
 
 * fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-21-2255 ([f3516b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-21-2255))
-
 * README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
 * [ Xedra Evolved ] Dino Dave beloved child of Rat ([#89197](https://github.com/CleverRaven/Cataclysm-DDA/pull/89197))
 * typo fix ([#89186](https://github.com/CleverRaven/Cataclysm-DDA/pull/89186))
@@ -206,7 +207,6 @@
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
 * Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
-* Sanify Powdered Coffee ([#89080](https://github.com/CleverRaven/Cataclysm-DDA/pull/89080))
 * fix dremel not being included in workshop station ([#89110](https://github.com/CleverRaven/Cataclysm-DDA/pull/89110))
 * Display NPCs' current activity when examining ([#89122](https://github.com/CleverRaven/Cataclysm-DDA/pull/89122))
 * Reduce sizeof(item) by 5% ([#89100](https://github.com/CleverRaven/Cataclysm-DDA/pull/89100))
