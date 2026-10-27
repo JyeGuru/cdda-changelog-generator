@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-27-0124 (625b862)
+* [Innawood] Make birch bandages usable with new wound system (#89282)
+
 Cataclysm-DDA experimental build 2026-10-26-2051 (e705cc7)
 * Fix clang debug builds with mold and libstdc++ 16 (#89299)
 
@@ -145,5 +148,4 @@ Cataclysm-DDA experimental build 2026-10-22-1939 (afe52ab)
 * [Innawood] Filter Mask is now auto-learned (#89091)
 * Update fence constructions and bash results (#89098)
 * [XedraWood] Hollow One updates (#89094)
-* [MoM] PLASTIC flag also applies to telekinetic damage  (#89088)
 * Remove riot damage from survivor bunkers (#89093)
