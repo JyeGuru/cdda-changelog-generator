@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-27-1327 ([8bba5a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1327))
+
+* fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-27-1104 ([168a03d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1104))
+
+* Add _remove_all_wounds and _has_body_part effect and condition ([#89314](https://github.com/CleverRaven/Cataclysm-DDA/pull/89314))
+* Fix MEND_ALL for broken bones ([#89294](https://github.com/CleverRaven/Cataclysm-DDA/pull/89294))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-27-1016 ([f4d4a80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1016))
+
+* [Xedra Evolved] Add more Bleed Immunity ([#89317](https://github.com/CleverRaven/Cataclysm-DDA/pull/89317))
+* Remove millitary bunker gas station special ([#89318](https://github.com/CleverRaven/Cataclysm-DDA/pull/89318))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-27-0124 ([625b862](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-0124))
 
 * [Innawood] Make birch bandages usable with new wound system ([#89282](https://github.com/CleverRaven/Cataclysm-DDA/pull/89282))
@@ -165,23 +185,8 @@
 #### Cataclysm-DDA experimental build 2026-10-23-0349 ([8edda0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0349))
 
 * [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart ([#89174](https://github.com/CleverRaven/Cataclysm-DDA/pull/89174))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-0253 ([7b966a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0253))
-
 * add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-0158 ([bc7ed7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0158))
-
 * Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-22-1939 ([afe52ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-22-1939))
-
 * Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
 * crafting works properly when continuing craft on the ground ([#89175](https://github.com/CleverRaven/Cataclysm-DDA/pull/89175))
 * Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
@@ -230,9 +235,4 @@
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
 * Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
 * Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
-* Add medium boxes with garbage bags in ([#89092](https://github.com/CleverRaven/Cataclysm-DDA/pull/89092))
-* Increase items in unlooted farm supply store ([#89090](https://github.com/CleverRaven/Cataclysm-DDA/pull/89090))
-* [Innawood] Filter Mask is now auto-learned ([#89091](https://github.com/CleverRaven/Cataclysm-DDA/pull/89091))
 * Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
-* [XedraWood] Hollow One updates ([#89094](https://github.com/CleverRaven/Cataclysm-DDA/pull/89094))
-* Remove riot damage from survivor bunkers ([#89093](https://github.com/CleverRaven/Cataclysm-DDA/pull/89093))
