@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-10-27-2000 (6ee8809)
+* Unmagic HWP (#89312)
+* [Sky Island] Heal all wounds (#89315)
+
+Cataclysm-DDA experimental build 2026-10-27-1905 (24af498)
+* Account for REGEN_WOUNDS (#89289)
+
 Cataclysm-DDA experimental build 2026-10-27-1327 (8bba5a8)
 * fix wound whitelists (#89309)
 
@@ -91,12 +98,7 @@ Cataclysm-DDA experimental build 2026-10-23-1142 (24937c3)
 Cataclysm-DDA experimental build 2026-10-23-0528 (975a7fc)
 * Aftershock: Add Sinkholes to the bottom of ravines (#89196)
 * Allow overbandaging (#89224)
-
-Cataclysm-DDA experimental build 2026-10-23-0443 (4c24a2e)
-* Arachnid Arms clothing coverage (#89096)
 * Allow starting a fire with an acetylene torch (#89147)
-
-Cataclysm-DDA experimental build 2026-10-23-0349 (8edda0b)
 * [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart (#89174)
 * add water clean and saline to clean wounds  (#89223)
 * Fix cody armor being not fit (#89216)
@@ -147,5 +149,3 @@ Cataclysm-DDA experimental build 2026-10-23-0349 (8edda0b)
 * Aftershock: Screen mirrors can display messages (#89111)
 * threads do have price (#89114)
 * Butchering tips (#89109)
-* Add more cars to highways (#89095)
-* Update fence constructions and bash results (#89098)

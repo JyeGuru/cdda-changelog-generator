@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-27-2000 ([6ee8809](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-2000))
+
+* Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
+* [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-27-1905 ([24af498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1905))
+
+* Account for REGEN_WOUNDS ([#89289](https://github.com/CleverRaven/Cataclysm-DDA/pull/89289))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-27-1327 ([8bba5a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1327))
 
 * fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
@@ -172,18 +185,7 @@
 
 * Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
 * Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-0443 ([4c24a2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0443))
-
-* Arachnid Arms clothing coverage ([#89096](https://github.com/CleverRaven/Cataclysm-DDA/pull/89096))
 * Allow starting a fire with an acetylene torch ([#89147](https://github.com/CleverRaven/Cataclysm-DDA/pull/89147))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-0349 ([8edda0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0349))
-
 * [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart ([#89174](https://github.com/CleverRaven/Cataclysm-DDA/pull/89174))
 * add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
 * Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
@@ -234,5 +236,3 @@
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
 * Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
-* Add more cars to highways ([#89095](https://github.com/CleverRaven/Cataclysm-DDA/pull/89095))
-* Update fence constructions and bash results ([#89098](https://github.com/CleverRaven/Cataclysm-DDA/pull/89098))
