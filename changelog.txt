@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2026-10-28-2013 (091e1cb)
 * Aftershock: Add a rocket launcher (#89297)
 
 Cataclysm-DDA experimental build 2026-10-28-1921 (7a5f144)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2026-10-24-1758 (a9b2f21)
 Cataclysm-DDA experimental build 2026-10-24-1705 (e4fdc7d)
 * [Sky Island] Add lab CBM nest back to sky island (#89253)
 * make damage_types and damage_required optional (#89256)
-
-Cataclysm-DDA experimental build 2026-10-24-1611 (2158af5)
 * bleeding wounds are affected by bleeding_rate enchantment (#89259)
 * derived_from will derive wounds as well (#89248)
 * Added steps to pie recipes and made unattended versions of them (#89149)

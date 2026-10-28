@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-28-2013 ([091e1cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-2013))
+
 * Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
 
 ---
@@ -173,11 +178,6 @@
 
 * [Sky Island] Add lab CBM nest back to sky island ([#89253](https://github.com/CleverRaven/Cataclysm-DDA/pull/89253))
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-1611 ([2158af5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-1611))
-
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
 * derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
 * Added steps to pie recipes and made unattended versions of them ([#89149](https://github.com/CleverRaven/Cataclysm-DDA/pull/89149))
