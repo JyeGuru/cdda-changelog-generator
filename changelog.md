@@ -1,3 +1,10 @@
+* Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-28-1921 ([7a5f144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1921))
+
+* bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
 
 ---
 
@@ -172,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-10-24-1611 ([2158af5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-1611))
 
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-0623 ([c1d1d00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0623))
-
 * derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
 * Added steps to pie recipes and made unattended versions of them ([#89149](https://github.com/CleverRaven/Cataclysm-DDA/pull/89149))
 * obsolete earth autodocs/CBM spawns ([#89201](https://github.com/CleverRaven/Cataclysm-DDA/pull/89201))
@@ -226,8 +228,6 @@
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
 * Display NPCs' current activity when examining ([#89122](https://github.com/CleverRaven/Cataclysm-DDA/pull/89122))
-* More consistent names and crafting times for makeshift ballistic plates ([#89119](https://github.com/CleverRaven/Cataclysm-DDA/pull/89119))
-* Fix camp drop hammer only allowing one anvil type ([#89116](https://github.com/CleverRaven/Cataclysm-DDA/pull/89116))
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
 * Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))

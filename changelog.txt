@@ -1,3 +1,7 @@
+* Aftershock: Add a rocket launcher (#89297)
+
+Cataclysm-DDA experimental build 2026-10-28-1921 (7a5f144)
+* bottle up alcohol game (#89337)
 
 Cataclysm-DDA experimental build 2026-10-28-1236 (26cdab1)
 * implement has_wound condition (#89271)
@@ -91,8 +95,6 @@ Cataclysm-DDA experimental build 2026-10-24-1705 (e4fdc7d)
 
 Cataclysm-DDA experimental build 2026-10-24-1611 (2158af5)
 * bleeding wounds are affected by bleeding_rate enchantment (#89259)
-
-Cataclysm-DDA experimental build 2026-10-24-0623 (c1d1d00)
 * derived_from will derive wounds as well (#89248)
 * Added steps to pie recipes and made unattended versions of them (#89149)
 * obsolete earth autodocs/CBM spawns (#89201)
@@ -142,8 +144,6 @@ Cataclysm-DDA experimental build 2026-10-24-0623 (c1d1d00)
 * Fix Light Industry camp drop hammer not working for crafting (#89148)
 * Fix stomach (#89137)
 * Display NPCs' current activity when examining (#89122)
-* More consistent names and crafting times for makeshift ballistic plates (#89119)
-* Fix camp drop hammer only allowing one anvil type (#89116)
 * Fix NPCs spilling opened food and a few other NPC item bugs (#89134)
 * Churn recipe for butter is autolearned [innawood] (#89129)
 * add immune_inside to field effects, apply to scarlet storm (#89126)
