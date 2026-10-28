@@ -1,6 +1,27 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-28-0709 ([049128a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0709))
+
+* give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
+* Change from index access to json.get in wounds parser ([#89321](https://github.com/CleverRaven/Cataclysm-DDA/pull/89321))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-28-0403 ([b187dc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0403))
+
+* Camp members ordered to guard keep guarding after a reload ([#89319](https://github.com/CleverRaven/Cataclysm-DDA/pull/89319))
+* wound balace and some new wounds ([#89320](https://github.com/CleverRaven/Cataclysm-DDA/pull/89320))
+* First wave of bionic wounds ([#89322](https://github.com/CleverRaven/Cataclysm-DDA/pull/89322))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-28-0314 ([a2e59b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0314))
+
+* Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-27-2000 ([6ee8809](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-2000))
 
 * Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
@@ -166,23 +187,8 @@
 #### Cataclysm-DDA experimental build 2026-10-24-0155 ([d5f8cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0155))
 
 * [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-2353 ([a91f88c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-2353))
-
 * [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-1142 ([24937c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-1142))
-
 * I don't want to talk to you. ([#89113](https://github.com/CleverRaven/Cataclysm-DDA/pull/89113))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-23-0528 ([975a7fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-23-0528))
-
 * Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
 * Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
 * Allow starting a fire with an acetylene torch ([#89147](https://github.com/CleverRaven/Cataclysm-DDA/pull/89147))
@@ -222,17 +228,11 @@
 * buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
-* Stop Berserk from locking up between two foes ([#89104](https://github.com/CleverRaven/Cataclysm-DDA/pull/89104))
-* fix dremel not being included in workshop station ([#89110](https://github.com/CleverRaven/Cataclysm-DDA/pull/89110))
 * Display NPCs' current activity when examining ([#89122](https://github.com/CleverRaven/Cataclysm-DDA/pull/89122))
-* Reduce sizeof(item) by 5% ([#89100](https://github.com/CleverRaven/Cataclysm-DDA/pull/89100))
-* break craft_activity_actor into smaller private functions ([#89102](https://github.com/CleverRaven/Cataclysm-DDA/pull/89102))
 * More consistent names and crafting times for makeshift ballistic plates ([#89119](https://github.com/CleverRaven/Cataclysm-DDA/pull/89119))
 * Fix camp drop hammer only allowing one anvil type ([#89116](https://github.com/CleverRaven/Cataclysm-DDA/pull/89116))
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
 * Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
-* Integrate menstrual pad with its sterile bag ([#89101](https://github.com/CleverRaven/Cataclysm-DDA/pull/89101))
 * Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
 * threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
-* Butchering tips ([#89109](https://github.com/CleverRaven/Cataclysm-DDA/pull/89109))
