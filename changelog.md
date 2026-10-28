@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-28-1236 ([26cdab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1236))
+
+* implement has_wound condition ([#89271](https://github.com/CleverRaven/Cataclysm-DDA/pull/89271))
+* Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-28-1140 ([ddb9194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1140))
+
+* Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-28-0709 ([049128a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0709))
 
 * give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
@@ -169,26 +182,10 @@
 * obsolete earth autodocs/CBM spawns ([#89201](https://github.com/CleverRaven/Cataclysm-DDA/pull/89201))
 * Broken ravine pipes ([#89230](https://github.com/CleverRaven/Cataclysm-DDA/pull/89230))
 * Fix a bunch of NPC bugs ([#89231](https://github.com/CleverRaven/Cataclysm-DDA/pull/89231))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-0538 ([848d3a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0538))
-
 * reduce pain light scratches can give you ([#89245](https://github.com/CleverRaven/Cataclysm-DDA/pull/89245))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-0252 ([4733654](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0252))
-
 * fix typo in NPC_ranch_doctor dialogue ([#89234](https://github.com/CleverRaven/Cataclysm-DDA/pull/89234))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-0155 ([d5f8cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-0155))
-
 * [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
 * [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
-* I don't want to talk to you. ([#89113](https://github.com/CleverRaven/Cataclysm-DDA/pull/89113))
 * Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
 * Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
 * Allow starting a fire with an acetylene torch ([#89147](https://github.com/CleverRaven/Cataclysm-DDA/pull/89147))
@@ -234,5 +231,3 @@
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
 * Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
-* Aftershock: Screen mirrors can display messages ([#89111](https://github.com/CleverRaven/Cataclysm-DDA/pull/89111))
-* threads do have price ([#89114](https://github.com/CleverRaven/Cataclysm-DDA/pull/89114))
