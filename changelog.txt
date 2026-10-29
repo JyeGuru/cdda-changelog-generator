@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-29-1910 (f661aed)
+* [ Magyclism ] fix #89345 (#89353)
+
 Cataclysm-DDA experimental build 2026-10-29-0600 (b3f0e12)
 * minor refactor of wounds stuff (#89335)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-24-2354 (78ca5b5)
 Cataclysm-DDA experimental build 2026-10-24-2205 (6d68fda)
 * do not increase healing time of wound if it's worsened (#89269)
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 (#89255)
-
-Cataclysm-DDA experimental build 2026-10-24-2056 (ff5fada)
 * Fix mink and beaver rage (#89244)
 * implement wound flags black and whitelists (#89261)
 * Acid damage is no longer derived from cut (#89249)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2026-10-24-2056 (ff5fada)
 * Aftershock: Color Spaceport lights (#89167)
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind (#89163)
 * Weekly Changelog 2026-10-12 to 2026-10-19 (#89164)
-* Fix a handful of NPC camp and crafting bugs (#89128)
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations (#89161)
 * cleanup after #88823 (#89150)
 * Improve message when faults item has cannot be mended (#89157)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-29-1910 ([f661aed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-1910))
+
+* [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-29-0600 ([b3f0e12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0600))
 
 * minor refactor of wounds stuff ([#89335](https://github.com/CleverRaven/Cataclysm-DDA/pull/89335))
@@ -171,11 +177,6 @@
 
 * do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 ([#89255](https://github.com/CleverRaven/Cataclysm-DDA/pull/89255))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-2056 ([ff5fada](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-2056))
-
 * Fix mink and beaver rage ([#89244](https://github.com/CleverRaven/Cataclysm-DDA/pull/89244))
 * implement wound flags black and whitelists ([#89261](https://github.com/CleverRaven/Cataclysm-DDA/pull/89261))
 * Acid damage is no longer derived from cut ([#89249](https://github.com/CleverRaven/Cataclysm-DDA/pull/89249))
@@ -220,7 +221,6 @@
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
-* Fix a handful of NPC camp and crafting bugs ([#89128](https://github.com/CleverRaven/Cataclysm-DDA/pull/89128))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
 * cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
 * Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
