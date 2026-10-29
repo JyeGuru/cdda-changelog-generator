@@ -1,3 +1,8 @@
+
+Cataclysm-DDA experimental build 2026-10-29-0600 (b3f0e12)
+* minor refactor of wounds stuff (#89335)
+
+Cataclysm-DDA experimental build 2026-10-29-0235 (200b71e)
 * Weekly Changelog 2026-10-19 to 2026-10-26 (#89296)
 
 Cataclysm-DDA experimental build 2026-10-29-0144 (4cd0891)
@@ -88,11 +93,7 @@ Cataclysm-DDA experimental build 2026-10-24-2205 (6d68fda)
 
 Cataclysm-DDA experimental build 2026-10-24-2056 (ff5fada)
 * Fix mink and beaver rage (#89244)
-
-Cataclysm-DDA experimental build 2026-10-24-1925 (d5a8682)
 * implement wound flags black and whitelists (#89261)
-
-Cataclysm-DDA experimental build 2026-10-24-1758 (a9b2f21)
 * Acid damage is no longer derived from cut (#89249)
 * [Sky Island] Add lab CBM nest back to sky island (#89253)
 * make damage_types and damage_required optional (#89256)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2026-10-24-1758 (a9b2f21)
 * Fix stomach (#89137)
 * Fix NPCs spilling opened food and a few other NPC item bugs (#89134)
 * Churn recipe for butter is autolearned [innawood] (#89129)
-* add immune_inside to field effects, apply to scarlet storm (#89126)

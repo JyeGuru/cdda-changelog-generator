@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-29-0600 ([b3f0e12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0600))
+
+* minor refactor of wounds stuff ([#89335](https://github.com/CleverRaven/Cataclysm-DDA/pull/89335))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-29-0235 ([200b71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0235))
+
 * Weekly Changelog 2026-10-19 to 2026-10-26 ([#89296](https://github.com/CleverRaven/Cataclysm-DDA/pull/89296))
 
 ---
@@ -166,17 +177,7 @@
 #### Cataclysm-DDA experimental build 2026-10-24-2056 ([ff5fada](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-2056))
 
 * Fix mink and beaver rage ([#89244](https://github.com/CleverRaven/Cataclysm-DDA/pull/89244))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-1925 ([d5a8682](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-1925))
-
 * implement wound flags black and whitelists ([#89261](https://github.com/CleverRaven/Cataclysm-DDA/pull/89261))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-1758 ([a9b2f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-1758))
-
 * Acid damage is no longer derived from cut ([#89249](https://github.com/CleverRaven/Cataclysm-DDA/pull/89249))
 * [Sky Island] Add lab CBM nest back to sky island ([#89253](https://github.com/CleverRaven/Cataclysm-DDA/pull/89253))
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
@@ -231,4 +232,3 @@
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
 * Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
-* add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
