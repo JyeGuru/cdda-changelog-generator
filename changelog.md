@@ -1,3 +1,10 @@
+* Weekly Changelog 2026-10-19 to 2026-10-26 ([#89296](https://github.com/CleverRaven/Cataclysm-DDA/pull/89296))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-29-0144 ([4cd0891](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0144))
+
+* [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
 
 ---
 
@@ -171,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-10-24-1758 ([a9b2f21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-1758))
 
 * Acid damage is no longer derived from cut ([#89249](https://github.com/CleverRaven/Cataclysm-DDA/pull/89249))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-1705 ([e4fdc7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-1705))
-
 * [Sky Island] Add lab CBM nest back to sky island ([#89253](https://github.com/CleverRaven/Cataclysm-DDA/pull/89253))
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
@@ -227,7 +229,6 @@
 * buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
-* Display NPCs' current activity when examining ([#89122](https://github.com/CleverRaven/Cataclysm-DDA/pull/89122))
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
 * Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
 * add immune_inside to field effects, apply to scarlet storm ([#89126](https://github.com/CleverRaven/Cataclysm-DDA/pull/89126))
