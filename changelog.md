@@ -1,3 +1,13 @@
+* remove non wound bleeding ([#89300](https://github.com/CleverRaven/Cataclysm-DDA/pull/89300))
+* change skill required of various wound fixes  ([#89338](https://github.com/CleverRaven/Cataclysm-DDA/pull/89338))
+* [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
+* bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-30-1318 ([4d98c41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-1318))
+
+* Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
 * Add slow cooker item ([#89257](https://github.com/CleverRaven/Cataclysm-DDA/pull/89257))
 * Add `BONELESS` flag for boneless limbs for bash wounds ([#89275](https://github.com/CleverRaven/Cataclysm-DDA/pull/89275))
 * Regeneration mutations can automatically "clean" wounds ([#89293](https://github.com/CleverRaven/Cataclysm-DDA/pull/89293))
@@ -164,17 +174,7 @@
 #### Cataclysm-DDA experimental build 2026-10-25-1521 ([e205329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1521))
 
 * Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-25-1442 ([911b1d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1442))
-
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-25-1017 ([1181971](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1017))
-
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
 * add caps to wound mod_values ([#89242](https://github.com/CleverRaven/Cataclysm-DDA/pull/89242))
 * Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
@@ -190,7 +190,6 @@
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
 * derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
-* Added steps to pie recipes and made unattended versions of them ([#89149](https://github.com/CleverRaven/Cataclysm-DDA/pull/89149))
 * obsolete earth autodocs/CBM spawns ([#89201](https://github.com/CleverRaven/Cataclysm-DDA/pull/89201))
 * Broken ravine pipes ([#89230](https://github.com/CleverRaven/Cataclysm-DDA/pull/89230))
 * Fix a bunch of NPC bugs ([#89231](https://github.com/CleverRaven/Cataclysm-DDA/pull/89231))
@@ -200,7 +199,6 @@
 * [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
 * Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
 * Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
-* Allow starting a fire with an acetylene torch ([#89147](https://github.com/CleverRaven/Cataclysm-DDA/pull/89147))
 * [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart ([#89174](https://github.com/CleverRaven/Cataclysm-DDA/pull/89174))
 * add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
 * Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
@@ -228,8 +226,5 @@
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
-* cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
 * Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
 * Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
-* buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
-* Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
