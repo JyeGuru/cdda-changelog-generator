@@ -1,3 +1,18 @@
+* Add slow cooker item ([#89257](https://github.com/CleverRaven/Cataclysm-DDA/pull/89257))
+* Add `BONELESS` flag for boneless limbs for bash wounds ([#89275](https://github.com/CleverRaven/Cataclysm-DDA/pull/89275))
+* Regeneration mutations can automatically "clean" wounds ([#89293](https://github.com/CleverRaven/Cataclysm-DDA/pull/89293))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-30-0220 ([6a42597](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-0220))
+
+* Add small amount of `incoming_damage_mod_post_absorbed` to some effects ([#89323](https://github.com/CleverRaven/Cataclysm-DDA/pull/89323))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-30-0032 ([03ea551](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-0032))
+
+*  #84338 revived: an ancient Exodii and the Heart of The Warrior ([#89331](https://github.com/CleverRaven/Cataclysm-DDA/pull/89331))
 
 ---
 
@@ -161,18 +176,7 @@
 #### Cataclysm-DDA experimental build 2026-10-25-1017 ([1181971](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1017))
 
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-25-0438 ([1588c9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-0438))
-
-* Body Status Menu (ImGui port of Body Status, Medical, and Sort Armor UIs) ([#89141](https://github.com/CleverRaven/Cataclysm-DDA/pull/89141))
 * add caps to wound mod_values ([#89242](https://github.com/CleverRaven/Cataclysm-DDA/pull/89242))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-25-0355 ([176e44b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-0355))
-
 * Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
 * Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
 * Add missing languages ([#89260](https://github.com/CleverRaven/Cataclysm-DDA/pull/89260))
@@ -227,8 +231,5 @@
 * cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
 * Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
 * Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
-* adjust price of 12 gauge shots ([#89144](https://github.com/CleverRaven/Cataclysm-DDA/pull/89144))
 * buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
-* Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
-* Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
