@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-10-29-2345 (f39fe1d)
+* add heat and cold resistance to cybernetic limbs (#89358)
+
+Cataclysm-DDA experimental build 2026-10-29-2258 (bc6af9e)
+* Add unnatural wound healing effect, make it a possible artifact effect (#89360)
+
 Cataclysm-DDA experimental build 2026-10-29-1910 (f661aed)
 * [ Magyclism ] fix #89345 (#89353)
 
@@ -86,11 +92,7 @@ Cataclysm-DDA experimental build 2026-10-25-0355 (176e44b)
 * Fix crash choosing items to haul with a stale haul list (#89270)
 * Fix flaky steady noise NPC sleep test (#89272)
 * Add missing languages (#89260)
-
-Cataclysm-DDA experimental build 2026-10-24-2354 (78ca5b5)
 * Cure fainting NPCs (#89264)
-
-Cataclysm-DDA experimental build 2026-10-24-2205 (6d68fda)
 * do not increase healing time of wound if it's worsened (#89269)
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 (#89255)
 * Fix mink and beaver rage (#89244)
@@ -140,11 +142,9 @@ Cataclysm-DDA experimental build 2026-10-24-2205 (6d68fda)
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations (#89161)
 * cleanup after #88823 (#89150)
 * Improve message when faults item has cannot be mended (#89157)
-* improve craft and disassembly interactions (#89132)
 * Accept solar panel arrays in radio tower recipes (#89152)
 * adjust price of 12 gauge shots (#89144)
 * buttons cannot be crafted into plastic chunk (#89146)
 * Fix Light Industry camp drop hammer not working for crafting (#89148)
 * Fix stomach (#89137)
 * Fix NPCs spilling opened food and a few other NPC item bugs (#89134)
-* Churn recipe for butter is autolearned [innawood] (#89129)

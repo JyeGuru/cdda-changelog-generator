@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-29-2345 ([f39fe1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-2345))
+
+* add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-29-2258 ([bc6af9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-2258))
+
+* Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-29-1910 ([f661aed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-1910))
 
 * [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
@@ -164,17 +176,7 @@
 * Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
 * Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
 * Add missing languages ([#89260](https://github.com/CleverRaven/Cataclysm-DDA/pull/89260))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-2354 ([78ca5b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-2354))
-
 * Cure fainting NPCs ([#89264](https://github.com/CleverRaven/Cataclysm-DDA/pull/89264))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-24-2205 ([6d68fda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-24-2205))
-
 * do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 ([#89255](https://github.com/CleverRaven/Cataclysm-DDA/pull/89255))
 * Fix mink and beaver rage ([#89244](https://github.com/CleverRaven/Cataclysm-DDA/pull/89244))
@@ -224,11 +226,9 @@
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
 * cleanup after #88823 ([#89150](https://github.com/CleverRaven/Cataclysm-DDA/pull/89150))
 * Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
-* improve craft and disassembly interactions ([#89132](https://github.com/CleverRaven/Cataclysm-DDA/pull/89132))
 * Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
 * adjust price of 12 gauge shots ([#89144](https://github.com/CleverRaven/Cataclysm-DDA/pull/89144))
 * buttons cannot be crafted into plastic chunk ([#89146](https://github.com/CleverRaven/Cataclysm-DDA/pull/89146))
 * Fix Light Industry camp drop hammer not working for crafting ([#89148](https://github.com/CleverRaven/Cataclysm-DDA/pull/89148))
 * Fix stomach ([#89137](https://github.com/CleverRaven/Cataclysm-DDA/pull/89137))
 * Fix NPCs spilling opened food and a few other NPC item bugs ([#89134](https://github.com/CleverRaven/Cataclysm-DDA/pull/89134))
-* Churn recipe for butter is autolearned [innawood] ([#89129](https://github.com/CleverRaven/Cataclysm-DDA/pull/89129))
