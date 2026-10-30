@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-30-2116 ([1179f11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2116))
+
+* Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-30-1810 ([596efd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-1810))
+
+* Fix isherwood family quest (multiple issues) ([#89250](https://github.com/CleverRaven/Cataclysm-DDA/pull/89250))
 * remove non wound bleeding ([#89300](https://github.com/CleverRaven/Cataclysm-DDA/pull/89300))
 * change skill required of various wound fixes  ([#89338](https://github.com/CleverRaven/Cataclysm-DDA/pull/89338))
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
@@ -162,17 +174,7 @@
 #### Cataclysm-DDA experimental build 2026-10-26-1702 ([b62cf5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-1702))
 
 * bash wounds ([#89243](https://github.com/CleverRaven/Cataclysm-DDA/pull/89243))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-26-0037 ([eb86dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-0037))
-
 * NPCs eat better ([#89265](https://github.com/CleverRaven/Cataclysm-DDA/pull/89265))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-25-1521 ([e205329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-25-1521))
-
 * Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
@@ -226,5 +228,3 @@
 * [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
 * [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))
-* Improve message when faults item has cannot be mended ([#89157](https://github.com/CleverRaven/Cataclysm-DDA/pull/89157))
-* Accept solar panel arrays in radio tower recipes ([#89152](https://github.com/CleverRaven/Cataclysm-DDA/pull/89152))
