@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-31-0606 ([a768761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-0606))
+
+* [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-31-0519 ([e4edf19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-0519))
+
+* Make the portal dungeon rewards available again and add some more rewards to it. ([#89364](https://github.com/CleverRaven/Cataclysm-DDA/pull/89364))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-30-2308 ([f673e9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2308))
 
 * Bionic wounds that can't be repaired yourself ([#89348](https://github.com/CleverRaven/Cataclysm-DDA/pull/89348))
@@ -163,17 +175,7 @@
 
 * [Xedra Evolved] Add more Bleed Immunity ([#89317](https://github.com/CleverRaven/Cataclysm-DDA/pull/89317))
 * Remove millitary bunker gas station special ([#89318](https://github.com/CleverRaven/Cataclysm-DDA/pull/89318))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-27-0124 ([625b862](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-0124))
-
 * [Innawood] Make birch bandages usable with new wound system ([#89282](https://github.com/CleverRaven/Cataclysm-DDA/pull/89282))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-26-2051 ([e705cc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-2051))
-
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
 * bash wounds ([#89243](https://github.com/CleverRaven/Cataclysm-DDA/pull/89243))
@@ -222,9 +224,7 @@
 * Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
-* Some additional cbms that can't be removed ([#89165](https://github.com/CleverRaven/Cataclysm-DDA/pull/89165))
 * Update wire price ([#89177](https://github.com/CleverRaven/Cataclysm-DDA/pull/89177))
 * Revert vehicle cargo sizes to sane values (2) ([#89176](https://github.com/CleverRaven/Cataclysm-DDA/pull/89176))
 * No more random fungal infections ([#89168](https://github.com/CleverRaven/Cataclysm-DDA/pull/89168))
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
-* Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
