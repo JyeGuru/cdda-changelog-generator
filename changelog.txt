@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-10-31-1806 (a1a646d)
+* Fix a batch of small NPC, camp and zone task bugs (#89375)
+
 Cataclysm-DDA experimental build 2026-10-31-1718 (84fc3f4)
 * single attack can apply two wounds at once (#89371)
 * Fix Crash with manual selection Inventory Eocs (#89379)
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-27-2000 (6ee8809)
 
 Cataclysm-DDA experimental build 2026-10-27-1905 (24af498)
 * Account for REGEN_WOUNDS (#89289)
-
-Cataclysm-DDA experimental build 2026-10-27-1327 (8bba5a8)
 * fix wound whitelists (#89309)
 * Add _remove_all_wounds and _has_body_part effect and condition (#89314)
 * Fix MEND_ALL for broken bones (#89294)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2026-10-27-1327 (8bba5a8)
 * [MoM] Telepathic damage causes headache wounds (#89236)
 * Aftershock: Add Sinkholes to the bottom of ravines (#89196)
 * Allow overbandaging (#89224)
-* [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart (#89174)
 * add water clean and saline to clean wounds  (#89223)
 * Fix cody armor being not fit (#89216)
 * Don't show body temp messages if just crossing warm/chilly treshold (#89215)

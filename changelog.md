@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-31-1806 ([a1a646d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-1806))
+
+* Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-31-1718 ([84fc3f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-1718))
 
 * single attack can apply two wounds at once ([#89371](https://github.com/CleverRaven/Cataclysm-DDA/pull/89371))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2026-10-27-1905 ([24af498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1905))
 
 * Account for REGEN_WOUNDS ([#89289](https://github.com/CleverRaven/Cataclysm-DDA/pull/89289))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-27-1327 ([8bba5a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1327))
-
 * fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
 * Add _remove_all_wounds and _has_body_part effect and condition ([#89314](https://github.com/CleverRaven/Cataclysm-DDA/pull/89314))
 * Fix MEND_ALL for broken bones ([#89294](https://github.com/CleverRaven/Cataclysm-DDA/pull/89294))
@@ -209,7 +210,6 @@
 * [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
 * Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
 * Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
-* [MoM] Genericize Pyrokinetic power Cauterize to affect any bodypart ([#89174](https://github.com/CleverRaven/Cataclysm-DDA/pull/89174))
 * add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
 * Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
 * Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
