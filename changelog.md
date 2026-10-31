@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-10-30-2308 ([f673e9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2308))
+
+* Bionic wounds that can't be repaired yourself ([#89348](https://github.com/CleverRaven/Cataclysm-DDA/pull/89348))
+* Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-10-30-2212 ([7264afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2212))
+
+* [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-30-2116 ([1179f11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2116))
 
 * Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
@@ -162,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-10-26-2051 ([e705cc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-2051))
 
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-26-1756 ([b904cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-1756))
-
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-26-1702 ([b62cf5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-26-1702))
-
 * bash wounds ([#89243](https://github.com/CleverRaven/Cataclysm-DDA/pull/89243))
 * NPCs eat better ([#89265](https://github.com/CleverRaven/Cataclysm-DDA/pull/89265))
 * Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
@@ -219,12 +222,9 @@
 * Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
-* Naming cracklins ([#89160](https://github.com/CleverRaven/Cataclysm-DDA/pull/89160))
 * Some additional cbms that can't be removed ([#89165](https://github.com/CleverRaven/Cataclysm-DDA/pull/89165))
 * Update wire price ([#89177](https://github.com/CleverRaven/Cataclysm-DDA/pull/89177))
 * Revert vehicle cargo sizes to sane values (2) ([#89176](https://github.com/CleverRaven/Cataclysm-DDA/pull/89176))
 * No more random fungal infections ([#89168](https://github.com/CleverRaven/Cataclysm-DDA/pull/89168))
 * Aftershock: Color Spaceport lights ([#89167](https://github.com/CleverRaven/Cataclysm-DDA/pull/89167))
-* [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind ([#89163](https://github.com/CleverRaven/Cataclysm-DDA/pull/89163))
 * Weekly Changelog 2026-10-12 to 2026-10-19 ([#89164](https://github.com/CleverRaven/Cataclysm-DDA/pull/89164))
-* [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations ([#89161](https://github.com/CleverRaven/Cataclysm-DDA/pull/89161))

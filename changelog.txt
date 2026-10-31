@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-10-30-2308 (f673e9b)
+* Bionic wounds that can't be repaired yourself (#89348)
+* Make "not all control paths return a value" an error in windows builds. (#89373)
+
+Cataclysm-DDA experimental build 2026-10-30-2212 (7264afe)
+* [MoM] Staunch Wound and Immunostimulus interact with wounds (#89370)
+
 Cataclysm-DDA experimental build 2026-10-30-2116 (1179f11)
 * Remove amphetamine addicition from antidepressants (#89367)
 
@@ -87,11 +94,7 @@ Cataclysm-DDA experimental build 2026-10-27-0124 (625b862)
 
 Cataclysm-DDA experimental build 2026-10-26-2051 (e705cc7)
 * Fix clang debug builds with mold and libstdc++ 16 (#89299)
-
-Cataclysm-DDA experimental build 2026-10-26-1756 (b904cab)
 * wound healing time can be adjusted (#89280)
-
-Cataclysm-DDA experimental build 2026-10-26-1702 (b62cf5e)
 * bash wounds (#89243)
 * NPCs eat better (#89265)
 * Fix lakeside cabin SQUARE OF DOOM (#89247)
@@ -138,12 +141,9 @@ Cataclysm-DDA experimental build 2026-10-26-1702 (b62cf5e)
 * Aftershock Minor bug fixing (#89199)
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message (#89187)
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version (#89191)
-* Naming cracklins (#89160)
 * Some additional cbms that can't be removed (#89165)
 * Update wire price (#89177)
 * Revert vehicle cargo sizes to sane values (2) (#89176)
 * No more random fungal infections (#89168)
 * Aftershock: Color Spaceport lights (#89167)
-* [MoM] You cannot gain the effects that make you lose access to psionics if you're Headblind (#89163)
 * Weekly Changelog 2026-10-12 to 2026-10-19 (#89164)
-* [MOM] Bugfix: Give Hammerhand material to fix wind resist calculations (#89161)
