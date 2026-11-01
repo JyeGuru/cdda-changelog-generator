@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-01-0302 ([9c58336](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-0302))
+
+* [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-01-0134 ([03378bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-0134))
 
 * add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2026-10-28-0314 ([a2e59b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0314))
 
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-27-2000 ([6ee8809](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-2000))
-
 * Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
 * [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
 * Account for REGEN_WOUNDS ([#89289](https://github.com/CleverRaven/Cataclysm-DDA/pull/89289))
@@ -228,4 +229,3 @@
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
 * Update wire price ([#89177](https://github.com/CleverRaven/Cataclysm-DDA/pull/89177))
-* Revert vehicle cargo sizes to sane values (2) ([#89176](https://github.com/CleverRaven/Cataclysm-DDA/pull/89176))

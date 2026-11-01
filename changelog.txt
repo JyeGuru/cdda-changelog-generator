@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-01-0302 (9c58336)
+* [DinoMod] crazed dinos attack! (#89374)
+
 Cataclysm-DDA experimental build 2026-11-01-0134 (03378bf)
 * add CO2 powered airguns, adjust itemgroups (#89369)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2026-10-28-0403 (b187dc4)
 
 Cataclysm-DDA experimental build 2026-10-28-0314 (a2e59b3)
 * Zone tasks fetch only what they lack and clear their marks (#89327)
-
-Cataclysm-DDA experimental build 2026-10-27-2000 (6ee8809)
 * Unmagic HWP (#89312)
 * [Sky Island] Heal all wounds (#89315)
 * Account for REGEN_WOUNDS (#89289)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2026-10-27-2000 (6ee8809)
 * [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message (#89187)
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version (#89191)
 * Update wire price (#89177)
-* Revert vehicle cargo sizes to sane values (2) (#89176)
