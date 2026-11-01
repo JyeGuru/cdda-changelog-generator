@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-01-0134 (03378bf)
+* add CO2 powered airguns, adjust itemgroups (#89369)
+
 Cataclysm-DDA experimental build 2026-10-31-1806 (a1a646d)
 * Fix a batch of small NPC, camp and zone task bugs (#89375)
 
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2026-10-28-0314 (a2e59b3)
 Cataclysm-DDA experimental build 2026-10-27-2000 (6ee8809)
 * Unmagic HWP (#89312)
 * [Sky Island] Heal all wounds (#89315)
-
-Cataclysm-DDA experimental build 2026-10-27-1905 (24af498)
 * Account for REGEN_WOUNDS (#89289)
 * fix wound whitelists (#89309)
 * Add _remove_all_wounds and _has_body_part effect and condition (#89314)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2026-10-27-1905 (24af498)
 * add water clean and saline to clean wounds  (#89223)
 * Fix cody armor being not fit (#89216)
 * Don't show body temp messages if just crossing warm/chilly treshold (#89215)
-* crafting works properly when continuing craft on the ground (#89175)
 * Fix Finger Lighter CBM item description to match left-hand slot (#89209)
 * fix incendiary stats (#89203)
 * README.md: Remove defunct tokei badge (#89206)

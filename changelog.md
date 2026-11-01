@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-01-0134 ([03378bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-0134))
+
+* add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-10-31-1806 ([a1a646d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-1806))
 
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
@@ -168,11 +174,6 @@
 
 * Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
 * [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-27-1905 ([24af498](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-27-1905))
-
 * Account for REGEN_WOUNDS ([#89289](https://github.com/CleverRaven/Cataclysm-DDA/pull/89289))
 * fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
 * Add _remove_all_wounds and _has_body_part effect and condition ([#89314](https://github.com/CleverRaven/Cataclysm-DDA/pull/89314))
@@ -213,7 +214,6 @@
 * add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
 * Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
 * Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
-* crafting works properly when continuing craft on the ground ([#89175](https://github.com/CleverRaven/Cataclysm-DDA/pull/89175))
 * Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
 * fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
 * README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
