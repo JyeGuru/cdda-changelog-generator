@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-01-1411 ([2599825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1411))
+
+* add new mon_special_attacks ([#89278](https://github.com/CleverRaven/Cataclysm-DDA/pull/89278))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-01-1054 ([65a0495](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1054))
+
+* stabs ([#89351](https://github.com/CleverRaven/Cataclysm-DDA/pull/89351))
+* Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
+* Make caffeine gum addicting and more potent ([#89354](https://github.com/CleverRaven/Cataclysm-DDA/pull/89354))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-01-1007 ([689603c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1007))
+
+* Flipped Trap and Furniture detection in sleep.cpp to fix rollmats ([#89346](https://github.com/CleverRaven/Cataclysm-DDA/pull/89346))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-01-0302 ([9c58336](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-0302))
 
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
@@ -152,26 +172,11 @@
 #### Cataclysm-DDA experimental build 2026-10-28-1140 ([ddb9194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1140))
 
 * Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-0709 ([049128a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0709))
-
 * give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
 * Change from index access to json.get in wounds parser ([#89321](https://github.com/CleverRaven/Cataclysm-DDA/pull/89321))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-0403 ([b187dc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0403))
-
 * Camp members ordered to guard keep guarding after a reload ([#89319](https://github.com/CleverRaven/Cataclysm-DDA/pull/89319))
 * wound balace and some new wounds ([#89320](https://github.com/CleverRaven/Cataclysm-DDA/pull/89320))
 * First wave of bionic wounds ([#89322](https://github.com/CleverRaven/Cataclysm-DDA/pull/89322))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-0314 ([a2e59b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-0314))
-
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
 * Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
 * [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
@@ -219,13 +224,8 @@
 * fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
 * README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
 * [ Xedra Evolved ] Dino Dave beloved child of Rat ([#89197](https://github.com/CleverRaven/Cataclysm-DDA/pull/89197))
-* typo fix ([#89186](https://github.com/CleverRaven/Cataclysm-DDA/pull/89186))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
-* Clear debug_mode on a new character that is not a debug character ([#89185](https://github.com/CleverRaven/Cataclysm-DDA/pull/89185))
 * Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
-* Camping itemgroup tweaks ([#89181](https://github.com/CleverRaven/Cataclysm-DDA/pull/89181))
 * Switch hub from likes_u=-200, to likes_u=0 + kill on sight ([#89193](https://github.com/CleverRaven/Cataclysm-DDA/pull/89193))
 * Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
-* [MoM] Update Combat dance description, Intuitive Artistry has a turn-off message ([#89187](https://github.com/CleverRaven/Cataclysm-DDA/pull/89187))
 * Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
-* Update wire price ([#89177](https://github.com/CleverRaven/Cataclysm-DDA/pull/89177))
