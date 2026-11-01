@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-01-2158 ([d634946](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-2158))
+
+* Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-01-2106 ([2e24c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-2106))
+
+* NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-01-1411 ([2599825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1411))
 
 * add new mon_special_attacks ([#89278](https://github.com/CleverRaven/Cataclysm-DDA/pull/89278))
@@ -166,11 +178,6 @@
 
 * implement has_wound condition ([#89271](https://github.com/CleverRaven/Cataclysm-DDA/pull/89271))
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-1140 ([ddb9194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1140))
-
 * Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
 * give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
 * Change from index access to json.get in wounds parser ([#89321](https://github.com/CleverRaven/Cataclysm-DDA/pull/89321))
@@ -226,6 +233,4 @@
 * [ Xedra Evolved ] Dino Dave beloved child of Rat ([#89197](https://github.com/CleverRaven/Cataclysm-DDA/pull/89197))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
 * Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
-* Switch hub from likes_u=-200, to likes_u=0 + kill on sight ([#89193](https://github.com/CleverRaven/Cataclysm-DDA/pull/89193))
 * Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
-* Pin astyle runner to Ubuntu 24.04 to fix astyle version ([#89191](https://github.com/CleverRaven/Cataclysm-DDA/pull/89191))
