@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-02-1853 ([89ea00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-1853))
+
+* [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-02-0439 ([0680c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-0439))
 
 * Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-10-28-2013 ([091e1cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-2013))
 
 * Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-1921 ([7a5f144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1921))
-
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
 * implement has_wound condition ([#89271](https://github.com/CleverRaven/Cataclysm-DDA/pull/89271))
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
@@ -232,4 +233,3 @@
 * fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
 * README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
-* Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-02-1853 (89ea00c)
+* [Xedra Evolved] One fixed glamour, one new glamour (#89402)
+
 Cataclysm-DDA experimental build 2026-11-02-0439 (0680c48)
 * Re-add quantity to de-charged lab supplies (#89392)
 * avoid near and far #define s (#89397)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2026-10-29-0144 (4cd0891)
 
 Cataclysm-DDA experimental build 2026-10-28-2013 (091e1cb)
 * Aftershock: Add a rocket launcher (#89297)
-
-Cataclysm-DDA experimental build 2026-10-28-1921 (7a5f144)
 * bottle up alcohol game (#89337)
 * implement has_wound condition (#89271)
 * Flake8 linter fixes (#89332)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2026-10-28-1921 (7a5f144)
 * fix incendiary stats (#89203)
 * README.md: Remove defunct tokei badge (#89206)
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 (#89204)
-* Aftershock: More natural ravine floors.  (#89200)
