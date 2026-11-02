@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-02-0439 ([0680c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-0439))
+
+* Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
+* avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-01-2158 ([d634946](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-2158))
 
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
@@ -171,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-10-28-1921 ([7a5f144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1921))
 
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-1236 ([26cdab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-1236))
-
 * implement has_wound condition ([#89271](https://github.com/CleverRaven/Cataclysm-DDA/pull/89271))
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
 * Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
@@ -222,7 +224,6 @@
 * fix typo in NPC_ranch_doctor dialogue ([#89234](https://github.com/CleverRaven/Cataclysm-DDA/pull/89234))
 * [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
 * [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
-* Aftershock: Add Sinkholes to the bottom of ravines ([#89196](https://github.com/CleverRaven/Cataclysm-DDA/pull/89196))
 * Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
 * add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
 * Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
@@ -230,7 +231,5 @@
 * Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
 * fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
 * README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
-* [ Xedra Evolved ] Dino Dave beloved child of Rat ([#89197](https://github.com/CleverRaven/Cataclysm-DDA/pull/89197))
 * Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
 * Aftershock: More natural ravine floors.  ([#89200](https://github.com/CleverRaven/Cataclysm-DDA/pull/89200))
-* Aftershock Minor bug fixing ([#89199](https://github.com/CleverRaven/Cataclysm-DDA/pull/89199))
