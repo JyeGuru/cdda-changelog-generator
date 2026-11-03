@@ -1,6 +1,44 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-03-1557 ([e26bd15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1557))
+
+* Weekly Changelog 2026-10-26 to 2026-11-02 ([#89401](https://github.com/CleverRaven/Cataclysm-DDA/pull/89401))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-1359 ([6e847cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1359))
+
+* Shrink wound fix options + some UI improvements ([#89408](https://github.com/CleverRaven/Cataclysm-DDA/pull/89408))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-1310 ([d93629f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1310))
+
+* Aftershock: Ravine datavault ([#89400](https://github.com/CleverRaven/Cataclysm-DDA/pull/89400))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-1049 ([dd40340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1049))
+
+* Bottle gourd seed production issue ([#89251](https://github.com/CleverRaven/Cataclysm-DDA/pull/89251))
+* Update weather_type.json for weather_type snowstorm ([#89398](https://github.com/CleverRaven/Cataclysm-DDA/pull/89398))
+* Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-0959 ([57c07bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-0959))
+
+* loop around in dialogue boxes on the last indexes ([#89407](https://github.com/CleverRaven/Cataclysm-DDA/pull/89407))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-0846 ([c479cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-0846))
+
+* More dreams from the Cree'yn Cag'gii ([#89399](https://github.com/CleverRaven/Cataclysm-DDA/pull/89399))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-02-2043 ([57cf429](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-2043))
 
 * More support for C++20: char8_t ([#89339](https://github.com/CleverRaven/Cataclysm-DDA/pull/89339))
@@ -142,41 +180,11 @@
 #### Cataclysm-DDA experimental build 2026-10-30-0032 ([03ea551](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-0032))
 
 *  #84338 revived: an ancient Exodii and the Heart of The Warrior ([#89331](https://github.com/CleverRaven/Cataclysm-DDA/pull/89331))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-29-2345 ([f39fe1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-2345))
-
 * add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-29-2258 ([bc6af9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-2258))
-
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-29-1910 ([f661aed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-1910))
-
 * [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-29-0600 ([b3f0e12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0600))
-
 * minor refactor of wounds stuff ([#89335](https://github.com/CleverRaven/Cataclysm-DDA/pull/89335))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-29-0235 ([200b71e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0235))
-
 * Weekly Changelog 2026-10-19 to 2026-10-26 ([#89296](https://github.com/CleverRaven/Cataclysm-DDA/pull/89296))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-29-0144 ([4cd0891](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0144))
-
 * [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
 * Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
@@ -225,11 +233,3 @@
 * fix typo in NPC_ranch_doctor dialogue ([#89234](https://github.com/CleverRaven/Cataclysm-DDA/pull/89234))
 * [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
 * [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
-* Allow overbandaging ([#89224](https://github.com/CleverRaven/Cataclysm-DDA/pull/89224))
-* add water clean and saline to clean wounds  ([#89223](https://github.com/CleverRaven/Cataclysm-DDA/pull/89223))
-* Fix cody armor being not fit ([#89216](https://github.com/CleverRaven/Cataclysm-DDA/pull/89216))
-* Don't show body temp messages if just crossing warm/chilly treshold ([#89215](https://github.com/CleverRaven/Cataclysm-DDA/pull/89215))
-* Fix Finger Lighter CBM item description to match left-hand slot ([#89209](https://github.com/CleverRaven/Cataclysm-DDA/pull/89209))
-* fix incendiary stats ([#89203](https://github.com/CleverRaven/Cataclysm-DDA/pull/89203))
-* README.md: Remove defunct tokei badge ([#89206](https://github.com/CleverRaven/Cataclysm-DDA/pull/89206))
-* Pin astyle-code and style-code jobs that run astyle to ubuntu 24 ([#89204](https://github.com/CleverRaven/Cataclysm-DDA/pull/89204))
