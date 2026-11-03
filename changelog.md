@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-02-2043 ([57cf429](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-2043))
+
+* More support for C++20: char8_t ([#89339](https://github.com/CleverRaven/Cataclysm-DDA/pull/89339))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-02-1853 ([89ea00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-1853))
 
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-10-29-0144 ([4cd0891](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-29-0144))
 
 * [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-28-2013 ([091e1cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-28-2013))
-
 * Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
 * implement has_wound condition ([#89271](https://github.com/CleverRaven/Cataclysm-DDA/pull/89271))
@@ -218,7 +219,6 @@
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
 * derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
-* obsolete earth autodocs/CBM spawns ([#89201](https://github.com/CleverRaven/Cataclysm-DDA/pull/89201))
 * Broken ravine pipes ([#89230](https://github.com/CleverRaven/Cataclysm-DDA/pull/89230))
 * Fix a bunch of NPC bugs ([#89231](https://github.com/CleverRaven/Cataclysm-DDA/pull/89231))
 * reduce pain light scratches can give you ([#89245](https://github.com/CleverRaven/Cataclysm-DDA/pull/89245))
