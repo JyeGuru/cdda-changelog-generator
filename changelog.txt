@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2026-11-03-1907 (87000d7)
+* Fixbots! (part 1) (#89409)
+
+Cataclysm-DDA experimental build 2026-11-03-1818 (df0a28a)
+* Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs (#89415)
+
 Cataclysm-DDA experimental build 2026-11-03-1557 (e26bd15)
 * Weekly Changelog 2026-10-26 to 2026-11-02 (#89401)
 
@@ -90,11 +96,7 @@ Cataclysm-DDA experimental build 2026-10-30-1318 (4d98c41)
 * Add slow cooker item (#89257)
 * Add `BONELESS` flag for boneless limbs for bash wounds (#89275)
 * Regeneration mutations can automatically "clean" wounds (#89293)
-
-Cataclysm-DDA experimental build 2026-10-30-0220 (6a42597)
 * Add small amount of `incoming_damage_mod_post_absorbed` to some effects (#89323)
-
-Cataclysm-DDA experimental build 2026-10-30-0032 (03ea551)
 *  #84338 revived: an ancient Exodii and the Heart of The Warrior (#89331)
 * add heat and cold resistance to cybernetic limbs (#89358)
 * Add unnatural wound healing effect, make it a possible artifact effect (#89360)
@@ -143,8 +145,6 @@ Cataclysm-DDA experimental build 2026-10-30-0032 (03ea551)
 * make damage_types and damage_required optional (#89256)
 * bleeding wounds are affected by bleeding_rate enchantment (#89259)
 * derived_from will derive wounds as well (#89248)
-* Broken ravine pipes (#89230)
-* Fix a bunch of NPC bugs (#89231)
 * reduce pain light scratches can give you (#89245)
 * fix typo in NPC_ranch_doctor dialogue (#89234)
 * [innawoods] Overwrite item_group for forest_trail to remove manmade trash (#89246)
