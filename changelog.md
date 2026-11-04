@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-04-2040 ([c19bb0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-2040))
+
+* Bleeding condition improvements  ([#89431](https://github.com/CleverRaven/Cataclysm-DDA/pull/89431))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-04-1955 ([93c67c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-1955))
+
+* Compensate for oceanside starts for the scarlet storm ([#89430](https://github.com/CleverRaven/Cataclysm-DDA/pull/89430))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-04-0759 ([f28c60c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0759))
 
 * [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
@@ -169,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-10-31-0606 ([a768761](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-0606))
 
 * [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-31-0519 ([e4edf19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-0519))
-
 * Make the portal dungeon rewards available again and add some more rewards to it. ([#89364](https://github.com/CleverRaven/Cataclysm-DDA/pull/89364))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-30-2308 ([f673e9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2308))
-
 * Bionic wounds that can't be repaired yourself ([#89348](https://github.com/CleverRaven/Cataclysm-DDA/pull/89348))
 * Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
 * [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
@@ -233,8 +235,6 @@
 * do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 ([#89255](https://github.com/CleverRaven/Cataclysm-DDA/pull/89255))
 * implement wound flags black and whitelists ([#89261](https://github.com/CleverRaven/Cataclysm-DDA/pull/89261))
-* Acid damage is no longer derived from cut ([#89249](https://github.com/CleverRaven/Cataclysm-DDA/pull/89249))
 * [Sky Island] Add lab CBM nest back to sky island ([#89253](https://github.com/CleverRaven/Cataclysm-DDA/pull/89253))
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
-* derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
