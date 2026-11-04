@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-04-0759 ([f28c60c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0759))
+
+* [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-04-0301 ([8295b02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0301))
+
+* small wound tweaks ([#89422](https://github.com/CleverRaven/Cataclysm-DDA/pull/89422))
+* Some types of anatomy can't get bruises ([#89423](https://github.com/CleverRaven/Cataclysm-DDA/pull/89423))
+* Overhaul Hub side of Isherwood rescue mission ([#89357](https://github.com/CleverRaven/Cataclysm-DDA/pull/89357))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-04-0000 ([0520c44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0000))
 
 * Highland grotto ([#89410](https://github.com/CleverRaven/Cataclysm-DDA/pull/89410))
@@ -52,7 +66,7 @@
 
 #### Cataclysm-DDA experimental build 2026-11-03-1049 ([dd40340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1049))
 
-* Bottle gourd seed production issue ([#89251](https://github.com/CleverRaven/Cataclysm-DDA/pull/89251))
+* Fix bottle gourd seed production issue ([#89251](https://github.com/CleverRaven/Cataclysm-DDA/pull/89251))
 * Update weather_type.json for weather_type snowstorm ([#89398](https://github.com/CleverRaven/Cataclysm-DDA/pull/89398))
 * Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
 
@@ -168,23 +182,8 @@
 
 * Bionic wounds that can't be repaired yourself ([#89348](https://github.com/CleverRaven/Cataclysm-DDA/pull/89348))
 * Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-30-2212 ([7264afe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2212))
-
 * [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-30-2116 ([1179f11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-2116))
-
 * Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-30-1810 ([596efd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-1810))
-
 * Fix isherwood family quest (multiple issues) ([#89250](https://github.com/CleverRaven/Cataclysm-DDA/pull/89250))
 * remove non wound bleeding ([#89300](https://github.com/CleverRaven/Cataclysm-DDA/pull/89300))
 * change skill required of various wound fixes  ([#89338](https://github.com/CleverRaven/Cataclysm-DDA/pull/89338))
@@ -225,7 +224,6 @@
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
 * NPCs eat better ([#89265](https://github.com/CleverRaven/Cataclysm-DDA/pull/89265))
-* Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
 * Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
@@ -234,12 +232,9 @@
 * Cure fainting NPCs ([#89264](https://github.com/CleverRaven/Cataclysm-DDA/pull/89264))
 * do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 ([#89255](https://github.com/CleverRaven/Cataclysm-DDA/pull/89255))
-* Fix mink and beaver rage ([#89244](https://github.com/CleverRaven/Cataclysm-DDA/pull/89244))
 * implement wound flags black and whitelists ([#89261](https://github.com/CleverRaven/Cataclysm-DDA/pull/89261))
 * Acid damage is no longer derived from cut ([#89249](https://github.com/CleverRaven/Cataclysm-DDA/pull/89249))
 * [Sky Island] Add lab CBM nest back to sky island ([#89253](https://github.com/CleverRaven/Cataclysm-DDA/pull/89253))
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
 * derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
-* reduce pain light scratches can give you ([#89245](https://github.com/CleverRaven/Cataclysm-DDA/pull/89245))
-* [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
