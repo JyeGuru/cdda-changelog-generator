@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-04-0000 ([0520c44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0000))
+
+* Highland grotto ([#89410](https://github.com/CleverRaven/Cataclysm-DDA/pull/89410))
+* Add farfarlakesea to comment command list ([#89414](https://github.com/CleverRaven/Cataclysm-DDA/pull/89414))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-2307 ([03d7597](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-2307))
+
+* kevlar hulk special attacks ([#89416](https://github.com/CleverRaven/Cataclysm-DDA/pull/89416))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-03-2207 ([bb51d7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-2207))
+
+* [Xedra Evolved] Luliya won't talk to the Fair Folk either ([#89418](https://github.com/CleverRaven/Cataclysm-DDA/pull/89418))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-03-1907 ([87000d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1907))
 
 * Fixbots! (part 1) ([#89409](https://github.com/CleverRaven/Cataclysm-DDA/pull/89409))
@@ -171,11 +190,6 @@
 * change skill required of various wound fixes  ([#89338](https://github.com/CleverRaven/Cataclysm-DDA/pull/89338))
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-30-1318 ([4d98c41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-30-1318))
-
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
 * Add slow cooker item ([#89257](https://github.com/CleverRaven/Cataclysm-DDA/pull/89257))
 * Add `BONELESS` flag for boneless limbs for bash wounds ([#89275](https://github.com/CleverRaven/Cataclysm-DDA/pull/89275))
@@ -210,12 +224,10 @@
 * [Innawood] Make birch bandages usable with new wound system ([#89282](https://github.com/CleverRaven/Cataclysm-DDA/pull/89282))
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
-* bash wounds ([#89243](https://github.com/CleverRaven/Cataclysm-DDA/pull/89243))
 * NPCs eat better ([#89265](https://github.com/CleverRaven/Cataclysm-DDA/pull/89265))
 * Fix lakeside cabin SQUARE OF DOOM ([#89247](https://github.com/CleverRaven/Cataclysm-DDA/pull/89247))
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
-* add caps to wound mod_values ([#89242](https://github.com/CleverRaven/Cataclysm-DDA/pull/89242))
 * Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
 * Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
 * Add missing languages ([#89260](https://github.com/CleverRaven/Cataclysm-DDA/pull/89260))
@@ -230,6 +242,4 @@
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
 * derived_from will derive wounds as well ([#89248](https://github.com/CleverRaven/Cataclysm-DDA/pull/89248))
 * reduce pain light scratches can give you ([#89245](https://github.com/CleverRaven/Cataclysm-DDA/pull/89245))
-* fix typo in NPC_ranch_doctor dialogue ([#89234](https://github.com/CleverRaven/Cataclysm-DDA/pull/89234))
 * [innawoods] Overwrite item_group for forest_trail to remove manmade trash ([#89246](https://github.com/CleverRaven/Cataclysm-DDA/pull/89246))
-* [MoM] Telepathic damage causes headache wounds ([#89236](https://github.com/CleverRaven/Cataclysm-DDA/pull/89236))
