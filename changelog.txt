@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2026-11-05-1244 (e94445b)
+* Fix language names (#89372)
+* Infection Immune medical mutants' self-cleaning wounds  (#89428)
+* update json_style doc (#89433)
+
+Cataclysm-DDA experimental build 2026-11-05-1157 (ce36759)
+* Fix dragged furniture deleting every second item (#89419)
+
 Cataclysm-DDA experimental build 2026-11-04-2040 (c19bb0c)
 * Bleeding condition improvements  (#89431)
 
@@ -37,9 +45,6 @@ Cataclysm-DDA experimental build 2026-11-03-1359 (6e847cc)
 
 Cataclysm-DDA experimental build 2026-11-03-1310 (d93629f)
 * Aftershock: Ravine datavault (#89400)
-
-Cataclysm-DDA experimental build 2026-11-03-1049 (dd40340)
-* Fix bottle gourd seed production issue (#89251)
 * Update weather_type.json for weather_type snowstorm (#89398)
 * Annealing tempered and hardened steel. Update cementation recipe (#89404)
 
@@ -88,18 +93,13 @@ Cataclysm-DDA experimental build 2026-10-31-1806 (a1a646d)
 Cataclysm-DDA experimental build 2026-10-31-1718 (84fc3f4)
 * single attack can apply two wounds at once (#89371)
 * Fix Crash with manual selection Inventory Eocs (#89379)
-
-Cataclysm-DDA experimental build 2026-10-31-1629 (4f7a847)
 * [XE] Successfully directly drinking blood removes living-drinker debuff. (#89380)
-
-Cataclysm-DDA experimental build 2026-10-31-0606 (a768761)
 * [MoM] Update Anabolic Rejuvenation for wounds (#89377)
 * Make the portal dungeon rewards available again and add some more rewards to it. (#89364)
 * Bionic wounds that can't be repaired yourself (#89348)
 * Make "not all control paths return a value" an error in windows builds. (#89373)
 * [MoM] Staunch Wound and Immunostimulus interact with wounds (#89370)
 * Remove amphetamine addicition from antidepressants (#89367)
-* Fix isherwood family quest (multiple issues) (#89250)
 * remove non wound bleeding (#89300)
 * change skill required of various wound fixes  (#89338)
 * [XE] Add supernatural wound healing (#89334)
@@ -148,6 +148,5 @@ Cataclysm-DDA experimental build 2026-10-31-0606 (a768761)
 * do not increase healing time of wound if it's worsened (#89269)
 * Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 (#89255)
 * implement wound flags black and whitelists (#89261)
-* [Sky Island] Add lab CBM nest back to sky island (#89253)
 * make damage_types and damage_required optional (#89256)
 * bleeding wounds are affected by bleeding_rate enchantment (#89259)
