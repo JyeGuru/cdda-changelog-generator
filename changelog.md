@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-05-1735 ([874788e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-05-1735))
+
+* Add _bodypart_is_wounded condition ([#89439](https://github.com/CleverRaven/Cataclysm-DDA/pull/89439))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-05-1244 ([e94445b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-05-1244))
 
 * Fix language names ([#89372](https://github.com/CleverRaven/Cataclysm-DDA/pull/89372))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-10-31-1806 ([a1a646d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-1806))
 
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-31-1718 ([84fc3f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-1718))
-
 * single attack can apply two wounds at once ([#89371](https://github.com/CleverRaven/Cataclysm-DDA/pull/89371))
 * Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
@@ -230,7 +231,6 @@
 * Add missing languages ([#89260](https://github.com/CleverRaven/Cataclysm-DDA/pull/89260))
 * Cure fainting NPCs ([#89264](https://github.com/CleverRaven/Cataclysm-DDA/pull/89264))
 * do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
-* Fix tools/json_tools/assign_mission_target_needs_om_special.bash for Ubuntu 26.04 ([#89255](https://github.com/CleverRaven/Cataclysm-DDA/pull/89255))
 * implement wound flags black and whitelists ([#89261](https://github.com/CleverRaven/Cataclysm-DDA/pull/89261))
 * make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
 * bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
