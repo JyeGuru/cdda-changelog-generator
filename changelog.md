@@ -1,6 +1,34 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-06-0615 ([89d8be9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0615))
+
+* No option to install CBMs with Rubik if you have the Hub 01 interface ([#89412](https://github.com/CleverRaven/Cataclysm-DDA/pull/89412))
+* [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
+* Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
+* Labyrinth expansion: sprawling buildings, raised walkways, and transitions to-and-fro ([#89437](https://github.com/CleverRaven/Cataclysm-DDA/pull/89437))
+* [DinoMod] more endgame skeletals ([#89393](https://github.com/CleverRaven/Cataclysm-DDA/pull/89393))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-06-0521 ([4025bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0521))
+
+* Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-06-0435 ([bb44115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0435))
+
+* [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-06-0343 ([39b684e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0343))
+
+* [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-05-1735 ([874788e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-05-1735))
 
 * Add _bodypart_is_wounded condition ([#89439](https://github.com/CleverRaven/Cataclysm-DDA/pull/89439))
@@ -152,29 +180,9 @@
 * stabs ([#89351](https://github.com/CleverRaven/Cataclysm-DDA/pull/89351))
 * Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
 * Make caffeine gum addicting and more potent ([#89354](https://github.com/CleverRaven/Cataclysm-DDA/pull/89354))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-01-1007 ([689603c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1007))
-
 * Flipped Trap and Furniture detection in sleep.cpp to fix rollmats ([#89346](https://github.com/CleverRaven/Cataclysm-DDA/pull/89346))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-01-0302 ([9c58336](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-0302))
-
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-01-0134 ([03378bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-0134))
-
 * add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
-
----
-
-#### Cataclysm-DDA experimental build 2026-10-31-1806 ([a1a646d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-10-31-1806))
-
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
 * single attack can apply two wounds at once ([#89371](https://github.com/CleverRaven/Cataclysm-DDA/pull/89371))
 * Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
@@ -190,7 +198,6 @@
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
-* Add slow cooker item ([#89257](https://github.com/CleverRaven/Cataclysm-DDA/pull/89257))
 * Add `BONELESS` flag for boneless limbs for bash wounds ([#89275](https://github.com/CleverRaven/Cataclysm-DDA/pull/89275))
 * Regeneration mutations can automatically "clean" wounds ([#89293](https://github.com/CleverRaven/Cataclysm-DDA/pull/89293))
 * Add small amount of `incoming_damage_mod_post_absorbed` to some effects ([#89323](https://github.com/CleverRaven/Cataclysm-DDA/pull/89323))
@@ -223,14 +230,7 @@
 * [Innawood] Make birch bandages usable with new wound system ([#89282](https://github.com/CleverRaven/Cataclysm-DDA/pull/89282))
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
-* NPCs eat better ([#89265](https://github.com/CleverRaven/Cataclysm-DDA/pull/89265))
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
 * Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
 * Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
-* Add missing languages ([#89260](https://github.com/CleverRaven/Cataclysm-DDA/pull/89260))
-* Cure fainting NPCs ([#89264](https://github.com/CleverRaven/Cataclysm-DDA/pull/89264))
-* do not increase healing time of wound if it's worsened ([#89269](https://github.com/CleverRaven/Cataclysm-DDA/pull/89269))
-* implement wound flags black and whitelists ([#89261](https://github.com/CleverRaven/Cataclysm-DDA/pull/89261))
-* make damage_types and damage_required optional ([#89256](https://github.com/CleverRaven/Cataclysm-DDA/pull/89256))
-* bleeding wounds are affected by bleeding_rate enchantment ([#89259](https://github.com/CleverRaven/Cataclysm-DDA/pull/89259))
