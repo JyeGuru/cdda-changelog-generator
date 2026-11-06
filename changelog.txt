@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-06-1016 (06be12f)
+* performance metrics report (#89274)
+
 Cataclysm-DDA experimental build 2026-11-06-0615 (89d8be9)
 * No option to install CBMs with Rubik if you have the Hub 01 interface (#89412)
 * [MoM] Reduce focused light armor derived-from heat (#89445)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2026-11-01-2106 (2e24c4d)
 
 Cataclysm-DDA experimental build 2026-11-01-1411 (2599825)
 * add new mon_special_attacks (#89278)
-
-Cataclysm-DDA experimental build 2026-11-01-1054 (65a0495)
 * stabs (#89351)
 * Remove stockings encumbrance and adjust masses of shoes and socks (#89355)
 * Make caffeine gum addicting and more potent (#89354)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2026-11-01-1054 (65a0495)
 * wound healing time can be adjusted (#89280)
 * obsolete bye_message_override (#89277)
 * Rewrite "Melee Weapon Mods" section of the FMS (#89273)
-* Fix crash choosing items to haul with a stale haul list (#89270)
 * Fix flaky steady noise NPC sleep test (#89272)

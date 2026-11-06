@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-06-1016 ([06be12f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-1016))
+
+* performance metrics report ([#89274](https://github.com/CleverRaven/Cataclysm-DDA/pull/89274))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-06-0615 ([89d8be9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0615))
 
 * No option to install CBMs with Rubik if you have the Hub 01 interface ([#89412](https://github.com/CleverRaven/Cataclysm-DDA/pull/89412))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-11-01-1411 ([2599825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1411))
 
 * add new mon_special_attacks ([#89278](https://github.com/CleverRaven/Cataclysm-DDA/pull/89278))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-01-1054 ([65a0495](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1054))
-
 * stabs ([#89351](https://github.com/CleverRaven/Cataclysm-DDA/pull/89351))
 * Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
 * Make caffeine gum addicting and more potent ([#89354](https://github.com/CleverRaven/Cataclysm-DDA/pull/89354))
@@ -232,5 +233,4 @@
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
-* Fix crash choosing items to haul with a stale haul list ([#89270](https://github.com/CleverRaven/Cataclysm-DDA/pull/89270))
 * Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
