@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-07-0104 ([ab0a628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0104))
+
+* Expanded queer representation for NPCs ([#89352](https://github.com/CleverRaven/Cataclysm-DDA/pull/89352))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-07-0002 ([bd94392](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0002))
+
+* Labyrinth Warlord ([#89427](https://github.com/CleverRaven/Cataclysm-DDA/pull/89427))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-06-1016 ([06be12f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-1016))
 
 * performance metrics report ([#89274](https://github.com/CleverRaven/Cataclysm-DDA/pull/89274))
@@ -166,17 +178,7 @@
 #### Cataclysm-DDA experimental build 2026-11-01-2158 ([d634946](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-2158))
 
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-01-2106 ([2e24c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-2106))
-
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-01-1411 ([2599825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-01-1411))
-
 * add new mon_special_attacks ([#89278](https://github.com/CleverRaven/Cataclysm-DDA/pull/89278))
 * stabs ([#89351](https://github.com/CleverRaven/Cataclysm-DDA/pull/89351))
 * Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
@@ -211,7 +213,6 @@
 * [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
 * Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
-* implement has_wound condition ([#89271](https://github.com/CleverRaven/Cataclysm-DDA/pull/89271))
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
 * Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
 * give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
@@ -233,4 +234,3 @@
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
 * obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
 * Rewrite "Melee Weapon Mods" section of the FMS ([#89273](https://github.com/CleverRaven/Cataclysm-DDA/pull/89273))
-* Fix flaky steady noise NPC sleep test ([#89272](https://github.com/CleverRaven/Cataclysm-DDA/pull/89272))
