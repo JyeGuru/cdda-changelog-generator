@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-07-0918 ([f29f608](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0918))
+
+* Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-07-0252 ([af4f237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0252))
 
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
@@ -16,12 +22,6 @@
 #### Cataclysm-DDA experimental build 2026-11-07-0002 ([bd94392](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0002))
 
 * Labyrinth Warlord ([#89427](https://github.com/CleverRaven/Cataclysm-DDA/pull/89427))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-06-1016 ([06be12f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-1016))
-
-* performance metrics report ([#89274](https://github.com/CleverRaven/Cataclysm-DDA/pull/89274))
 
 ---
 
@@ -171,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-11-02-1853 ([89ea00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-1853))
 
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-02-0439 ([0680c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-0439))
-
 * Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
@@ -202,7 +197,6 @@
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
-* Add `BONELESS` flag for boneless limbs for bash wounds ([#89275](https://github.com/CleverRaven/Cataclysm-DDA/pull/89275))
 * Regeneration mutations can automatically "clean" wounds ([#89293](https://github.com/CleverRaven/Cataclysm-DDA/pull/89293))
 * Add small amount of `incoming_damage_mod_post_absorbed` to some effects ([#89323](https://github.com/CleverRaven/Cataclysm-DDA/pull/89323))
 *  #84338 revived: an ancient Exodii and the Heart of The Warrior ([#89331](https://github.com/CleverRaven/Cataclysm-DDA/pull/89331))
