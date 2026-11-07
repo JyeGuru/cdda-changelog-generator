@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-07-1540 (c7f5189)
+* reasonable amount of salt in homes (#89462)
+
 Cataclysm-DDA experimental build 2026-11-07-0918 (f29f608)
 * Fix wound update when timer present (#89456)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2026-11-03-0846 (c479cf8)
 
 Cataclysm-DDA experimental build 2026-11-02-2043 (57cf429)
 * More support for C++20: char8_t (#89339)
-
-Cataclysm-DDA experimental build 2026-11-02-1853 (89ea00c)
 * [Xedra Evolved] One fixed glamour, one new glamour (#89402)
 * Re-add quantity to de-charged lab supplies (#89392)
 * avoid near and far #define s (#89397)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2026-11-02-1853 (89ea00c)
 * [Innawood] Make birch bandages usable with new wound system (#89282)
 * Fix clang debug builds with mold and libstdc++ 16 (#89299)
 * wound healing time can be adjusted (#89280)
-* obsolete bye_message_override (#89277)

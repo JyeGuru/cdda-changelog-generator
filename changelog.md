@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-07-1540 ([c7f5189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-1540))
+
+* reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-07-0918 ([f29f608](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0918))
 
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-11-02-2043 ([57cf429](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-2043))
 
 * More support for C++20: char8_t ([#89339](https://github.com/CleverRaven/Cataclysm-DDA/pull/89339))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-02-1853 ([89ea00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-1853))
-
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
 * Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
@@ -227,4 +228,3 @@
 * [Innawood] Make birch bandages usable with new wound system ([#89282](https://github.com/CleverRaven/Cataclysm-DDA/pull/89282))
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
 * wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
-* obsolete bye_message_override ([#89277](https://github.com/CleverRaven/Cataclysm-DDA/pull/89277))
