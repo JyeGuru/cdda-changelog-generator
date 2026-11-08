@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-08-0035 ([703ddf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0035))
+
+* New Scenario: Experienced (part 1) ([#89291](https://github.com/CleverRaven/Cataclysm-DDA/pull/89291))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-07-1540 ([c7f5189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-1540))
 
 * reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
@@ -165,18 +171,12 @@
 #### Cataclysm-DDA experimental build 2026-11-03-0846 ([c479cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-0846))
 
 * More dreams from the Cree'yn Cag'gii ([#89399](https://github.com/CleverRaven/Cataclysm-DDA/pull/89399))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-02-2043 ([57cf429](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-02-2043))
-
 * More support for C++20: char8_t ([#89339](https://github.com/CleverRaven/Cataclysm-DDA/pull/89339))
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
 * Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-* add new mon_special_attacks ([#89278](https://github.com/CleverRaven/Cataclysm-DDA/pull/89278))
 * stabs ([#89351](https://github.com/CleverRaven/Cataclysm-DDA/pull/89351))
 * Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
 * Make caffeine gum addicting and more potent ([#89354](https://github.com/CleverRaven/Cataclysm-DDA/pull/89354))
