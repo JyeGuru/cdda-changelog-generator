@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-08-0250 ([ecb1ef6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0250))
+
+* Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
+* Add Tentacle Rakes combat ([#89450](https://github.com/CleverRaven/Cataclysm-DDA/pull/89450))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-08-0155 ([963912c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0155))
+
+* Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-08-0035 ([703ddf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0035))
 
 * New Scenario: Experienced (part 1) ([#89291](https://github.com/CleverRaven/Cataclysm-DDA/pull/89291))
@@ -159,17 +172,7 @@
 * Aftershock: Ravine datavault ([#89400](https://github.com/CleverRaven/Cataclysm-DDA/pull/89400))
 * Update weather_type.json for weather_type snowstorm ([#89398](https://github.com/CleverRaven/Cataclysm-DDA/pull/89398))
 * Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-0959 ([57c07bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-0959))
-
 * loop around in dialogue boxes on the last indexes ([#89407](https://github.com/CleverRaven/Cataclysm-DDA/pull/89407))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-0846 ([c479cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-0846))
-
 * More dreams from the Cree'yn Cag'gii ([#89399](https://github.com/CleverRaven/Cataclysm-DDA/pull/89399))
 * More support for C++20: char8_t ([#89339](https://github.com/CleverRaven/Cataclysm-DDA/pull/89339))
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
@@ -225,6 +228,4 @@
 * Fix MEND_ALL for broken bones ([#89294](https://github.com/CleverRaven/Cataclysm-DDA/pull/89294))
 * [Xedra Evolved] Add more Bleed Immunity ([#89317](https://github.com/CleverRaven/Cataclysm-DDA/pull/89317))
 * Remove millitary bunker gas station special ([#89318](https://github.com/CleverRaven/Cataclysm-DDA/pull/89318))
-* [Innawood] Make birch bandages usable with new wound system ([#89282](https://github.com/CleverRaven/Cataclysm-DDA/pull/89282))
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
-* wound healing time can be adjusted ([#89280](https://github.com/CleverRaven/Cataclysm-DDA/pull/89280))
