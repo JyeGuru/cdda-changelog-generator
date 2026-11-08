@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-08-1649 ([4e3ac6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1649))
+
+* sword bayonet update ([#89449](https://github.com/CleverRaven/Cataclysm-DDA/pull/89449))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-08-1550 ([10bfe8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1550))
+
+* [alt-map-key] Add new overmap terrain ([#89468](https://github.com/CleverRaven/Cataclysm-DDA/pull/89468))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-08-1504 ([8d2458c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1504))
+
+* Lacerations/Scratches stage down when healing ([#89466](https://github.com/CleverRaven/Cataclysm-DDA/pull/89466))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-08-1158 ([a0e791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1158))
 
 * Adjust combat Exoskeleton pocket encumbrance and access cost ([#89464](https://github.com/CleverRaven/Cataclysm-DDA/pull/89464))
@@ -17,12 +35,6 @@
 #### Cataclysm-DDA experimental build 2026-11-08-0155 ([963912c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0155))
 
 * Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-0035 ([703ddf0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0035))
-
-* New Scenario: Experienced (part 1) ([#89291](https://github.com/CleverRaven/Cataclysm-DDA/pull/89291))
 
 ---
 
@@ -158,23 +170,8 @@
 #### Cataclysm-DDA experimental build 2026-11-03-1818 ([df0a28a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1818))
 
 * Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs ([#89415](https://github.com/CleverRaven/Cataclysm-DDA/pull/89415))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-1557 ([e26bd15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1557))
-
 * Weekly Changelog 2026-10-26 to 2026-11-02 ([#89401](https://github.com/CleverRaven/Cataclysm-DDA/pull/89401))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-1359 ([6e847cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1359))
-
 * Shrink wound fix options + some UI improvements ([#89408](https://github.com/CleverRaven/Cataclysm-DDA/pull/89408))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-1310 ([d93629f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1310))
-
 * Aftershock: Ravine datavault ([#89400](https://github.com/CleverRaven/Cataclysm-DDA/pull/89400))
 * Update weather_type.json for weather_type snowstorm ([#89398](https://github.com/CleverRaven/Cataclysm-DDA/pull/89398))
 * Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
@@ -207,7 +204,6 @@
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
-* Regeneration mutations can automatically "clean" wounds ([#89293](https://github.com/CleverRaven/Cataclysm-DDA/pull/89293))
 * Add small amount of `incoming_damage_mod_post_absorbed` to some effects ([#89323](https://github.com/CleverRaven/Cataclysm-DDA/pull/89323))
 *  #84338 revived: an ancient Exodii and the Heart of The Warrior ([#89331](https://github.com/CleverRaven/Cataclysm-DDA/pull/89331))
 * add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
@@ -230,7 +226,6 @@
 * [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
 * fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
 * Add _remove_all_wounds and _has_body_part effect and condition ([#89314](https://github.com/CleverRaven/Cataclysm-DDA/pull/89314))
-* Fix MEND_ALL for broken bones ([#89294](https://github.com/CleverRaven/Cataclysm-DDA/pull/89294))
 * [Xedra Evolved] Add more Bleed Immunity ([#89317](https://github.com/CleverRaven/Cataclysm-DDA/pull/89317))
 * Remove millitary bunker gas station special ([#89318](https://github.com/CleverRaven/Cataclysm-DDA/pull/89318))
 * Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
