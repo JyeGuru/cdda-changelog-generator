@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-08-2130 ([84cb5d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-2130))
+
+* Remove handcrafted katana from one month survivor  ([#89474](https://github.com/CleverRaven/Cataclysm-DDA/pull/89474))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-08-1649 ([4e3ac6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1649))
 
 * sword bayonet update ([#89449](https://github.com/CleverRaven/Cataclysm-DDA/pull/89449))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2026-11-03-1907 ([87000d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1907))
 
 * Fixbots! (part 1) ([#89409](https://github.com/CleverRaven/Cataclysm-DDA/pull/89409))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-1818 ([df0a28a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-1818))
-
 * Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs ([#89415](https://github.com/CleverRaven/Cataclysm-DDA/pull/89415))
 * Weekly Changelog 2026-10-26 to 2026-11-02 ([#89401](https://github.com/CleverRaven/Cataclysm-DDA/pull/89401))
 * Shrink wound fix options + some UI improvements ([#89408](https://github.com/CleverRaven/Cataclysm-DDA/pull/89408))
@@ -210,7 +211,6 @@
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
 * [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
 * minor refactor of wounds stuff ([#89335](https://github.com/CleverRaven/Cataclysm-DDA/pull/89335))
-* Weekly Changelog 2026-10-19 to 2026-10-26 ([#89296](https://github.com/CleverRaven/Cataclysm-DDA/pull/89296))
 * [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
 * Aftershock: Add a rocket launcher ([#89297](https://github.com/CleverRaven/Cataclysm-DDA/pull/89297))
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
