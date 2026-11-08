@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-08-1158 (a0e791a)
+* Adjust combat Exoskeleton pocket encumbrance and access cost (#89464)
+
 Cataclysm-DDA experimental build 2026-11-08-0250 (ecb1ef6)
 * Bruises stage down when healing (#89457)
 * Add Tentacle Rakes combat (#89450)
@@ -141,7 +144,6 @@ Cataclysm-DDA experimental build 2026-11-03-1310 (d93629f)
 * Zone tasks fetch only what they lack and clear their marks (#89327)
 * Unmagic HWP (#89312)
 * [Sky Island] Heal all wounds (#89315)
-* Account for REGEN_WOUNDS (#89289)
 * fix wound whitelists (#89309)
 * Add _remove_all_wounds and _has_body_part effect and condition (#89314)
 * Fix MEND_ALL for broken bones (#89294)

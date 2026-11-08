@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-08-1158 ([a0e791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1158))
+
+* Adjust combat Exoskeleton pocket encumbrance and access cost ([#89464](https://github.com/CleverRaven/Cataclysm-DDA/pull/89464))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-08-0250 ([ecb1ef6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0250))
 
 * Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
@@ -222,7 +228,6 @@
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
 * Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
 * [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
-* Account for REGEN_WOUNDS ([#89289](https://github.com/CleverRaven/Cataclysm-DDA/pull/89289))
 * fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
 * Add _remove_all_wounds and _has_body_part effect and condition ([#89314](https://github.com/CleverRaven/Cataclysm-DDA/pull/89314))
 * Fix MEND_ALL for broken bones ([#89294](https://github.com/CleverRaven/Cataclysm-DDA/pull/89294))
