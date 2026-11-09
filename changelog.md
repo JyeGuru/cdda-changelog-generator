@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-09-1243 ([d5038aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1243))
+
+* Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-09-1107 ([09a9699](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1107))
+
+* Add _bodypart_is_wounded_and_fixable condition  ([#89467](https://github.com/CleverRaven/Cataclysm-DDA/pull/89467))
+* [innawoods] No more canvas sacks without canvas ([#89472](https://github.com/CleverRaven/Cataclysm-DDA/pull/89472))
+* remove radiation triggered mutation from lore doc ([#89485](https://github.com/CleverRaven/Cataclysm-DDA/pull/89485))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-09-1012 ([7495fbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1012))
+
+* remove blob healing factor section from lore doc ([#89484](https://github.com/CleverRaven/Cataclysm-DDA/pull/89484))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-09-0647 ([da501b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-0647))
 
 * Stabs and cuts stage down ([#89487](https://github.com/CleverRaven/Cataclysm-DDA/pull/89487))
@@ -151,24 +171,9 @@
 * small wound tweaks ([#89422](https://github.com/CleverRaven/Cataclysm-DDA/pull/89422))
 * Some types of anatomy can't get bruises ([#89423](https://github.com/CleverRaven/Cataclysm-DDA/pull/89423))
 * Overhaul Hub side of Isherwood rescue mission ([#89357](https://github.com/CleverRaven/Cataclysm-DDA/pull/89357))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-04-0000 ([0520c44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0000))
-
 * Highland grotto ([#89410](https://github.com/CleverRaven/Cataclysm-DDA/pull/89410))
 * Add farfarlakesea to comment command list ([#89414](https://github.com/CleverRaven/Cataclysm-DDA/pull/89414))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-2307 ([03d7597](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-2307))
-
 * kevlar hulk special attacks ([#89416](https://github.com/CleverRaven/Cataclysm-DDA/pull/89416))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-03-2207 ([bb51d7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-03-2207))
-
 * [Xedra Evolved] Luliya won't talk to the Fair Folk either ([#89418](https://github.com/CleverRaven/Cataclysm-DDA/pull/89418))
 * Fixbots! (part 1) ([#89409](https://github.com/CleverRaven/Cataclysm-DDA/pull/89409))
 * Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs ([#89415](https://github.com/CleverRaven/Cataclysm-DDA/pull/89415))
@@ -201,7 +206,6 @@
 * Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
 * [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
 * Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
-* remove non wound bleeding ([#89300](https://github.com/CleverRaven/Cataclysm-DDA/pull/89300))
 * change skill required of various wound fixes  ([#89338](https://github.com/CleverRaven/Cataclysm-DDA/pull/89338))
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
@@ -222,10 +226,6 @@
 * wound balace and some new wounds ([#89320](https://github.com/CleverRaven/Cataclysm-DDA/pull/89320))
 * First wave of bionic wounds ([#89322](https://github.com/CleverRaven/Cataclysm-DDA/pull/89322))
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
-* Unmagic HWP ([#89312](https://github.com/CleverRaven/Cataclysm-DDA/pull/89312))
 * [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
-* fix wound whitelists ([#89309](https://github.com/CleverRaven/Cataclysm-DDA/pull/89309))
-* Add _remove_all_wounds and _has_body_part effect and condition ([#89314](https://github.com/CleverRaven/Cataclysm-DDA/pull/89314))
 * [Xedra Evolved] Add more Bleed Immunity ([#89317](https://github.com/CleverRaven/Cataclysm-DDA/pull/89317))
 * Remove millitary bunker gas station special ([#89318](https://github.com/CleverRaven/Cataclysm-DDA/pull/89318))
-* Fix clang debug builds with mold and libstdc++ 16 ([#89299](https://github.com/CleverRaven/Cataclysm-DDA/pull/89299))
