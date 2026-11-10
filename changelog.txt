@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2026-11-10-0040 (a4956d1)
+* [Xedra Evolved] Update Arvore regen wounds (#89481)
+
+Cataclysm-DDA experimental build 2026-11-09-2340 (e5e57a2)
+* wound pain is affected by other stuff (#89453)
+* Tests fix on CMake Windows builds in npc_test.cpp (#89491)
+
 Cataclysm-DDA experimental build 2026-11-09-1243 (d5038aa)
 * Add vine wounds (#89489)
 
@@ -85,8 +92,6 @@ Cataclysm-DDA experimental build 2026-11-04-1955 (93c67c9)
 
 Cataclysm-DDA experimental build 2026-11-04-0759 (f28c60c)
 * [Sky Island] Add myself as SI maintainer (#89429)
-
-Cataclysm-DDA experimental build 2026-11-04-0301 (8295b02)
 * small wound tweaks (#89422)
 * Some types of anatomy can't get bruises (#89423)
 * Overhaul Hub side of Isherwood rescue mission (#89357)
@@ -145,6 +150,3 @@ Cataclysm-DDA experimental build 2026-11-04-0301 (8295b02)
 * wound balace and some new wounds (#89320)
 * First wave of bionic wounds (#89322)
 * Zone tasks fetch only what they lack and clear their marks (#89327)
-* [Sky Island] Heal all wounds (#89315)
-* [Xedra Evolved] Add more Bleed Immunity (#89317)
-* Remove millitary bunker gas station special (#89318)

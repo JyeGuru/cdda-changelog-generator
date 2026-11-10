@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-10-0040 ([a4956d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0040))
+
+* [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-09-2340 ([e5e57a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-2340))
+
+* wound pain is affected by other stuff ([#89453](https://github.com/CleverRaven/Cataclysm-DDA/pull/89453))
+* Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-09-1243 ([d5038aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1243))
 
 * Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
@@ -163,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2026-11-04-0759 ([f28c60c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0759))
 
 * [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-04-0301 ([8295b02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-0301))
-
 * small wound tweaks ([#89422](https://github.com/CleverRaven/Cataclysm-DDA/pull/89422))
 * Some types of anatomy can't get bruises ([#89423](https://github.com/CleverRaven/Cataclysm-DDA/pull/89423))
 * Overhaul Hub side of Isherwood rescue mission ([#89357](https://github.com/CleverRaven/Cataclysm-DDA/pull/89357))
@@ -226,6 +234,3 @@
 * wound balace and some new wounds ([#89320](https://github.com/CleverRaven/Cataclysm-DDA/pull/89320))
 * First wave of bionic wounds ([#89322](https://github.com/CleverRaven/Cataclysm-DDA/pull/89322))
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
-* [Sky Island] Heal all wounds ([#89315](https://github.com/CleverRaven/Cataclysm-DDA/pull/89315))
-* [Xedra Evolved] Add more Bleed Immunity ([#89317](https://github.com/CleverRaven/Cataclysm-DDA/pull/89317))
-* Remove millitary bunker gas station special ([#89318](https://github.com/CleverRaven/Cataclysm-DDA/pull/89318))
