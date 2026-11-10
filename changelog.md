@@ -231,6 +231,5 @@
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
 * Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
 * give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
-* Change from index access to json.get in wounds parser ([#89321](https://github.com/CleverRaven/Cataclysm-DDA/pull/89321))
 * First wave of bionic wounds ([#89322](https://github.com/CleverRaven/Cataclysm-DDA/pull/89322))
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
