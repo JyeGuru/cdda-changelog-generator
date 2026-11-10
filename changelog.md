@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-10-2117 ([315a018](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-2117))
+
+* Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-10-1846 ([77036fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-1846))
+
+* Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-10-0455 ([51c589b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0455))
 
 * Activating certain items now takes up some in-game time ([#89460](https://github.com/CleverRaven/Cataclysm-DDA/pull/89460))
@@ -164,17 +176,7 @@
 * Fix language names ([#89372](https://github.com/CleverRaven/Cataclysm-DDA/pull/89372))
 * Infection Immune medical mutants' self-cleaning wounds  ([#89428](https://github.com/CleverRaven/Cataclysm-DDA/pull/89428))
 * update json_style doc ([#89433](https://github.com/CleverRaven/Cataclysm-DDA/pull/89433))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-05-1157 ([ce36759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-05-1157))
-
 * Fix dragged furniture deleting every second item ([#89419](https://github.com/CleverRaven/Cataclysm-DDA/pull/89419))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-04-2040 ([c19bb0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-04-2040))
-
 * Bleeding condition improvements  ([#89431](https://github.com/CleverRaven/Cataclysm-DDA/pull/89431))
 * Compensate for oceanside starts for the scarlet storm ([#89430](https://github.com/CleverRaven/Cataclysm-DDA/pull/89430))
 * [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
@@ -220,7 +222,6 @@
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
-* Add small amount of `incoming_damage_mod_post_absorbed` to some effects ([#89323](https://github.com/CleverRaven/Cataclysm-DDA/pull/89323))
 *  #84338 revived: an ancient Exodii and the Heart of The Warrior ([#89331](https://github.com/CleverRaven/Cataclysm-DDA/pull/89331))
 * add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
@@ -231,5 +232,4 @@
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
 * Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
 * give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
-* First wave of bionic wounds ([#89322](https://github.com/CleverRaven/Cataclysm-DDA/pull/89322))
 * Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
