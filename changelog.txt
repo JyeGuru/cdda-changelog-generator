@@ -1,4 +1,13 @@
 
+Cataclysm-DDA experimental build 2026-11-11-0358 (a90146c)
+* Add HESCO MIL 3 earth-filled barriers (#89443)
+
+Cataclysm-DDA experimental build 2026-11-11-0305 (700e1e9)
+* Aftershock: Combat Headsets (#89438)
+
+Cataclysm-DDA experimental build 2026-11-11-0211 (79409a8)
+* Allow mutations to destroy all conflicting bionics (#89498)
+
 Cataclysm-DDA experimental build 2026-11-10-2117 (315a018)
 * Combat weariness 2 (#89469)
 
@@ -78,17 +87,9 @@ Cataclysm-DDA experimental build 2026-11-06-0615 (89d8be9)
 
 Cataclysm-DDA experimental build 2026-11-06-0521 (4025bd2)
 * Limbify tentacle arms (#89444)
-
-Cataclysm-DDA experimental build 2026-11-06-0435 (bb44115)
 * [Xedra Evolved] Rework Paraclesian healing draughts (#89442)
-
-Cataclysm-DDA experimental build 2026-11-06-0343 (39b684e)
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams (#89440)
-
-Cataclysm-DDA experimental build 2026-11-05-1735 (874788e)
 * Add _bodypart_is_wounded condition (#89439)
-
-Cataclysm-DDA experimental build 2026-11-05-1244 (e94445b)
 * Fix language names (#89372)
 * Infection Immune medical mutants' self-cleaning wounds  (#89428)
 * update json_style doc (#89433)
@@ -146,6 +147,3 @@ Cataclysm-DDA experimental build 2026-11-05-1244 (e94445b)
 * [MoM] Add pain caps for telepathic headache wounds (#89341)
 * bottle up alcohol game (#89337)
 * Flake8 linter fixes (#89332)
-* Add lesbian representation (#89330)
-* give cobalt pellets and slurry trader avoid flag (#89328)
-* Zone tasks fetch only what they lack and clear their marks (#89327)

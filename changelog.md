@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-11-0358 ([a90146c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0358))
+
+* Add HESCO MIL 3 earth-filled barriers ([#89443](https://github.com/CleverRaven/Cataclysm-DDA/pull/89443))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-11-0305 ([700e1e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0305))
+
+* Aftershock: Combat Headsets ([#89438](https://github.com/CleverRaven/Cataclysm-DDA/pull/89438))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-11-0211 ([79409a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0211))
+
+* Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-10-2117 ([315a018](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-2117))
 
 * Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
@@ -150,29 +168,9 @@
 #### Cataclysm-DDA experimental build 2026-11-06-0521 ([4025bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0521))
 
 * Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-06-0435 ([bb44115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0435))
-
 * [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-06-0343 ([39b684e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0343))
-
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-05-1735 ([874788e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-05-1735))
-
 * Add _bodypart_is_wounded condition ([#89439](https://github.com/CleverRaven/Cataclysm-DDA/pull/89439))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-05-1244 ([e94445b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-05-1244))
-
 * Fix language names ([#89372](https://github.com/CleverRaven/Cataclysm-DDA/pull/89372))
 * Infection Immune medical mutants' self-cleaning wounds  ([#89428](https://github.com/CleverRaven/Cataclysm-DDA/pull/89428))
 * update json_style doc ([#89433](https://github.com/CleverRaven/Cataclysm-DDA/pull/89433))
@@ -230,6 +228,3 @@
 * [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
 * bottle up alcohol game ([#89337](https://github.com/CleverRaven/Cataclysm-DDA/pull/89337))
 * Flake8 linter fixes ([#89332](https://github.com/CleverRaven/Cataclysm-DDA/pull/89332))
-* Add lesbian representation ([#89330](https://github.com/CleverRaven/Cataclysm-DDA/pull/89330))
-* give cobalt pellets and slurry trader avoid flag ([#89328](https://github.com/CleverRaven/Cataclysm-DDA/pull/89328))
-* Zone tasks fetch only what they lack and clear their marks ([#89327](https://github.com/CleverRaven/Cataclysm-DDA/pull/89327))
