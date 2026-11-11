@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-11-1319 ([7d4900f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-1319))
+
+* Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-11-0358 ([a90146c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0358))
 
 * Add HESCO MIL 3 earth-filled barriers ([#89443](https://github.com/CleverRaven/Cataclysm-DDA/pull/89443))
@@ -162,11 +168,6 @@
 * Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
 * Labyrinth expansion: sprawling buildings, raised walkways, and transitions to-and-fro ([#89437](https://github.com/CleverRaven/Cataclysm-DDA/pull/89437))
 * [DinoMod] more endgame skeletals ([#89393](https://github.com/CleverRaven/Cataclysm-DDA/pull/89393))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-06-0521 ([4025bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-06-0521))
-
 * Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
 * [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
@@ -220,7 +221,6 @@
 * [XE] Add supernatural wound healing ([#89334](https://github.com/CleverRaven/Cataclysm-DDA/pull/89334))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
-*  #84338 revived: an ancient Exodii and the Heart of The Warrior ([#89331](https://github.com/CleverRaven/Cataclysm-DDA/pull/89331))
 * add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
 * [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
