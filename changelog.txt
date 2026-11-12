@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-12-2227 (feb2e63)
+* [Xedra Evolved] Elemental samples to essence (#89522)
+
 Cataclysm-DDA experimental build 2026-11-12-0620 (a7303e0)
 * Rewrite wound text to be more colorful and immersive (#89492)
 * Remove all legacy `int`-indexed item accessors for `Character` and `outfit` (#89509)
@@ -84,8 +87,6 @@ Cataclysm-DDA experimental build 2026-11-07-0918 (f29f608)
 
 Cataclysm-DDA experimental build 2026-11-07-0252 (af4f237)
 * [DinoMod] Rubik will not talk if he does not like you (#89455)
-
-Cataclysm-DDA experimental build 2026-11-07-0104 (ab0a628)
 * Expanded queer representation for NPCs (#89352)
 * Labyrinth Warlord (#89427)
 * No option to install CBMs with Rubik if you have the Hub 01 interface (#89412)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2026-11-07-0104 (ab0a628)
 * Annealing tempered and hardened steel. Update cementation recipe (#89404)
 * loop around in dialogue boxes on the last indexes (#89407)
 * More dreams from the Cree'yn Cag'gii (#89399)
-* More support for C++20: char8_t (#89339)
 * [Xedra Evolved] One fixed glamour, one new glamour (#89402)
 * Re-add quantity to de-charged lab supplies (#89392)
 * avoid near and far #define s (#89397)

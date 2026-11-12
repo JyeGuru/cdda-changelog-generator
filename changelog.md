@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-12-2227 ([feb2e63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-12-2227))
+
+* [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-12-0620 ([a7303e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-12-0620))
 
 * Rewrite wound text to be more colorful and immersive ([#89492](https://github.com/CleverRaven/Cataclysm-DDA/pull/89492))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2026-11-07-0252 ([af4f237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0252))
 
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-07-0104 ([ab0a628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0104))
-
 * Expanded queer representation for NPCs ([#89352](https://github.com/CleverRaven/Cataclysm-DDA/pull/89352))
 * Labyrinth Warlord ([#89427](https://github.com/CleverRaven/Cataclysm-DDA/pull/89427))
 * No option to install CBMs with Rubik if you have the Hub 01 interface ([#89412](https://github.com/CleverRaven/Cataclysm-DDA/pull/89412))
@@ -204,7 +205,6 @@
 * Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
 * loop around in dialogue boxes on the last indexes ([#89407](https://github.com/CleverRaven/Cataclysm-DDA/pull/89407))
 * More dreams from the Cree'yn Cag'gii ([#89399](https://github.com/CleverRaven/Cataclysm-DDA/pull/89399))
-* More support for C++20: char8_t ([#89339](https://github.com/CleverRaven/Cataclysm-DDA/pull/89339))
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
 * Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
