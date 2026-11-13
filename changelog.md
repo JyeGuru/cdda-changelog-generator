@@ -1,3 +1,23 @@
+* Slightly nerf Nauseating Stench ([#89526](https://github.com/CleverRaven/Cataclysm-DDA/pull/89526))
+* revamp the berserk code a bit ([#89531](https://github.com/CleverRaven/Cataclysm-DDA/pull/89531))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-0437 ([a8b6d06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0437))
+
+* Blanched acorns correspond properly to raw acorns ([#89516](https://github.com/CleverRaven/Cataclysm-DDA/pull/89516))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-0351 ([f3e90c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0351))
+
+* the warlord arrives ([#89529](https://github.com/CleverRaven/Cataclysm-DDA/pull/89529))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-0157 ([e988fdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0157))
+
+* [Xedra Evolved] Fix Fist of Taranis spell class/type ([#89525](https://github.com/CleverRaven/Cataclysm-DDA/pull/89525))
 
 ---
 
@@ -153,25 +173,9 @@
 #### Cataclysm-DDA experimental build 2026-11-08-0155 ([963912c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0155))
 
 * Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-07-1540 ([c7f5189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-1540))
-
 * reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-07-0918 ([f29f608](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0918))
-
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-07-0252 ([af4f237](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-07-0252))
-
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
-* Expanded queer representation for NPCs ([#89352](https://github.com/CleverRaven/Cataclysm-DDA/pull/89352))
 * Labyrinth Warlord ([#89427](https://github.com/CleverRaven/Cataclysm-DDA/pull/89427))
 * No option to install CBMs with Rubik if you have the Hub 01 interface ([#89412](https://github.com/CleverRaven/Cataclysm-DDA/pull/89412))
 * [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
@@ -210,10 +214,8 @@
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-* stabs ([#89351](https://github.com/CleverRaven/Cataclysm-DDA/pull/89351))
 * Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
 * Make caffeine gum addicting and more potent ([#89354](https://github.com/CleverRaven/Cataclysm-DDA/pull/89354))
-* Flipped Trap and Furniture detection in sleep.cpp to fix rollmats ([#89346](https://github.com/CleverRaven/Cataclysm-DDA/pull/89346))
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
 * add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
@@ -222,7 +224,6 @@
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
 * [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
 * Make the portal dungeon rewards available again and add some more rewards to it. ([#89364](https://github.com/CleverRaven/Cataclysm-DDA/pull/89364))
-* Bionic wounds that can't be repaired yourself ([#89348](https://github.com/CleverRaven/Cataclysm-DDA/pull/89348))
 * Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
 * [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
 * Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
@@ -231,4 +232,3 @@
 * add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
 * [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
-* [MoM] Add pain caps for telepathic headache wounds ([#89341](https://github.com/CleverRaven/Cataclysm-DDA/pull/89341))
