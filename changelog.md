@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-0714 ([27c423b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0714))
+
+* Conversion kits have lower capacity magazines ([#89538](https://github.com/CleverRaven/Cataclysm-DDA/pull/89538))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-0633 ([e99f5c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0633))
+
+* Fuse amounts for recipes adjusted, minor recipe tweaks ([#89533](https://github.com/CleverRaven/Cataclysm-DDA/pull/89533))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-0526 ([9e8e765](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0526))
+
 * Slightly nerf Nauseating Stench ([#89526](https://github.com/CleverRaven/Cataclysm-DDA/pull/89526))
 * revamp the berserk code a bit ([#89531](https://github.com/CleverRaven/Cataclysm-DDA/pull/89531))
 
@@ -160,18 +177,8 @@
 #### Cataclysm-DDA experimental build 2026-11-08-1158 ([a0e791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1158))
 
 * Adjust combat Exoskeleton pocket encumbrance and access cost ([#89464](https://github.com/CleverRaven/Cataclysm-DDA/pull/89464))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-0250 ([ecb1ef6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0250))
-
 * Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
 * Add Tentacle Rakes combat ([#89450](https://github.com/CleverRaven/Cataclysm-DDA/pull/89450))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-0155 ([963912c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-0155))
-
 * Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
 * reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
@@ -215,7 +222,6 @@
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
 * Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
-* Make caffeine gum addicting and more potent ([#89354](https://github.com/CleverRaven/Cataclysm-DDA/pull/89354))
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
 * add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
@@ -231,4 +237,3 @@
 * Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
 * add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
-* [ Magyclism ] fix #89345 ([#89353](https://github.com/CleverRaven/Cataclysm-DDA/pull/89353))
