@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-13-1700 ([975c96c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1700))
+
+* prevent deconstructing of ter/furn that cannot be transported ([#89499](https://github.com/CleverRaven/Cataclysm-DDA/pull/89499))
+* improve explosive use action info ([#89517](https://github.com/CleverRaven/Cataclysm-DDA/pull/89517))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-1610 ([6606763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1610))
+
+* [Xedra Evolved] Ríastrad edits  ([#89510](https://github.com/CleverRaven/Cataclysm-DDA/pull/89510))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-13-1517 ([e7e1d6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1517))
+
+* [Xedra Evolved] Fix crash bug with Salamander/Arvore draughts ([#89536](https://github.com/CleverRaven/Cataclysm-DDA/pull/89536))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-13-0714 ([27c423b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0714))
 
 * Conversion kits have lower capacity magazines ([#89538](https://github.com/CleverRaven/Cataclysm-DDA/pull/89538))
@@ -159,23 +178,8 @@
 #### Cataclysm-DDA experimental build 2026-11-08-1649 ([4e3ac6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1649))
 
 * sword bayonet update ([#89449](https://github.com/CleverRaven/Cataclysm-DDA/pull/89449))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-1550 ([10bfe8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1550))
-
 * [alt-map-key] Add new overmap terrain ([#89468](https://github.com/CleverRaven/Cataclysm-DDA/pull/89468))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-1504 ([8d2458c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1504))
-
 * Lacerations/Scratches stage down when healing ([#89466](https://github.com/CleverRaven/Cataclysm-DDA/pull/89466))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-1158 ([a0e791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1158))
-
 * Adjust combat Exoskeleton pocket encumbrance and access cost ([#89464](https://github.com/CleverRaven/Cataclysm-DDA/pull/89464))
 * Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
 * Add Tentacle Rakes combat ([#89450](https://github.com/CleverRaven/Cataclysm-DDA/pull/89450))
@@ -202,7 +206,6 @@
 * [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
 * small wound tweaks ([#89422](https://github.com/CleverRaven/Cataclysm-DDA/pull/89422))
 * Some types of anatomy can't get bruises ([#89423](https://github.com/CleverRaven/Cataclysm-DDA/pull/89423))
-* Overhaul Hub side of Isherwood rescue mission ([#89357](https://github.com/CleverRaven/Cataclysm-DDA/pull/89357))
 * Highland grotto ([#89410](https://github.com/CleverRaven/Cataclysm-DDA/pull/89410))
 * Add farfarlakesea to comment command list ([#89414](https://github.com/CleverRaven/Cataclysm-DDA/pull/89414))
 * kevlar hulk special attacks ([#89416](https://github.com/CleverRaven/Cataclysm-DDA/pull/89416))
@@ -221,7 +224,6 @@
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-* Remove stockings encumbrance and adjust masses of shoes and socks ([#89355](https://github.com/CleverRaven/Cataclysm-DDA/pull/89355))
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
 * add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
@@ -234,6 +236,4 @@
 * [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
 * Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
 * bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
-* Add buffalo sauce ([#89356](https://github.com/CleverRaven/Cataclysm-DDA/pull/89356))
-* add heat and cold resistance to cybernetic limbs ([#89358](https://github.com/CleverRaven/Cataclysm-DDA/pull/89358))
 * Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
