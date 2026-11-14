@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-14-2231 ([6627ec0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-2231))
+
+* Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
+* Remove "tty" test from #89339 ([#89521](https://github.com/CleverRaven/Cataclysm-DDA/pull/89521))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-14-1807 ([2c27ce5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-1807))
 
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
@@ -171,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-11-10-0040 ([a4956d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0040))
 
 * [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-09-2340 ([e5e57a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-2340))
-
 * wound pain is affected by other stuff ([#89453](https://github.com/CleverRaven/Cataclysm-DDA/pull/89453))
 * Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
 * Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
@@ -205,7 +207,6 @@
 * [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
 * Add _bodypart_is_wounded condition ([#89439](https://github.com/CleverRaven/Cataclysm-DDA/pull/89439))
-* Fix language names ([#89372](https://github.com/CleverRaven/Cataclysm-DDA/pull/89372))
 * Infection Immune medical mutants' self-cleaning wounds  ([#89428](https://github.com/CleverRaven/Cataclysm-DDA/pull/89428))
 * update json_style doc ([#89433](https://github.com/CleverRaven/Cataclysm-DDA/pull/89433))
 * Fix dragged furniture deleting every second item ([#89419](https://github.com/CleverRaven/Cataclysm-DDA/pull/89419))
@@ -237,4 +238,3 @@
 * Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
 * [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
-* Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
