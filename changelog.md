@@ -1,6 +1,32 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-14-0702 ([db8d468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0702))
+
+* [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-14-0335 ([e814bac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0335))
+
+* [Xedra Evolved] Increase elemental mana ([#89537](https://github.com/CleverRaven/Cataclysm-DDA/pull/89537))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-14-0209 ([b3c146e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0209))
+
+* Fix NPC missions related to FEMA campsite ([#89528](https://github.com/CleverRaven/Cataclysm-DDA/pull/89528))
+* [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore ([#89535](https://github.com/CleverRaven/Cataclysm-DDA/pull/89535))
+* Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-14-0120 ([082d042](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0120))
+
+* cleanup explosive materials and requirements ([#89540](https://github.com/CleverRaven/Cataclysm-DDA/pull/89540))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-13-1700 ([975c96c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1700))
 
 * prevent deconstructing of ter/furn that cannot be transported ([#89499](https://github.com/CleverRaven/Cataclysm-DDA/pull/89499))
@@ -154,29 +180,9 @@
 * Add _bodypart_is_wounded_and_fixable condition  ([#89467](https://github.com/CleverRaven/Cataclysm-DDA/pull/89467))
 * [innawoods] No more canvas sacks without canvas ([#89472](https://github.com/CleverRaven/Cataclysm-DDA/pull/89472))
 * remove radiation triggered mutation from lore doc ([#89485](https://github.com/CleverRaven/Cataclysm-DDA/pull/89485))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-09-1012 ([7495fbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1012))
-
 * remove blob healing factor section from lore doc ([#89484](https://github.com/CleverRaven/Cataclysm-DDA/pull/89484))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-09-0647 ([da501b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-0647))
-
 * Stabs and cuts stage down ([#89487](https://github.com/CleverRaven/Cataclysm-DDA/pull/89487))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-2130 ([84cb5d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-2130))
-
 * Remove handcrafted katana from one month survivor  ([#89474](https://github.com/CleverRaven/Cataclysm-DDA/pull/89474))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-08-1649 ([4e3ac6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-08-1649))
-
 * sword bayonet update ([#89449](https://github.com/CleverRaven/Cataclysm-DDA/pull/89449))
 * [alt-map-key] Add new overmap terrain ([#89468](https://github.com/CleverRaven/Cataclysm-DDA/pull/89468))
 * Lacerations/Scratches stage down when healing ([#89466](https://github.com/CleverRaven/Cataclysm-DDA/pull/89466))
@@ -225,15 +231,10 @@
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
-* add CO2 powered airguns, adjust itemgroups ([#89369](https://github.com/CleverRaven/Cataclysm-DDA/pull/89369))
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
 * single attack can apply two wounds at once ([#89371](https://github.com/CleverRaven/Cataclysm-DDA/pull/89371))
 * Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
 * [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
-* Make the portal dungeon rewards available again and add some more rewards to it. ([#89364](https://github.com/CleverRaven/Cataclysm-DDA/pull/89364))
 * Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
 * [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
-* Remove amphetamine addicition from antidepressants ([#89367](https://github.com/CleverRaven/Cataclysm-DDA/pull/89367))
-* bionic wounds 3: better plating damage ([#89359](https://github.com/CleverRaven/Cataclysm-DDA/pull/89359))
-* Add unnatural wound healing effect, make it a possible artifact effect ([#89360](https://github.com/CleverRaven/Cataclysm-DDA/pull/89360))
