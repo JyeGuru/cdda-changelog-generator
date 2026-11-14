@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-14-0749 ([7136388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0749))
+
+* Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-14-0702 ([db8d468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0702))
 
 * [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2026-11-09-1243 ([d5038aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1243))
 
 * Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-09-1107 ([09a9699](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1107))
-
 * Add _bodypart_is_wounded_and_fixable condition  ([#89467](https://github.com/CleverRaven/Cataclysm-DDA/pull/89467))
 * [innawoods] No more canvas sacks without canvas ([#89472](https://github.com/CleverRaven/Cataclysm-DDA/pull/89472))
 * remove radiation triggered mutation from lore doc ([#89485](https://github.com/CleverRaven/Cataclysm-DDA/pull/89485))
@@ -237,4 +238,3 @@
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
 * [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
 * Make "not all control paths return a value" an error in windows builds. ([#89373](https://github.com/CleverRaven/Cataclysm-DDA/pull/89373))
-* [MoM] Staunch Wound and Immunostimulus interact with wounds ([#89370](https://github.com/CleverRaven/Cataclysm-DDA/pull/89370))
