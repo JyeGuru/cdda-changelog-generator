@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-14-1807 ([2c27ce5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-1807))
+
+* [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-14-0749 ([7136388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0749))
 
 * Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
@@ -172,11 +178,6 @@
 
 * wound pain is affected by other stuff ([#89453](https://github.com/CleverRaven/Cataclysm-DDA/pull/89453))
 * Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-09-1243 ([d5038aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-09-1243))
-
 * Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
 * Add _bodypart_is_wounded_and_fixable condition  ([#89467](https://github.com/CleverRaven/Cataclysm-DDA/pull/89467))
 * [innawoods] No more canvas sacks without canvas ([#89472](https://github.com/CleverRaven/Cataclysm-DDA/pull/89472))
@@ -233,7 +234,6 @@
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
 * [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
-* single attack can apply two wounds at once ([#89371](https://github.com/CleverRaven/Cataclysm-DDA/pull/89371))
 * Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
 * [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
