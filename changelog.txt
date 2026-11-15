@@ -1,3 +1,4 @@
+* Enable builds with 0.J as target (#89564)
 
 Cataclysm-DDA experimental build 2026-11-14-2231 (6627ec0)
 * Bump actions versions for node24 (#89561)
@@ -146,7 +147,6 @@ Cataclysm-DDA experimental build 2026-11-10-0040 (a4956d1)
 * avoid near and far #define s (#89397)
 * Implement wound severity (#89386)
 * NPCs fetch construction components from containers and spread over construction sites (#89385)
-* [DinoMod] crazed dinos attack! (#89374)
 * Fix a batch of small NPC, camp and zone task bugs (#89375)
 * Fix Crash with manual selection Inventory Eocs (#89379)
 * [XE] Successfully directly drinking blood removes living-drinker debuff. (#89380)

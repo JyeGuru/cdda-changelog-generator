@@ -1,3 +1,4 @@
+* Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 
 ---
 
@@ -233,7 +234,6 @@
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-* [DinoMod] crazed dinos attack! ([#89374](https://github.com/CleverRaven/Cataclysm-DDA/pull/89374))
 * Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
 * Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
