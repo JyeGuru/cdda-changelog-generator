@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-15-0524 ([eb0d2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-0524))
+
+* [DinoMod] unattended boiled dino eggs ([#89530](https://github.com/CleverRaven/Cataclysm-DDA/pull/89530))
+* having wound prevent body part regeneration ([#89557](https://github.com/CleverRaven/Cataclysm-DDA/pull/89557))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-15-0356 ([14d7865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-0356))
+
+* Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 
 ---
@@ -167,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2026-11-10-0455 ([51c589b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0455))
 
 * Activating certain items now takes up some in-game time ([#89460](https://github.com/CleverRaven/Cataclysm-DDA/pull/89460))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-10-0405 ([bfcdfb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0405))
-
 * Move ACT_REPAIR_ITEM handler to activity_actor ([#89451](https://github.com/CleverRaven/Cataclysm-DDA/pull/89451))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-10-0040 ([a4956d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0040))
-
 * [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
 * wound pain is affected by other stuff ([#89453](https://github.com/CleverRaven/Cataclysm-DDA/pull/89453))
 * Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
@@ -234,7 +237,4 @@
 * avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
 * Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
 * NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-* Fix a batch of small NPC, camp and zone task bugs ([#89375](https://github.com/CleverRaven/Cataclysm-DDA/pull/89375))
-* Fix Crash with manual selection Inventory Eocs ([#89379](https://github.com/CleverRaven/Cataclysm-DDA/pull/89379))
 * [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
-* [MoM] Update Anabolic Rejuvenation for wounds ([#89377](https://github.com/CleverRaven/Cataclysm-DDA/pull/89377))
