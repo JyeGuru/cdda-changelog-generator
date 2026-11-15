@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-15-1800 ([2db77b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1800))
+
+* Marloss Evangelist 1: Joth Luteus ([#89493](https://github.com/CleverRaven/Cataclysm-DDA/pull/89493))
+* Stable ([#89477](https://github.com/CleverRaven/Cataclysm-DDA/pull/89477))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-15-1700 ([f864f30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1700))
+
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
 
 ---
@@ -169,17 +181,7 @@
 #### Cataclysm-DDA experimental build 2026-11-11-0358 ([a90146c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0358))
 
 * Add HESCO MIL 3 earth-filled barriers ([#89443](https://github.com/CleverRaven/Cataclysm-DDA/pull/89443))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-11-0305 ([700e1e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0305))
-
 * Aftershock: Combat Headsets ([#89438](https://github.com/CleverRaven/Cataclysm-DDA/pull/89438))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-11-0211 ([79409a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0211))
-
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
 * Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
 * Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
@@ -228,9 +230,7 @@
 * [Xedra Evolved] Luliya won't talk to the Fair Folk either ([#89418](https://github.com/CleverRaven/Cataclysm-DDA/pull/89418))
 * Fixbots! (part 1) ([#89409](https://github.com/CleverRaven/Cataclysm-DDA/pull/89409))
 * Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs ([#89415](https://github.com/CleverRaven/Cataclysm-DDA/pull/89415))
-* Weekly Changelog 2026-10-26 to 2026-11-02 ([#89401](https://github.com/CleverRaven/Cataclysm-DDA/pull/89401))
 * Shrink wound fix options + some UI improvements ([#89408](https://github.com/CleverRaven/Cataclysm-DDA/pull/89408))
-* Aftershock: Ravine datavault ([#89400](https://github.com/CleverRaven/Cataclysm-DDA/pull/89400))
 * Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
 * loop around in dialogue boxes on the last indexes ([#89407](https://github.com/CleverRaven/Cataclysm-DDA/pull/89407))
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))

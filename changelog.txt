@@ -1,3 +1,9 @@
+
+Cataclysm-DDA experimental build 2026-11-15-1800 (2db77b3)
+* Marloss Evangelist 1: Joth Luteus (#89493)
+* Stable (#89477)
+
+Cataclysm-DDA experimental build 2026-11-15-1700 (f864f30)
 * [Xedra Evolved] Elemental magic rework: Sylph (#89546)
 
 Cataclysm-DDA experimental build 2026-11-15-1557 (6a3e59e)
@@ -91,11 +97,7 @@ Cataclysm-DDA experimental build 2026-11-11-1319 (7d4900f)
 
 Cataclysm-DDA experimental build 2026-11-11-0358 (a90146c)
 * Add HESCO MIL 3 earth-filled barriers (#89443)
-
-Cataclysm-DDA experimental build 2026-11-11-0305 (700e1e9)
 * Aftershock: Combat Headsets (#89438)
-
-Cataclysm-DDA experimental build 2026-11-11-0211 (79409a8)
 * Allow mutations to destroy all conflicting bionics (#89498)
 * Combat weariness 2 (#89469)
 * Weekly Changelog 2026-11-02 to 2026-11-09 (#89488)
@@ -144,9 +146,7 @@ Cataclysm-DDA experimental build 2026-11-11-0211 (79409a8)
 * [Xedra Evolved] Luliya won't talk to the Fair Folk either (#89418)
 * Fixbots! (part 1) (#89409)
 * Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs (#89415)
-* Weekly Changelog 2026-10-26 to 2026-11-02 (#89401)
 * Shrink wound fix options + some UI improvements (#89408)
-* Aftershock: Ravine datavault (#89400)
 * Annealing tempered and hardened steel. Update cementation recipe (#89404)
 * loop around in dialogue boxes on the last indexes (#89407)
 * [Xedra Evolved] One fixed glamour, one new glamour (#89402)
