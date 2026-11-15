@@ -1,3 +1,22 @@
+* [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-15-1557 ([6a3e59e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1557))
+
+* Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
+* Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
+* Some additional no_auto_consume ([#89552](https://github.com/CleverRaven/Cataclysm-DDA/pull/89552))
+* Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
+* Fix #89545  Trait Prereq missing for Aqueous Repose ([#89550](https://github.com/CleverRaven/Cataclysm-DDA/pull/89550))
+* Delete empty Aftershock folder ([#89551](https://github.com/CleverRaven/Cataclysm-DDA/pull/89551))
+* fix typo in chemicals_and_resources.json ([#89532](https://github.com/CleverRaven/Cataclysm-DDA/pull/89532))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-15-1455 ([789a337](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1455))
+
+* Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
 
 ---
 
@@ -162,23 +181,8 @@
 #### Cataclysm-DDA experimental build 2026-11-11-0211 ([79409a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0211))
 
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-10-2117 ([315a018](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-2117))
-
 * Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-10-1846 ([77036fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-1846))
-
 * Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-10-0455 ([51c589b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-10-0455))
-
 * Activating certain items now takes up some in-game time ([#89460](https://github.com/CleverRaven/Cataclysm-DDA/pull/89460))
 * Move ACT_REPAIR_ITEM handler to activity_actor ([#89451](https://github.com/CleverRaven/Cataclysm-DDA/pull/89451))
 * [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
@@ -206,7 +210,6 @@
 * [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
 * Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
 * Labyrinth expansion: sprawling buildings, raised walkways, and transitions to-and-fro ([#89437](https://github.com/CleverRaven/Cataclysm-DDA/pull/89437))
-* [DinoMod] more endgame skeletals ([#89393](https://github.com/CleverRaven/Cataclysm-DDA/pull/89393))
 * Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
 * [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
@@ -228,13 +231,6 @@
 * Weekly Changelog 2026-10-26 to 2026-11-02 ([#89401](https://github.com/CleverRaven/Cataclysm-DDA/pull/89401))
 * Shrink wound fix options + some UI improvements ([#89408](https://github.com/CleverRaven/Cataclysm-DDA/pull/89408))
 * Aftershock: Ravine datavault ([#89400](https://github.com/CleverRaven/Cataclysm-DDA/pull/89400))
-* Update weather_type.json for weather_type snowstorm ([#89398](https://github.com/CleverRaven/Cataclysm-DDA/pull/89398))
 * Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
 * loop around in dialogue boxes on the last indexes ([#89407](https://github.com/CleverRaven/Cataclysm-DDA/pull/89407))
-* More dreams from the Cree'yn Cag'gii ([#89399](https://github.com/CleverRaven/Cataclysm-DDA/pull/89399))
 * [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
-* Re-add quantity to de-charged lab supplies ([#89392](https://github.com/CleverRaven/Cataclysm-DDA/pull/89392))
-* avoid near and far #define s ([#89397](https://github.com/CleverRaven/Cataclysm-DDA/pull/89397))
-* Implement wound severity ([#89386](https://github.com/CleverRaven/Cataclysm-DDA/pull/89386))
-* NPCs fetch construction components from containers and spread over construction sites ([#89385](https://github.com/CleverRaven/Cataclysm-DDA/pull/89385))
-* [XE] Successfully directly drinking blood removes living-drinker debuff. ([#89380](https://github.com/CleverRaven/Cataclysm-DDA/pull/89380))
