@@ -100,8 +100,6 @@ Cataclysm-DDA experimental build 2026-11-12-2227 (feb2e63)
 Cataclysm-DDA experimental build 2026-11-12-0620 (a7303e0)
 * Rewrite wound text to be more colorful and immersive (#89492)
 * Remove all legacy `int`-indexed item accessors for `Character` and `outfit` (#89509)
-
-Cataclysm-DDA experimental build 2026-11-12-0533 (55e507a)
 * [MoM] Fix the Knockdown power (#89513)
 * one of the fuse recipes now also accepts red phosphorus (#89507)
 * Minor description updates for dynamite and dynamite bomb (#89506)
