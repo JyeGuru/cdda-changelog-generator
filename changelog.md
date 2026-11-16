@@ -1,6 +1,33 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-16-0541 ([bf08a4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0541))
+
+* Massively expand crafting faults ([#89559](https://github.com/CleverRaven/Cataclysm-DDA/pull/89559))
+* Fix invalid comparison operator ([#89575](https://github.com/CleverRaven/Cataclysm-DDA/pull/89575))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-16-0444 ([66dfe4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0444))
+
+* 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
+* [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-16-0350 ([89c8a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0350))
+
+* Tentacle clothing coverage ([#89547](https://github.com/CleverRaven/Cataclysm-DDA/pull/89547))
+* Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-16-0250 ([0c1e037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0250))
+
+* [Xedra Evolved] Rework elemental fae passive spell XP gain ([#89544](https://github.com/CleverRaven/Cataclysm-DDA/pull/89544))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-15-1800 ([2db77b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1800))
 
 * Marloss Evangelist 1: Joth Luteus ([#89493](https://github.com/CleverRaven/Cataclysm-DDA/pull/89493))
@@ -163,23 +190,8 @@
 #### Cataclysm-DDA experimental build 2026-11-12-0533 ([55e507a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-12-0533))
 
 * [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-11-2006 ([7a1b90a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-2006))
-
 * one of the fuse recipes now also accepts red phosphorus ([#89507](https://github.com/CleverRaven/Cataclysm-DDA/pull/89507))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-11-1319 ([7d4900f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-1319))
-
 * Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-11-0358 ([a90146c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-11-0358))
-
 * Add HESCO MIL 3 earth-filled barriers ([#89443](https://github.com/CleverRaven/Cataclysm-DDA/pull/89443))
 * Aftershock: Combat Headsets ([#89438](https://github.com/CleverRaven/Cataclysm-DDA/pull/89438))
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
@@ -208,7 +220,6 @@
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
 * Labyrinth Warlord ([#89427](https://github.com/CleverRaven/Cataclysm-DDA/pull/89427))
-* No option to install CBMs with Rubik if you have the Hub 01 interface ([#89412](https://github.com/CleverRaven/Cataclysm-DDA/pull/89412))
 * [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
 * Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
 * Labyrinth expansion: sprawling buildings, raised walkways, and transitions to-and-fro ([#89437](https://github.com/CleverRaven/Cataclysm-DDA/pull/89437))
@@ -224,13 +235,5 @@
 * [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
 * small wound tweaks ([#89422](https://github.com/CleverRaven/Cataclysm-DDA/pull/89422))
 * Some types of anatomy can't get bruises ([#89423](https://github.com/CleverRaven/Cataclysm-DDA/pull/89423))
-* Highland grotto ([#89410](https://github.com/CleverRaven/Cataclysm-DDA/pull/89410))
-* Add farfarlakesea to comment command list ([#89414](https://github.com/CleverRaven/Cataclysm-DDA/pull/89414))
 * kevlar hulk special attacks ([#89416](https://github.com/CleverRaven/Cataclysm-DDA/pull/89416))
 * [Xedra Evolved] Luliya won't talk to the Fair Folk either ([#89418](https://github.com/CleverRaven/Cataclysm-DDA/pull/89418))
-* Fixbots! (part 1) ([#89409](https://github.com/CleverRaven/Cataclysm-DDA/pull/89409))
-* Account for stabs in the wound cleansing/bleeding/supernatural healing EoCs ([#89415](https://github.com/CleverRaven/Cataclysm-DDA/pull/89415))
-* Shrink wound fix options + some UI improvements ([#89408](https://github.com/CleverRaven/Cataclysm-DDA/pull/89408))
-* Annealing tempered and hardened steel. Update cementation recipe ([#89404](https://github.com/CleverRaven/Cataclysm-DDA/pull/89404))
-* loop around in dialogue boxes on the last indexes ([#89407](https://github.com/CleverRaven/Cataclysm-DDA/pull/89407))
-* [Xedra Evolved] One fixed glamour, one new glamour ([#89402](https://github.com/CleverRaven/Cataclysm-DDA/pull/89402))
