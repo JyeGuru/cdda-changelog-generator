@@ -1,3 +1,28 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-17-2329 ([913fb6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-2329))
+
+* Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
+* [Xedra Evolved] Elemental magic rework: Sylph ([#89585](https://github.com/CleverRaven/Cataclysm-DDA/pull/89585))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-17-2010 ([3015a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-2010))
+
+* Partial dodge and limb shielding/deflection ([#89470](https://github.com/CleverRaven/Cataclysm-DDA/pull/89470))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-17-1902 ([7d2228f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1902))
+
+* use `item_location` in use actions instead of `item *` ([#89473](https://github.com/CleverRaven/Cataclysm-DDA/pull/89473))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-17-1748 ([5a9346b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1748))
+
+* [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89609](https://github.com/CleverRaven/Cataclysm-DDA/pull/89609))
 * Tentacle clothing coverage ([#89590](https://github.com/CleverRaven/Cataclysm-DDA/pull/89590))
 
 ---
@@ -162,29 +187,9 @@
 
 * prevent deconstructing of ter/furn that cannot be transported ([#89499](https://github.com/CleverRaven/Cataclysm-DDA/pull/89499))
 * improve explosive use action info ([#89517](https://github.com/CleverRaven/Cataclysm-DDA/pull/89517))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-13-1610 ([6606763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1610))
-
 * [Xedra Evolved] Ríastrad edits  ([#89510](https://github.com/CleverRaven/Cataclysm-DDA/pull/89510))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-13-1517 ([e7e1d6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1517))
-
 * [Xedra Evolved] Fix crash bug with Salamander/Arvore draughts ([#89536](https://github.com/CleverRaven/Cataclysm-DDA/pull/89536))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-13-0714 ([27c423b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0714))
-
 * Conversion kits have lower capacity magazines ([#89538](https://github.com/CleverRaven/Cataclysm-DDA/pull/89538))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-13-0633 ([e99f5c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0633))
-
 * Fuse amounts for recipes adjusted, minor recipe tweaks ([#89533](https://github.com/CleverRaven/Cataclysm-DDA/pull/89533))
 * Slightly nerf Nauseating Stench ([#89526](https://github.com/CleverRaven/Cataclysm-DDA/pull/89526))
 * revamp the berserk code a bit ([#89531](https://github.com/CleverRaven/Cataclysm-DDA/pull/89531))
@@ -198,7 +203,6 @@
 * one of the fuse recipes now also accepts red phosphorus ([#89507](https://github.com/CleverRaven/Cataclysm-DDA/pull/89507))
 * Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
 * Add HESCO MIL 3 earth-filled barriers ([#89443](https://github.com/CleverRaven/Cataclysm-DDA/pull/89443))
-* Aftershock: Combat Headsets ([#89438](https://github.com/CleverRaven/Cataclysm-DDA/pull/89438))
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
 * Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
 * Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
@@ -226,8 +230,5 @@
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
 * [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
 * Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
-* Labyrinth expansion: sprawling buildings, raised walkways, and transitions to-and-fro ([#89437](https://github.com/CleverRaven/Cataclysm-DDA/pull/89437))
 * Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
 * [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
-* [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
-* Add _bodypart_is_wounded condition ([#89439](https://github.com/CleverRaven/Cataclysm-DDA/pull/89439))
