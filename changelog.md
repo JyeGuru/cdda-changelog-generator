@@ -1,6 +1,27 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-17-0551 ([fc6dce3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-0551))
+
+* Weariness display fix ([#89519](https://github.com/CleverRaven/Cataclysm-DDA/pull/89519))
+* [Martial Mastery]Add PERK flag to all perk melee perks ([#89595](https://github.com/CleverRaven/Cataclysm-DDA/pull/89595))
+* Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-17-0457 ([c9e120b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-0457))
+
+* [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
+* [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-16-1748 ([524116e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-1748))
+
+* Medical iuse menu redirects to wounds menu ([#89549](https://github.com/CleverRaven/Cataclysm-DDA/pull/89549))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-16-0541 ([bf08a4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0541))
 
 * Massively expand crafting faults ([#89559](https://github.com/CleverRaven/Cataclysm-DDA/pull/89559))
@@ -165,23 +186,8 @@
 #### Cataclysm-DDA experimental build 2026-11-13-0351 ([f3e90c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0351))
 
 * the warlord arrives ([#89529](https://github.com/CleverRaven/Cataclysm-DDA/pull/89529))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-13-0157 ([e988fdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-0157))
-
 * [Xedra Evolved] Fix Fist of Taranis spell class/type ([#89525](https://github.com/CleverRaven/Cataclysm-DDA/pull/89525))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-12-2227 ([feb2e63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-12-2227))
-
 * [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-12-0620 ([a7303e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-12-0620))
-
 * Rewrite wound text to be more colorful and immersive ([#89492](https://github.com/CleverRaven/Cataclysm-DDA/pull/89492))
 * Remove all legacy `int`-indexed item accessors for `Character` and `outfit` ([#89509](https://github.com/CleverRaven/Cataclysm-DDA/pull/89509))
 * [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))
@@ -214,7 +220,6 @@
 * reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
-* Labyrinth Warlord ([#89427](https://github.com/CleverRaven/Cataclysm-DDA/pull/89427))
 * [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
 * Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
 * Labyrinth expansion: sprawling buildings, raised walkways, and transitions to-and-fro ([#89437](https://github.com/CleverRaven/Cataclysm-DDA/pull/89437))
@@ -222,13 +227,7 @@
 * [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams ([#89440](https://github.com/CleverRaven/Cataclysm-DDA/pull/89440))
 * Add _bodypart_is_wounded condition ([#89439](https://github.com/CleverRaven/Cataclysm-DDA/pull/89439))
-* Infection Immune medical mutants' self-cleaning wounds  ([#89428](https://github.com/CleverRaven/Cataclysm-DDA/pull/89428))
 * update json_style doc ([#89433](https://github.com/CleverRaven/Cataclysm-DDA/pull/89433))
-* Fix dragged furniture deleting every second item ([#89419](https://github.com/CleverRaven/Cataclysm-DDA/pull/89419))
 * Bleeding condition improvements  ([#89431](https://github.com/CleverRaven/Cataclysm-DDA/pull/89431))
 * Compensate for oceanside starts for the scarlet storm ([#89430](https://github.com/CleverRaven/Cataclysm-DDA/pull/89430))
 * [Sky Island] Add myself as SI maintainer ([#89429](https://github.com/CleverRaven/Cataclysm-DDA/pull/89429))
-* small wound tweaks ([#89422](https://github.com/CleverRaven/Cataclysm-DDA/pull/89422))
-* Some types of anatomy can't get bruises ([#89423](https://github.com/CleverRaven/Cataclysm-DDA/pull/89423))
-* kevlar hulk special attacks ([#89416](https://github.com/CleverRaven/Cataclysm-DDA/pull/89416))
-* [Xedra Evolved] Luliya won't talk to the Fair Folk either ([#89418](https://github.com/CleverRaven/Cataclysm-DDA/pull/89418))
