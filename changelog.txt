@@ -1,3 +1,13 @@
+* Tentacle clothing coverage (#89590)
+
+Cataclysm-DDA experimental build 2026-11-17-1600 (81697c4)
+* [Xedra Evolved] Update some Sylph mutations with `"mana": true`, add `activation_msg` (#89608)
+
+Cataclysm-DDA experimental build 2026-11-17-1442 (cb1778b)
+* Split dialogue-related functions from npctalk.cpp to dialogue.cpp (#89593)
+
+Cataclysm-DDA experimental build 2026-11-17-1233 (831c8f2)
+* More safety on wound healing progress updates (#89601)
 
 Cataclysm-DDA experimental build 2026-11-17-0551 (fc6dce3)
 * Weariness display fix (#89519)
@@ -92,15 +102,9 @@ Cataclysm-DDA experimental build 2026-11-13-0714 (27c423b)
 
 Cataclysm-DDA experimental build 2026-11-13-0633 (e99f5c2)
 * Fuse amounts for recipes adjusted, minor recipe tweaks (#89533)
-
-Cataclysm-DDA experimental build 2026-11-13-0526 (9e8e765)
 * Slightly nerf Nauseating Stench (#89526)
 * revamp the berserk code a bit (#89531)
-
-Cataclysm-DDA experimental build 2026-11-13-0437 (a8b6d06)
 * Blanched acorns correspond properly to raw acorns (#89516)
-
-Cataclysm-DDA experimental build 2026-11-13-0351 (f3e90c4)
 * the warlord arrives (#89529)
 * [Xedra Evolved] Fix Fist of Taranis spell class/type (#89525)
 * [Xedra Evolved] Elemental samples to essence (#89522)
@@ -143,7 +147,3 @@ Cataclysm-DDA experimental build 2026-11-13-0351 (f3e90c4)
 * [Xedra Evolved] Rework Paraclesian healing draughts (#89442)
 * [Xedra Evolved] Changelings can't pull dreamdross from people with Empty Dreams (#89440)
 * Add _bodypart_is_wounded condition (#89439)
-* update json_style doc (#89433)
-* Bleeding condition improvements  (#89431)
-* Compensate for oceanside starts for the scarlet storm (#89430)
-* [Sky Island] Add myself as SI maintainer (#89429)
