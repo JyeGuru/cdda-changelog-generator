@@ -1,3 +1,15 @@
+
+Cataclysm-DDA experimental build 2026-11-18-1252 (ce453e3)
+* Build with ULFO instead of UDBZ file format for OSX (#89619)
+
+Cataclysm-DDA experimental build 2026-11-18-1148 (c4b8eb0)
+* Fix exposed conduit damaging the right leg twice (#89627)
+* Fix discard_invalid_po.sh (#89613)
+
+Cataclysm-DDA experimental build 2026-11-18-0723 (f40d7d7)
+* Avoid duplicate monster death messages (#89611)
+
+Cataclysm-DDA experimental build 2026-11-18-0543 (024bd90)
 * Moves cost to activable items pt. 1 (#89567)
 
 Cataclysm-DDA experimental build 2026-11-18-0439 (77f34d4)
@@ -89,17 +101,9 @@ Cataclysm-DDA experimental build 2026-11-14-2231 (6627ec0)
 
 Cataclysm-DDA experimental build 2026-11-14-1807 (2c27ce5)
 * [alt-map-key] Add new overmap terrain for XE (#89553)
-
-Cataclysm-DDA experimental build 2026-11-14-0749 (7136388)
 * Improvement of Fema Military Building (#89541)
-
-Cataclysm-DDA experimental build 2026-11-14-0702 (db8d468)
 * [Xedra Evolved] Bloodthorne passive XP fix (#89542)
-
-Cataclysm-DDA experimental build 2026-11-14-0335 (e814bac)
 * [Xedra Evolved] Increase elemental mana (#89537)
-
-Cataclysm-DDA experimental build 2026-11-14-0209 (b3c146e)
 * Fix NPC missions related to FEMA campsite (#89528)
 * [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore (#89535)
 * Update descriptions for hydrogen peroxide and antiseptic (#89539)
@@ -136,15 +140,11 @@ Cataclysm-DDA experimental build 2026-11-14-0209 (b3c146e)
 * remove blob healing factor section from lore doc (#89484)
 * Stabs and cuts stage down (#89487)
 * Remove handcrafted katana from one month survivor  (#89474)
-* sword bayonet update (#89449)
 * [alt-map-key] Add new overmap terrain (#89468)
 * Lacerations/Scratches stage down when healing (#89466)
 * Adjust combat Exoskeleton pocket encumbrance and access cost (#89464)
 * Bruises stage down when healing (#89457)
-* Add Tentacle Rakes combat (#89450)
 * Add mising `REGEN_WOUND` to 48x-Locutus (#89458)
 * reasonable amount of salt in homes (#89462)
 * Fix wound update when timer present (#89456)
 * [DinoMod] Rubik will not talk if he does not like you (#89455)
-* [MoM] Reduce focused light armor derived-from heat (#89445)
-* Limbify tentacle arms (#89444)

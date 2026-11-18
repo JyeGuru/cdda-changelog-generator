@@ -1,3 +1,27 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-18-1252 ([ce453e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-1252))
+
+* Build with ULFO instead of UDBZ file format for OSX ([#89619](https://github.com/CleverRaven/Cataclysm-DDA/pull/89619))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-18-1148 ([c4b8eb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-1148))
+
+* Fix exposed conduit damaging the right leg twice ([#89627](https://github.com/CleverRaven/Cataclysm-DDA/pull/89627))
+* Fix discard_invalid_po.sh ([#89613](https://github.com/CleverRaven/Cataclysm-DDA/pull/89613))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-18-0723 ([f40d7d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0723))
+
+* Avoid duplicate monster death messages ([#89611](https://github.com/CleverRaven/Cataclysm-DDA/pull/89611))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-18-0543 ([024bd90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0543))
+
 * Moves cost to activable items pt. 1 ([#89567](https://github.com/CleverRaven/Cataclysm-DDA/pull/89567))
 
 ---
@@ -161,29 +185,9 @@
 #### Cataclysm-DDA experimental build 2026-11-14-1807 ([2c27ce5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-1807))
 
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-0749 ([7136388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0749))
-
 * Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-0702 ([db8d468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0702))
-
 * [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-0335 ([e814bac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0335))
-
 * [Xedra Evolved] Increase elemental mana ([#89537](https://github.com/CleverRaven/Cataclysm-DDA/pull/89537))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-0209 ([b3c146e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0209))
-
 * Fix NPC missions related to FEMA campsite ([#89528](https://github.com/CleverRaven/Cataclysm-DDA/pull/89528))
 * [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore ([#89535](https://github.com/CleverRaven/Cataclysm-DDA/pull/89535))
 * Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
@@ -220,15 +224,11 @@
 * remove blob healing factor section from lore doc ([#89484](https://github.com/CleverRaven/Cataclysm-DDA/pull/89484))
 * Stabs and cuts stage down ([#89487](https://github.com/CleverRaven/Cataclysm-DDA/pull/89487))
 * Remove handcrafted katana from one month survivor  ([#89474](https://github.com/CleverRaven/Cataclysm-DDA/pull/89474))
-* sword bayonet update ([#89449](https://github.com/CleverRaven/Cataclysm-DDA/pull/89449))
 * [alt-map-key] Add new overmap terrain ([#89468](https://github.com/CleverRaven/Cataclysm-DDA/pull/89468))
 * Lacerations/Scratches stage down when healing ([#89466](https://github.com/CleverRaven/Cataclysm-DDA/pull/89466))
 * Adjust combat Exoskeleton pocket encumbrance and access cost ([#89464](https://github.com/CleverRaven/Cataclysm-DDA/pull/89464))
 * Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
-* Add Tentacle Rakes combat ([#89450](https://github.com/CleverRaven/Cataclysm-DDA/pull/89450))
 * Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
 * reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
-* [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
-* Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
