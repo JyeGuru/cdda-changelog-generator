@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-18-2109 ([08a1241](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2109))
+
+* Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
+* add kuutekitty to wound reviewers ([#89632](https://github.com/CleverRaven/Cataclysm-DDA/pull/89632))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-18-1252 ([ce453e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-1252))
 
 * Build with ULFO instead of UDBZ file format for OSX ([#89619](https://github.com/CleverRaven/Cataclysm-DDA/pull/89619))
@@ -179,11 +186,6 @@
 
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
 * Remove "tty" test from #89339 ([#89521](https://github.com/CleverRaven/Cataclysm-DDA/pull/89521))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-1807 ([2c27ce5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-1807))
-
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
 * Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
 * [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
@@ -213,9 +215,7 @@
 * Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
 * Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
 * Activating certain items now takes up some in-game time ([#89460](https://github.com/CleverRaven/Cataclysm-DDA/pull/89460))
-* Move ACT_REPAIR_ITEM handler to activity_actor ([#89451](https://github.com/CleverRaven/Cataclysm-DDA/pull/89451))
 * [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
-* wound pain is affected by other stuff ([#89453](https://github.com/CleverRaven/Cataclysm-DDA/pull/89453))
 * Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
 * Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
 * Add _bodypart_is_wounded_and_fixable condition  ([#89467](https://github.com/CleverRaven/Cataclysm-DDA/pull/89467))
