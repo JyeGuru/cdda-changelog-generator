@@ -1,3 +1,16 @@
+* Moves cost to activable items pt. 1 ([#89567](https://github.com/CleverRaven/Cataclysm-DDA/pull/89567))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-18-0439 ([77f34d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0439))
+
+* Aftershock: Spawn several shells ([#89597](https://github.com/CleverRaven/Cataclysm-DDA/pull/89597))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-18-0053 ([7990463](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0053))
+
+* Split vehicle-related functions from map.cpp into map_vehicle.cpp ([#89612](https://github.com/CleverRaven/Cataclysm-DDA/pull/89612))
 
 ---
 
@@ -174,17 +187,7 @@
 * Fix NPC missions related to FEMA campsite ([#89528](https://github.com/CleverRaven/Cataclysm-DDA/pull/89528))
 * [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore ([#89535](https://github.com/CleverRaven/Cataclysm-DDA/pull/89535))
 * Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-0120 ([082d042](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-0120))
-
 * cleanup explosive materials and requirements ([#89540](https://github.com/CleverRaven/Cataclysm-DDA/pull/89540))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-13-1700 ([975c96c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-13-1700))
-
 * prevent deconstructing of ter/furn that cannot be transported ([#89499](https://github.com/CleverRaven/Cataclysm-DDA/pull/89499))
 * improve explosive use action info ([#89517](https://github.com/CleverRaven/Cataclysm-DDA/pull/89517))
 * [Xedra Evolved] Ríastrad edits  ([#89510](https://github.com/CleverRaven/Cataclysm-DDA/pull/89510))
@@ -202,7 +205,6 @@
 * [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))
 * one of the fuse recipes now also accepts red phosphorus ([#89507](https://github.com/CleverRaven/Cataclysm-DDA/pull/89507))
 * Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
-* Add HESCO MIL 3 earth-filled barriers ([#89443](https://github.com/CleverRaven/Cataclysm-DDA/pull/89443))
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
 * Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
 * Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
@@ -229,6 +231,4 @@
 * Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
 * [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
 * [MoM] Reduce focused light armor derived-from heat ([#89445](https://github.com/CleverRaven/Cataclysm-DDA/pull/89445))
-* Armband pouch has no encumbrance ([#89441](https://github.com/CleverRaven/Cataclysm-DDA/pull/89441))
 * Limbify tentacle arms ([#89444](https://github.com/CleverRaven/Cataclysm-DDA/pull/89444))
-* [Xedra Evolved] Rework Paraclesian healing draughts ([#89442](https://github.com/CleverRaven/Cataclysm-DDA/pull/89442))
