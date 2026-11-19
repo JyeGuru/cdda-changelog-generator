@@ -1,6 +1,50 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-19-1128 ([2238c71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-1128))
+
+* Variantize lakeside cabin ([#89596](https://github.com/CleverRaven/Cataclysm-DDA/pull/89596))
+* Also use lang/Makefile for Windows ([#89614](https://github.com/CleverRaven/Cataclysm-DDA/pull/89614))
+* Manually backport "#89606" ([#89622](https://github.com/CleverRaven/Cataclysm-DDA/pull/89622))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-19-1022 ([f2b83a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-1022))
+
+* Some vanilla monsters can block ([#89641](https://github.com/CleverRaven/Cataclysm-DDA/pull/89641))
+* [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89620](https://github.com/CleverRaven/Cataclysm-DDA/pull/89620))
+* Hub 01 shares public goods ([#89635](https://github.com/CleverRaven/Cataclysm-DDA/pull/89635))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-19-0704 ([799b3a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0704))
+
+* [Sky Island] Remove the collective center from SI raids ([#89637](https://github.com/CleverRaven/Cataclysm-DDA/pull/89637))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-19-0609 ([0d8e421](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0609))
+
+* Split cache-related functions from map.cpp into map_cache.cpp, enable IWYU for map.cpp  ([#89625](https://github.com/CleverRaven/Cataclysm-DDA/pull/89625))
+* Aftershock: Spawn several shells ([#89626](https://github.com/CleverRaven/Cataclysm-DDA/pull/89626))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-19-0440 ([c376725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0440))
+
+* [Sky Island] Ensure starter kit clothes fit the character ([#89628](https://github.com/CleverRaven/Cataclysm-DDA/pull/89628))
+* [Xedra Evolved] Sylph Spell rework ([#89607](https://github.com/CleverRaven/Cataclysm-DDA/pull/89607))
+* Editing Isherwood NPC dialogue ([#89602](https://github.com/CleverRaven/Cataclysm-DDA/pull/89602))
+* [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89610](https://github.com/CleverRaven/Cataclysm-DDA/pull/89610))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-19-0342 ([d9ebff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0342))
+
+* Better questgiver dialogue lines ([#89580](https://github.com/CleverRaven/Cataclysm-DDA/pull/89580))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-18-2353 ([66bdc3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2353))
 
 * Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
@@ -55,18 +99,6 @@
 
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89585](https://github.com/CleverRaven/Cataclysm-DDA/pull/89585))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-2010 ([3015a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-2010))
-
-* Partial dodge and limb shielding/deflection ([#89470](https://github.com/CleverRaven/Cataclysm-DDA/pull/89470))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-1902 ([7d2228f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1902))
-
-* use `item_location` in use actions instead of `item *` ([#89473](https://github.com/CleverRaven/Cataclysm-DDA/pull/89473))
 
 ---
 
@@ -147,17 +179,7 @@
 
 * Marloss Evangelist 1: Joth Luteus ([#89493](https://github.com/CleverRaven/Cataclysm-DDA/pull/89493))
 * Stable ([#89477](https://github.com/CleverRaven/Cataclysm-DDA/pull/89477))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-15-1700 ([f864f30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1700))
-
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-15-1557 ([6a3e59e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1557))
-
 * Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
 * Some additional no_auto_consume ([#89552](https://github.com/CleverRaven/Cataclysm-DDA/pull/89552))
@@ -165,24 +187,9 @@
 * Fix #89545  Trait Prereq missing for Aqueous Repose ([#89550](https://github.com/CleverRaven/Cataclysm-DDA/pull/89550))
 * Delete empty Aftershock folder ([#89551](https://github.com/CleverRaven/Cataclysm-DDA/pull/89551))
 * fix typo in chemicals_and_resources.json ([#89532](https://github.com/CleverRaven/Cataclysm-DDA/pull/89532))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-15-1455 ([789a337](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1455))
-
 * Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-15-0524 ([eb0d2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-0524))
-
 * [DinoMod] unattended boiled dino eggs ([#89530](https://github.com/CleverRaven/Cataclysm-DDA/pull/89530))
 * having wound prevent body part regeneration ([#89557](https://github.com/CleverRaven/Cataclysm-DDA/pull/89557))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-15-0356 ([14d7865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-0356))
-
 * Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
@@ -213,21 +220,10 @@
 * one of the fuse recipes now also accepts red phosphorus ([#89507](https://github.com/CleverRaven/Cataclysm-DDA/pull/89507))
 * Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
-* Combat weariness 2 ([#89469](https://github.com/CleverRaven/Cataclysm-DDA/pull/89469))
 * Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
-* Activating certain items now takes up some in-game time ([#89460](https://github.com/CleverRaven/Cataclysm-DDA/pull/89460))
 * [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
 * Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
 * Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
-* Add _bodypart_is_wounded_and_fixable condition  ([#89467](https://github.com/CleverRaven/Cataclysm-DDA/pull/89467))
-* [innawoods] No more canvas sacks without canvas ([#89472](https://github.com/CleverRaven/Cataclysm-DDA/pull/89472))
 * remove radiation triggered mutation from lore doc ([#89485](https://github.com/CleverRaven/Cataclysm-DDA/pull/89485))
 * remove blob healing factor section from lore doc ([#89484](https://github.com/CleverRaven/Cataclysm-DDA/pull/89484))
 * Stabs and cuts stage down ([#89487](https://github.com/CleverRaven/Cataclysm-DDA/pull/89487))
-* Remove handcrafted katana from one month survivor  ([#89474](https://github.com/CleverRaven/Cataclysm-DDA/pull/89474))
-* [alt-map-key] Add new overmap terrain ([#89468](https://github.com/CleverRaven/Cataclysm-DDA/pull/89468))
-* Lacerations/Scratches stage down when healing ([#89466](https://github.com/CleverRaven/Cataclysm-DDA/pull/89466))
-* Adjust combat Exoskeleton pocket encumbrance and access cost ([#89464](https://github.com/CleverRaven/Cataclysm-DDA/pull/89464))
-* Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
-* Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
-* reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
