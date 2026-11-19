@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-18-2353 (66bdc3b)
+* Hub 01 shares public goods (#89629)
+
 Cataclysm-DDA experimental build 2026-11-18-2109 (08a1241)
 * Fix wounds with > INT_MAX healing_progress (#89617)
 * add kuutekitty to wound reviewers (#89632)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2026-11-15-0524 (eb0d2e9)
 Cataclysm-DDA experimental build 2026-11-15-0356 (14d7865)
 * Updated descriptions for wound cleaning agents (#89558)
 * Enable builds with 0.J as target (#89564)
-
-Cataclysm-DDA experimental build 2026-11-14-2231 (6627ec0)
 * Bump actions versions for node24 (#89561)
 * Remove "tty" test from #89339 (#89521)
 * [alt-map-key] Add new overmap terrain for XE (#89553)
@@ -146,5 +147,3 @@ Cataclysm-DDA experimental build 2026-11-14-2231 (6627ec0)
 * Bruises stage down when healing (#89457)
 * Add mising `REGEN_WOUND` to 48x-Locutus (#89458)
 * reasonable amount of salt in homes (#89462)
-* Fix wound update when timer present (#89456)
-* [DinoMod] Rubik will not talk if he does not like you (#89455)

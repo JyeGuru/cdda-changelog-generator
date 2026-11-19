@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-18-2353 ([66bdc3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2353))
+
+* Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-18-2109 ([08a1241](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2109))
 
 * Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
@@ -179,11 +185,6 @@
 
 * Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-14-2231 ([6627ec0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-14-2231))
-
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
 * Remove "tty" test from #89339 ([#89521](https://github.com/CleverRaven/Cataclysm-DDA/pull/89521))
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
@@ -230,5 +231,3 @@
 * Bruises stage down when healing ([#89457](https://github.com/CleverRaven/Cataclysm-DDA/pull/89457))
 * Add mising `REGEN_WOUND` to 48x-Locutus ([#89458](https://github.com/CleverRaven/Cataclysm-DDA/pull/89458))
 * reasonable amount of salt in homes ([#89462](https://github.com/CleverRaven/Cataclysm-DDA/pull/89462))
-* Fix wound update when timer present ([#89456](https://github.com/CleverRaven/Cataclysm-DDA/pull/89456))
-* [DinoMod] Rubik will not talk if he does not like you ([#89455](https://github.com/CleverRaven/Cataclysm-DDA/pull/89455))
