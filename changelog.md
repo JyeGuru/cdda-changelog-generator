@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-20-2017 ([b9fae5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-2017))
+
+* Split visibility-related functions from map.cpp to map_visibility.cpp ([#89660](https://github.com/CleverRaven/Cataclysm-DDA/pull/89660))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-20-1701 ([90810ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-1701))
 
 * Calculate the displayed learning bonus from raw skill XP ([#89643](https://github.com/CleverRaven/Cataclysm-DDA/pull/89643))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2026-11-17-1600 ([81697c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1600))
 
 * [Xedra Evolved] Update some Sylph mutations with `"mana": true`, add `activation_msg` ([#89608](https://github.com/CleverRaven/Cataclysm-DDA/pull/89608))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-1442 ([cb1778b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1442))
-
 * Split dialogue-related functions from npctalk.cpp to dialogue.cpp ([#89593](https://github.com/CleverRaven/Cataclysm-DDA/pull/89593))
 * More safety on wound healing progress updates ([#89601](https://github.com/CleverRaven/Cataclysm-DDA/pull/89601))
 * Weariness display fix ([#89519](https://github.com/CleverRaven/Cataclysm-DDA/pull/89519))
@@ -223,5 +224,4 @@
 * the warlord arrives ([#89529](https://github.com/CleverRaven/Cataclysm-DDA/pull/89529))
 * [Xedra Evolved] Fix Fist of Taranis spell class/type ([#89525](https://github.com/CleverRaven/Cataclysm-DDA/pull/89525))
 * [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
-* Remove all legacy `int`-indexed item accessors for `Character` and `outfit` ([#89509](https://github.com/CleverRaven/Cataclysm-DDA/pull/89509))
 * [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))

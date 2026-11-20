@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2026-11-20-2017 (b9fae5b)
+* Split visibility-related functions from map.cpp to map_visibility.cpp (#89660)
+
 Cataclysm-DDA experimental build 2026-11-20-1701 (90810ee)
 * Calculate the displayed learning bonus from raw skill XP (#89643)
 * Back-out(0.J): Revert "Add a second blob singularity: the Reclaimer (#88738)" (#89654)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2026-11-17-1748 (5a9346b)
 
 Cataclysm-DDA experimental build 2026-11-17-1600 (81697c4)
 * [Xedra Evolved] Update some Sylph mutations with `"mana": true`, add `activation_msg` (#89608)
-
-Cataclysm-DDA experimental build 2026-11-17-1442 (cb1778b)
 * Split dialogue-related functions from npctalk.cpp to dialogue.cpp (#89593)
 * More safety on wound healing progress updates (#89601)
 * Weariness display fix (#89519)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2026-11-17-1442 (cb1778b)
 * the warlord arrives (#89529)
 * [Xedra Evolved] Fix Fist of Taranis spell class/type (#89525)
 * [Xedra Evolved] Elemental samples to essence (#89522)
-* Remove all legacy `int`-indexed item accessors for `Character` and `outfit` (#89509)
 * [MoM] Fix the Knockdown power (#89513)
