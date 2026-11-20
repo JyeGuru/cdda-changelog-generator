@@ -1,3 +1,10 @@
+* Marloss Evangelist 3: Amaides ([#89495](https://github.com/CleverRaven/Cataclysm-DDA/pull/89495))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0111 ([9fa1a1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0111))
+
+* Marloss Evangelist 2: Sera Nameko ([#89494](https://github.com/CleverRaven/Cataclysm-DDA/pull/89494))
 
 ---
 
@@ -172,13 +179,7 @@
 #### Cataclysm-DDA experimental build 2026-11-16-0250 ([0c1e037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0250))
 
 * [Xedra Evolved] Rework elemental fae passive spell XP gain ([#89544](https://github.com/CleverRaven/Cataclysm-DDA/pull/89544))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-15-1800 ([2db77b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-15-1800))
-
 * Marloss Evangelist 1: Joth Luteus ([#89493](https://github.com/CleverRaven/Cataclysm-DDA/pull/89493))
-* Stable ([#89477](https://github.com/CleverRaven/Cataclysm-DDA/pull/89477))
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
 * Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))

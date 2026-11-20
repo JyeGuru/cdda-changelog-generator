@@ -1,3 +1,7 @@
+* Marloss Evangelist 3: Amaides (#89495)
+
+Cataclysm-DDA experimental build 2026-11-20-0111 (9fa1a1f)
+* Marloss Evangelist 2: Sera Nameko (#89494)
 
 Cataclysm-DDA experimental build 2026-11-19-1128 (2238c71)
 * Variantize lakeside cabin (#89596)
@@ -94,10 +98,7 @@ Cataclysm-DDA experimental build 2026-11-16-0350 (89c8a61)
 
 Cataclysm-DDA experimental build 2026-11-16-0250 (0c1e037)
 * [Xedra Evolved] Rework elemental fae passive spell XP gain (#89544)
-
-Cataclysm-DDA experimental build 2026-11-15-1800 (2db77b3)
 * Marloss Evangelist 1: Joth Luteus (#89493)
-* Stable (#89477)
 * [Xedra Evolved] Elemental magic rework: Sylph (#89546)
 * Display if a sub limb is wounded in the sidebar (#89566)
 * Remove regional slur from descriptions & dialogue (#89569)
