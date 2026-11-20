@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-20-1701 ([90810ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-1701))
+
+* Calculate the displayed learning bonus from raw skill XP ([#89643](https://github.com/CleverRaven/Cataclysm-DDA/pull/89643))
+* Back-out(0.J): Revert "Add a second blob singularity: the Reclaimer (#88738)" ([#89654](https://github.com/CleverRaven/Cataclysm-DDA/pull/89654))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0955 ([e422f76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0955))
+
+* Gozu can drag you to Hell ([#89642](https://github.com/CleverRaven/Cataclysm-DDA/pull/89642))
+* remove packaging status ([#89647](https://github.com/CleverRaven/Cataclysm-DDA/pull/89647))
+* Signpost that the 1-way labyrinth stairwell isn't a mapgen error ([#89650](https://github.com/CleverRaven/Cataclysm-DDA/pull/89650))
+* Remove unnessecary debugmsg from spell_effect::spawn_summoned_monster ([#89658](https://github.com/CleverRaven/Cataclysm-DDA/pull/89658))
+* Add the Marloss Evangelists to the lore-faction doc. ([#89592](https://github.com/CleverRaven/Cataclysm-DDA/pull/89592))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-20-0840 ([5611db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0840))
 
 * Weekly Changelog 2026-11-09 to 2026-11-16 ([#89587](https://github.com/CleverRaven/Cataclysm-DDA/pull/89587))
@@ -38,18 +55,6 @@
 #### Cataclysm-DDA experimental build 2026-11-20-0302 ([c148a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0302))
 
 * Split damage-related functions from map.cpp to map_damage.cpp ([#89646](https://github.com/CleverRaven/Cataclysm-DDA/pull/89646))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0211 ([2fb53dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0211))
-
-* Marloss Evangelist 3: Amaides ([#89495](https://github.com/CleverRaven/Cataclysm-DDA/pull/89495))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0111 ([9fa1a1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0111))
-
-* Marloss Evangelist 2: Sera Nameko ([#89494](https://github.com/CleverRaven/Cataclysm-DDA/pull/89494))
 
 ---
 
@@ -170,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2026-11-17-1442 ([cb1778b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1442))
 
 * Split dialogue-related functions from npctalk.cpp to dialogue.cpp ([#89593](https://github.com/CleverRaven/Cataclysm-DDA/pull/89593))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-1233 ([831c8f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1233))
-
 * More safety on wound healing progress updates ([#89601](https://github.com/CleverRaven/Cataclysm-DDA/pull/89601))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-0551 ([fc6dce3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-0551))
-
 * Weariness display fix ([#89519](https://github.com/CleverRaven/Cataclysm-DDA/pull/89519))
 * [Martial Mastery]Add PERK flag to all perk melee perks ([#89595](https://github.com/CleverRaven/Cataclysm-DDA/pull/89595))
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
@@ -194,7 +189,6 @@
 * Tentacle clothing coverage ([#89547](https://github.com/CleverRaven/Cataclysm-DDA/pull/89547))
 * Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))
 * [Xedra Evolved] Rework elemental fae passive spell XP gain ([#89544](https://github.com/CleverRaven/Cataclysm-DDA/pull/89544))
-* Marloss Evangelist 1: Joth Luteus ([#89493](https://github.com/CleverRaven/Cataclysm-DDA/pull/89493))
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
 * Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
@@ -218,7 +212,6 @@
 * [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore ([#89535](https://github.com/CleverRaven/Cataclysm-DDA/pull/89535))
 * Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
 * cleanup explosive materials and requirements ([#89540](https://github.com/CleverRaven/Cataclysm-DDA/pull/89540))
-* prevent deconstructing of ter/furn that cannot be transported ([#89499](https://github.com/CleverRaven/Cataclysm-DDA/pull/89499))
 * improve explosive use action info ([#89517](https://github.com/CleverRaven/Cataclysm-DDA/pull/89517))
 * [Xedra Evolved] Ríastrad edits  ([#89510](https://github.com/CleverRaven/Cataclysm-DDA/pull/89510))
 * [Xedra Evolved] Fix crash bug with Salamander/Arvore draughts ([#89536](https://github.com/CleverRaven/Cataclysm-DDA/pull/89536))
@@ -232,6 +225,3 @@
 * [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
 * Remove all legacy `int`-indexed item accessors for `Character` and `outfit` ([#89509](https://github.com/CleverRaven/Cataclysm-DDA/pull/89509))
 * [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))
-* one of the fuse recipes now also accepts red phosphorus ([#89507](https://github.com/CleverRaven/Cataclysm-DDA/pull/89507))
-* Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
-* Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
