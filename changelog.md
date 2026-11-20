@@ -1,3 +1,48 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0840 ([5611db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0840))
+
+* Weekly Changelog 2026-11-09 to 2026-11-16 ([#89587](https://github.com/CleverRaven/Cataclysm-DDA/pull/89587))
+* the warlord arrives ([#89571](https://github.com/CleverRaven/Cataclysm-DDA/pull/89571))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0731 ([958bc34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0731))
+
+* Fix fouling breaking gun name colors ([#89616](https://github.com/CleverRaven/Cataclysm-DDA/pull/89616))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0631 ([da01ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0631))
+
+* new negative trait: Opiate Intolerance ([#89621](https://github.com/CleverRaven/Cataclysm-DDA/pull/89621))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0508 ([ed0ce90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0508))
+
+* labyrinth scribble-scrabbles ([#89648](https://github.com/CleverRaven/Cataclysm-DDA/pull/89648))
+* The Terminal Closes after Murder. ([#89645](https://github.com/CleverRaven/Cataclysm-DDA/pull/89645))
+* Massively expand crafting faults ([#89639](https://github.com/CleverRaven/Cataclysm-DDA/pull/89639))
+* Blocks work on a sliding scale alongside new/partial dodge (whatever you want to call it) ([#89640](https://github.com/CleverRaven/Cataclysm-DDA/pull/89640))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0413 ([597356a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0413))
+
+* Make it harder to miss/fail the AltarOS safehouse boiler mission ([#89649](https://github.com/CleverRaven/Cataclysm-DDA/pull/89649))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0302 ([c148a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0302))
+
+* Split damage-related functions from map.cpp to map_damage.cpp ([#89646](https://github.com/CleverRaven/Cataclysm-DDA/pull/89646))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-20-0211 ([2fb53dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0211))
+
 * Marloss Evangelist 3: Amaides ([#89495](https://github.com/CleverRaven/Cataclysm-DDA/pull/89495))
 
 ---
@@ -139,45 +184,15 @@
 * Weariness display fix ([#89519](https://github.com/CleverRaven/Cataclysm-DDA/pull/89519))
 * [Martial Mastery]Add PERK flag to all perk melee perks ([#89595](https://github.com/CleverRaven/Cataclysm-DDA/pull/89595))
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-0457 ([c9e120b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-0457))
-
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-16-1748 ([524116e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-1748))
-
 * Medical iuse menu redirects to wounds menu ([#89549](https://github.com/CleverRaven/Cataclysm-DDA/pull/89549))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-16-0541 ([bf08a4a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0541))
-
 * Massively expand crafting faults ([#89559](https://github.com/CleverRaven/Cataclysm-DDA/pull/89559))
 * Fix invalid comparison operator ([#89575](https://github.com/CleverRaven/Cataclysm-DDA/pull/89575))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-16-0444 ([66dfe4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0444))
-
 * 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-16-0350 ([89c8a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0350))
-
 * Tentacle clothing coverage ([#89547](https://github.com/CleverRaven/Cataclysm-DDA/pull/89547))
 * Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-16-0250 ([0c1e037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-16-0250))
-
 * [Xedra Evolved] Rework elemental fae passive spell XP gain ([#89544](https://github.com/CleverRaven/Cataclysm-DDA/pull/89544))
 * Marloss Evangelist 1: Joth Luteus ([#89493](https://github.com/CleverRaven/Cataclysm-DDA/pull/89493))
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
@@ -215,16 +230,8 @@
 * the warlord arrives ([#89529](https://github.com/CleverRaven/Cataclysm-DDA/pull/89529))
 * [Xedra Evolved] Fix Fist of Taranis spell class/type ([#89525](https://github.com/CleverRaven/Cataclysm-DDA/pull/89525))
 * [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
-* Rewrite wound text to be more colorful and immersive ([#89492](https://github.com/CleverRaven/Cataclysm-DDA/pull/89492))
 * Remove all legacy `int`-indexed item accessors for `Character` and `outfit` ([#89509](https://github.com/CleverRaven/Cataclysm-DDA/pull/89509))
 * [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))
 * one of the fuse recipes now also accepts red phosphorus ([#89507](https://github.com/CleverRaven/Cataclysm-DDA/pull/89507))
 * Minor description updates for dynamite and dynamite bomb ([#89506](https://github.com/CleverRaven/Cataclysm-DDA/pull/89506))
 * Allow mutations to destroy all conflicting bionics ([#89498](https://github.com/CleverRaven/Cataclysm-DDA/pull/89498))
-* Weekly Changelog 2026-11-02 to 2026-11-09 ([#89488](https://github.com/CleverRaven/Cataclysm-DDA/pull/89488))
-* [Xedra Evolved] Update Arvore regen wounds ([#89481](https://github.com/CleverRaven/Cataclysm-DDA/pull/89481))
-* Tests fix on CMake Windows builds in npc_test.cpp ([#89491](https://github.com/CleverRaven/Cataclysm-DDA/pull/89491))
-* Add vine wounds ([#89489](https://github.com/CleverRaven/Cataclysm-DDA/pull/89489))
-* remove radiation triggered mutation from lore doc ([#89485](https://github.com/CleverRaven/Cataclysm-DDA/pull/89485))
-* remove blob healing factor section from lore doc ([#89484](https://github.com/CleverRaven/Cataclysm-DDA/pull/89484))
-* Stabs and cuts stage down ([#89487](https://github.com/CleverRaven/Cataclysm-DDA/pull/89487))
