@@ -1,6 +1,31 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-21-0938 ([2917d66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0938))
+
+* Perf: 25% faster sleep by closing our eyes. ([#89655](https://github.com/CleverRaven/Cataclysm-DDA/pull/89655))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-21-0658 ([46391a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0658))
+
+* [Magiclysm] Added Enchanted Tempered Steelshod Quarterstaffs ([#89656](https://github.com/CleverRaven/Cataclysm-DDA/pull/89656))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-21-0601 ([bb5ae12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0601))
+
+* rewrite my flatlander's description ([#89675](https://github.com/CleverRaven/Cataclysm-DDA/pull/89675))
+* Split creature-related functions from map.cpp to map_creature.cpp ([#89674](https://github.com/CleverRaven/Cataclysm-DDA/pull/89674))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-21-0442 ([189cf5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0442))
+
+* Mi-gos can block ([#89657](https://github.com/CleverRaven/Cataclysm-DDA/pull/89657))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-21-0317 ([64f6174](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0317))
 
 * Marloss Evangelist 4: Ameth Aria ([#89570](https://github.com/CleverRaven/Cataclysm-DDA/pull/89570))
@@ -162,23 +187,8 @@
 #### Cataclysm-DDA experimental build 2026-11-18-0543 ([024bd90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0543))
 
 * Moves cost to activable items pt. 1 ([#89567](https://github.com/CleverRaven/Cataclysm-DDA/pull/89567))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-18-0439 ([77f34d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0439))
-
 * Aftershock: Spawn several shells ([#89597](https://github.com/CleverRaven/Cataclysm-DDA/pull/89597))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-18-0053 ([7990463](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-0053))
-
 * Split vehicle-related functions from map.cpp into map_vehicle.cpp ([#89612](https://github.com/CleverRaven/Cataclysm-DDA/pull/89612))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-2329 ([913fb6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-2329))
-
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89585](https://github.com/CleverRaven/Cataclysm-DDA/pull/89585))
 * [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89609](https://github.com/CleverRaven/Cataclysm-DDA/pull/89609))
@@ -212,20 +222,15 @@
 * Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
-* Remove "tty" test from #89339 ([#89521](https://github.com/CleverRaven/Cataclysm-DDA/pull/89521))
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
 * Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
 * [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
 * [Xedra Evolved] Increase elemental mana ([#89537](https://github.com/CleverRaven/Cataclysm-DDA/pull/89537))
-* Fix NPC missions related to FEMA campsite ([#89528](https://github.com/CleverRaven/Cataclysm-DDA/pull/89528))
 * [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore ([#89535](https://github.com/CleverRaven/Cataclysm-DDA/pull/89535))
 * Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
 * cleanup explosive materials and requirements ([#89540](https://github.com/CleverRaven/Cataclysm-DDA/pull/89540))
 * [Xedra Evolved] Fix crash bug with Salamander/Arvore draughts ([#89536](https://github.com/CleverRaven/Cataclysm-DDA/pull/89536))
 * Conversion kits have lower capacity magazines ([#89538](https://github.com/CleverRaven/Cataclysm-DDA/pull/89538))
 * Fuse amounts for recipes adjusted, minor recipe tweaks ([#89533](https://github.com/CleverRaven/Cataclysm-DDA/pull/89533))
-* Slightly nerf Nauseating Stench ([#89526](https://github.com/CleverRaven/Cataclysm-DDA/pull/89526))
 * revamp the berserk code a bit ([#89531](https://github.com/CleverRaven/Cataclysm-DDA/pull/89531))
 * the warlord arrives ([#89529](https://github.com/CleverRaven/Cataclysm-DDA/pull/89529))
-* [Xedra Evolved] Fix Fist of Taranis spell class/type ([#89525](https://github.com/CleverRaven/Cataclysm-DDA/pull/89525))
-* [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
