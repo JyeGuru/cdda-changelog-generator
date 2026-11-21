@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-21-0317 ([64f6174](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0317))
+
+* Marloss Evangelist 4: Ameth Aria ([#89570](https://github.com/CleverRaven/Cataclysm-DDA/pull/89570))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-21-0225 ([4c59393](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0225))
+
+* Split architectural-related functions from map.cpp to map_architectural.cpp ([#89666](https://github.com/CleverRaven/Cataclysm-DDA/pull/89666))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-21-0119 ([103c195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0119))
+
+* allow limb scores of wounds to be multiplicative ([#89651](https://github.com/CleverRaven/Cataclysm-DDA/pull/89651))
+* Revert "Back-out(0.J): Revert "Add a second blob singularity: the Reclaimer (#88738)"" ([#89671](https://github.com/CleverRaven/Cataclysm-DDA/pull/89671))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-20-2017 ([b9fae5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-2017))
 
 * Split visibility-related functions from map.cpp to map_visibility.cpp ([#89660](https://github.com/CleverRaven/Cataclysm-DDA/pull/89660))
@@ -162,22 +181,11 @@
 
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
 * [Xedra Evolved] Elemental magic rework: Sylph ([#89585](https://github.com/CleverRaven/Cataclysm-DDA/pull/89585))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-1748 ([5a9346b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1748))
-
 * [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89609](https://github.com/CleverRaven/Cataclysm-DDA/pull/89609))
 * Tentacle clothing coverage ([#89590](https://github.com/CleverRaven/Cataclysm-DDA/pull/89590))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-17-1600 ([81697c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-17-1600))
-
 * [Xedra Evolved] Update some Sylph mutations with `"mana": true`, add `activation_msg` ([#89608](https://github.com/CleverRaven/Cataclysm-DDA/pull/89608))
 * Split dialogue-related functions from npctalk.cpp to dialogue.cpp ([#89593](https://github.com/CleverRaven/Cataclysm-DDA/pull/89593))
 * More safety on wound healing progress updates ([#89601](https://github.com/CleverRaven/Cataclysm-DDA/pull/89601))
-* Weariness display fix ([#89519](https://github.com/CleverRaven/Cataclysm-DDA/pull/89519))
 * [Martial Mastery]Add PERK flag to all perk melee perks ([#89595](https://github.com/CleverRaven/Cataclysm-DDA/pull/89595))
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
@@ -213,15 +221,11 @@
 * [Xedra Evolved] Add `Vengeance of the Trees` spell to Arvore ([#89535](https://github.com/CleverRaven/Cataclysm-DDA/pull/89535))
 * Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
 * cleanup explosive materials and requirements ([#89540](https://github.com/CleverRaven/Cataclysm-DDA/pull/89540))
-* improve explosive use action info ([#89517](https://github.com/CleverRaven/Cataclysm-DDA/pull/89517))
-* [Xedra Evolved] Ríastrad edits  ([#89510](https://github.com/CleverRaven/Cataclysm-DDA/pull/89510))
 * [Xedra Evolved] Fix crash bug with Salamander/Arvore draughts ([#89536](https://github.com/CleverRaven/Cataclysm-DDA/pull/89536))
 * Conversion kits have lower capacity magazines ([#89538](https://github.com/CleverRaven/Cataclysm-DDA/pull/89538))
 * Fuse amounts for recipes adjusted, minor recipe tweaks ([#89533](https://github.com/CleverRaven/Cataclysm-DDA/pull/89533))
 * Slightly nerf Nauseating Stench ([#89526](https://github.com/CleverRaven/Cataclysm-DDA/pull/89526))
 * revamp the berserk code a bit ([#89531](https://github.com/CleverRaven/Cataclysm-DDA/pull/89531))
-* Blanched acorns correspond properly to raw acorns ([#89516](https://github.com/CleverRaven/Cataclysm-DDA/pull/89516))
 * the warlord arrives ([#89529](https://github.com/CleverRaven/Cataclysm-DDA/pull/89529))
 * [Xedra Evolved] Fix Fist of Taranis spell class/type ([#89525](https://github.com/CleverRaven/Cataclysm-DDA/pull/89525))
 * [Xedra Evolved] Elemental samples to essence ([#89522](https://github.com/CleverRaven/Cataclysm-DDA/pull/89522))
-* [MoM] Fix the Knockdown power ([#89513](https://github.com/CleverRaven/Cataclysm-DDA/pull/89513))
