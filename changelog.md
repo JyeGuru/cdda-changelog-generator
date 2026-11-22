@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-22-1505 ([1dcda71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-1505))
+
+* Remove debug messages in gozu hell ([#89703](https://github.com/CleverRaven/Cataclysm-DDA/pull/89703))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-22-0628 ([27476ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-0628))
 
 * Faction reputation text corresponds to In-game effects ([#89676](https://github.com/CleverRaven/Cataclysm-DDA/pull/89676))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-11-19-0342 ([d9ebff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0342))
 
 * Better questgiver dialogue lines ([#89580](https://github.com/CleverRaven/Cataclysm-DDA/pull/89580))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-18-2353 ([66bdc3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2353))
-
 * Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
 * Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
 * add kuutekitty to wound reviewers ([#89632](https://github.com/CleverRaven/Cataclysm-DDA/pull/89632))
@@ -232,5 +233,4 @@
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
-* Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
 * [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
