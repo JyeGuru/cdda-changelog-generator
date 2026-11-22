@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-22-0628 ([27476ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-0628))
+
+* Faction reputation text corresponds to In-game effects ([#89676](https://github.com/CleverRaven/Cataclysm-DDA/pull/89676))
+* Actually add myself for SI reviews ([#89679](https://github.com/CleverRaven/Cataclysm-DDA/pull/89679))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-22-0519 ([30dabe6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-0519))
+
+* Debug menu tool to clear all wounds ([#89697](https://github.com/CleverRaven/Cataclysm-DDA/pull/89697))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-22-0256 ([3cce3ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-0256))
 
 * Medical UI treatable wounds and bleeding wounds display ([#89683](https://github.com/CleverRaven/Cataclysm-DDA/pull/89683))
@@ -178,18 +191,8 @@
 #### Cataclysm-DDA experimental build 2026-11-18-2353 ([66bdc3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2353))
 
 * Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-18-2109 ([08a1241](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-2109))
-
 * Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
 * add kuutekitty to wound reviewers ([#89632](https://github.com/CleverRaven/Cataclysm-DDA/pull/89632))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-18-1252 ([ce453e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-18-1252))
-
 * Build with ULFO instead of UDBZ file format for OSX ([#89619](https://github.com/CleverRaven/Cataclysm-DDA/pull/89619))
 * Fix exposed conduit damaging the right leg twice ([#89627](https://github.com/CleverRaven/Cataclysm-DDA/pull/89627))
 * Fix discard_invalid_po.sh ([#89613](https://github.com/CleverRaven/Cataclysm-DDA/pull/89613))
@@ -231,6 +234,3 @@
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
 * Improvement of Fema Military Building ([#89541](https://github.com/CleverRaven/Cataclysm-DDA/pull/89541))
 * [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
-* Update descriptions for hydrogen peroxide and antiseptic ([#89539](https://github.com/CleverRaven/Cataclysm-DDA/pull/89539))
-* cleanup explosive materials and requirements ([#89540](https://github.com/CleverRaven/Cataclysm-DDA/pull/89540))
-* Conversion kits have lower capacity magazines ([#89538](https://github.com/CleverRaven/Cataclysm-DDA/pull/89538))
