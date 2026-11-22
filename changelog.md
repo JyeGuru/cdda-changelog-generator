@@ -1,3 +1,17 @@
+* add kuutekitty to donations.md ([#89712](https://github.com/CleverRaven/Cataclysm-DDA/pull/89712))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-22-2139 ([90f1030](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-2139))
+
+* suitcase_m and suitcase_l don't share the same name ([#89713](https://github.com/CleverRaven/Cataclysm-DDA/pull/89713))
+* More Gozu Hell terrain ([#89662](https://github.com/CleverRaven/Cataclysm-DDA/pull/89662))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-22-2039 ([f372cbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-2039))
+
+* wounds use multipliers for limb scores ([#89682](https://github.com/CleverRaven/Cataclysm-DDA/pull/89682))
 
 ---
 
@@ -176,20 +190,10 @@
 
 * Split cache-related functions from map.cpp into map_cache.cpp, enable IWYU for map.cpp  ([#89625](https://github.com/CleverRaven/Cataclysm-DDA/pull/89625))
 * Aftershock: Spawn several shells ([#89626](https://github.com/CleverRaven/Cataclysm-DDA/pull/89626))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-19-0440 ([c376725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0440))
-
 * [Sky Island] Ensure starter kit clothes fit the character ([#89628](https://github.com/CleverRaven/Cataclysm-DDA/pull/89628))
 * [Xedra Evolved] Sylph Spell rework ([#89607](https://github.com/CleverRaven/Cataclysm-DDA/pull/89607))
 * Editing Isherwood NPC dialogue ([#89602](https://github.com/CleverRaven/Cataclysm-DDA/pull/89602))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89610](https://github.com/CleverRaven/Cataclysm-DDA/pull/89610))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-19-0342 ([d9ebff2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0342))
-
 * Better questgiver dialogue lines ([#89580](https://github.com/CleverRaven/Cataclysm-DDA/pull/89580))
 * Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
 * Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
@@ -212,20 +216,15 @@
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
-* Medical iuse menu redirects to wounds menu ([#89549](https://github.com/CleverRaven/Cataclysm-DDA/pull/89549))
 * Massively expand crafting faults ([#89559](https://github.com/CleverRaven/Cataclysm-DDA/pull/89559))
 * Fix invalid comparison operator ([#89575](https://github.com/CleverRaven/Cataclysm-DDA/pull/89575))
 * 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
-* Tentacle clothing coverage ([#89547](https://github.com/CleverRaven/Cataclysm-DDA/pull/89547))
 * Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))
-* [Xedra Evolved] Rework elemental fae passive spell XP gain ([#89544](https://github.com/CleverRaven/Cataclysm-DDA/pull/89544))
-* [Xedra Evolved] Elemental magic rework: Sylph ([#89546](https://github.com/CleverRaven/Cataclysm-DDA/pull/89546))
 * Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
 * Some additional no_auto_consume ([#89552](https://github.com/CleverRaven/Cataclysm-DDA/pull/89552))
 * Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
-* Fix #89545  Trait Prereq missing for Aqueous Repose ([#89550](https://github.com/CleverRaven/Cataclysm-DDA/pull/89550))
 * Delete empty Aftershock folder ([#89551](https://github.com/CleverRaven/Cataclysm-DDA/pull/89551))
 * Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
 * having wound prevent body part regeneration ([#89557](https://github.com/CleverRaven/Cataclysm-DDA/pull/89557))
@@ -233,4 +232,3 @@
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
 * [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
-* [Xedra Evolved] Bloodthorne passive XP fix ([#89542](https://github.com/CleverRaven/Cataclysm-DDA/pull/89542))
