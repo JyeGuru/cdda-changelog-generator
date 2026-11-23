@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-23-1330 ([627ad3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-23-1330))
+
+* Prevent division by zero in medical UI speed summary ([#89706](https://github.com/CleverRaven/Cataclysm-DDA/pull/89706))
 * add kuutekitty to donations.md ([#89712](https://github.com/CleverRaven/Cataclysm-DDA/pull/89712))
 
 ---
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2026-11-19-0704 ([799b3a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0704))
 
 * [Sky Island] Remove the collective center from SI raids ([#89637](https://github.com/CleverRaven/Cataclysm-DDA/pull/89637))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-19-0609 ([0d8e421](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0609))
-
 * Split cache-related functions from map.cpp into map_cache.cpp, enable IWYU for map.cpp  ([#89625](https://github.com/CleverRaven/Cataclysm-DDA/pull/89625))
 * Aftershock: Spawn several shells ([#89626](https://github.com/CleverRaven/Cataclysm-DDA/pull/89626))
 * [Sky Island] Ensure starter kit clothes fit the character ([#89628](https://github.com/CleverRaven/Cataclysm-DDA/pull/89628))
@@ -223,7 +224,6 @@
 * Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))
 * Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
-* Some additional no_auto_consume ([#89552](https://github.com/CleverRaven/Cataclysm-DDA/pull/89552))
 * Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
 * Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
 * having wound prevent body part regeneration ([#89557](https://github.com/CleverRaven/Cataclysm-DDA/pull/89557))
