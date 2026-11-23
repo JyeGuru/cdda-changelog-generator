@@ -225,7 +225,6 @@
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
 * Some additional no_auto_consume ([#89552](https://github.com/CleverRaven/Cataclysm-DDA/pull/89552))
 * Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
-* Delete empty Aftershock folder ([#89551](https://github.com/CleverRaven/Cataclysm-DDA/pull/89551))
 * Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
 * having wound prevent body part regeneration ([#89557](https://github.com/CleverRaven/Cataclysm-DDA/pull/89557))
 * Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
