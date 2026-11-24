@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-24-0509 ([344bfc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-0509))
+
+* [MoM] MoM headache wounds use multipliers for limb scores, backlash is a headache. ([#89723](https://github.com/CleverRaven/Cataclysm-DDA/pull/89723))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-24-0415 ([072573f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-0415))
+
+* [Xedra Evolved] Fix Sylph electrical resistance ([#89726](https://github.com/CleverRaven/Cataclysm-DDA/pull/89726))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-24-0037 ([68ad44b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-0037))
 
 * Weekly Changelog 2026-11-16 to 2026-11-23 ([#89717](https://github.com/CleverRaven/Cataclysm-DDA/pull/89717))
@@ -179,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2026-11-20-0302 ([c148a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0302))
 
 * Split damage-related functions from map.cpp to map_damage.cpp ([#89646](https://github.com/CleverRaven/Cataclysm-DDA/pull/89646))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-19-1128 ([2238c71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-1128))
-
 * Variantize lakeside cabin ([#89596](https://github.com/CleverRaven/Cataclysm-DDA/pull/89596))
 * Also use lang/Makefile for Windows ([#89614](https://github.com/CleverRaven/Cataclysm-DDA/pull/89614))
 * Manually backport "#89606" ([#89622](https://github.com/CleverRaven/Cataclysm-DDA/pull/89622))
@@ -219,7 +226,6 @@
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
-* Massively expand crafting faults ([#89559](https://github.com/CleverRaven/Cataclysm-DDA/pull/89559))
 * Fix invalid comparison operator ([#89575](https://github.com/CleverRaven/Cataclysm-DDA/pull/89575))
 * 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
@@ -227,7 +233,4 @@
 * Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
 * Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
-* Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
-* Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
-* Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
