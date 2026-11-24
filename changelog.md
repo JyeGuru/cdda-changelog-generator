@@ -1,6 +1,31 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-24-1832 ([d8bad10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-1832))
+
+* make the aircraft carrier spawn in the ocean ([#89684](https://github.com/CleverRaven/Cataclysm-DDA/pull/89684))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-24-1720 ([e4e1b13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-1720))
+
+* [XE] Being burned by sunlight cancels mist form. ([#89729](https://github.com/CleverRaven/Cataclysm-DDA/pull/89729))
+* [Xedra Evolved] Fix `The Cunning Book of Home and Hearth` learning EoC ([#89731](https://github.com/CleverRaven/Cataclysm-DDA/pull/89731))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-24-1625 ([a59bbe8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-1625))
+
+* Split terrain+furniture functions from map.cpp to map_ter_furn.cpp ([#89728](https://github.com/CleverRaven/Cataclysm-DDA/pull/89728))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-24-1227 ([31684b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-1227))
+
+* "opiate intolerance" trait fix ([#89730](https://github.com/CleverRaven/Cataclysm-DDA/pull/89730))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-24-0509 ([344bfc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-0509))
 
 * [MoM] MoM headache wounds use multipliers for limb scores, backlash is a headache. ([#89723](https://github.com/CleverRaven/Cataclysm-DDA/pull/89723))
@@ -112,12 +137,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2026-11-21-0317 ([64f6174](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0317))
-
-* Marloss Evangelist 4: Ameth Aria ([#89570](https://github.com/CleverRaven/Cataclysm-DDA/pull/89570))
-
----
-
 #### Cataclysm-DDA experimental build 2026-11-21-0225 ([4c59393](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0225))
 
 * Split architectural-related functions from map.cpp to map_architectural.cpp ([#89666](https://github.com/CleverRaven/Cataclysm-DDA/pull/89666))
@@ -170,26 +189,11 @@
 #### Cataclysm-DDA experimental build 2026-11-20-0631 ([da01ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0631))
 
 * new negative trait: Opiate Intolerance ([#89621](https://github.com/CleverRaven/Cataclysm-DDA/pull/89621))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0508 ([ed0ce90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0508))
-
 * labyrinth scribble-scrabbles ([#89648](https://github.com/CleverRaven/Cataclysm-DDA/pull/89648))
 * The Terminal Closes after Murder. ([#89645](https://github.com/CleverRaven/Cataclysm-DDA/pull/89645))
 * Massively expand crafting faults ([#89639](https://github.com/CleverRaven/Cataclysm-DDA/pull/89639))
 * Blocks work on a sliding scale alongside new/partial dodge (whatever you want to call it) ([#89640](https://github.com/CleverRaven/Cataclysm-DDA/pull/89640))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0413 ([597356a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0413))
-
 * Make it harder to miss/fail the AltarOS safehouse boiler mission ([#89649](https://github.com/CleverRaven/Cataclysm-DDA/pull/89649))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0302 ([c148a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0302))
-
 * Split damage-related functions from map.cpp to map_damage.cpp ([#89646](https://github.com/CleverRaven/Cataclysm-DDA/pull/89646))
 * Variantize lakeside cabin ([#89596](https://github.com/CleverRaven/Cataclysm-DDA/pull/89596))
 * Also use lang/Makefile for Windows ([#89614](https://github.com/CleverRaven/Cataclysm-DDA/pull/89614))
@@ -212,7 +216,6 @@
 * Fix exposed conduit damaging the right leg twice ([#89627](https://github.com/CleverRaven/Cataclysm-DDA/pull/89627))
 * Fix discard_invalid_po.sh ([#89613](https://github.com/CleverRaven/Cataclysm-DDA/pull/89613))
 * Avoid duplicate monster death messages ([#89611](https://github.com/CleverRaven/Cataclysm-DDA/pull/89611))
-* Moves cost to activable items pt. 1 ([#89567](https://github.com/CleverRaven/Cataclysm-DDA/pull/89567))
 * Aftershock: Spawn several shells ([#89597](https://github.com/CleverRaven/Cataclysm-DDA/pull/89597))
 * Split vehicle-related functions from map.cpp into map_vehicle.cpp ([#89612](https://github.com/CleverRaven/Cataclysm-DDA/pull/89612))
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
@@ -230,7 +233,3 @@
 * 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
 * Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))
-* Display if a sub limb is wounded in the sidebar ([#89566](https://github.com/CleverRaven/Cataclysm-DDA/pull/89566))
-* Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
-* Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
-* Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
