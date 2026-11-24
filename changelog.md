@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-24-0037 ([68ad44b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-24-0037))
+
+* Weekly Changelog 2026-11-16 to 2026-11-23 ([#89717](https://github.com/CleverRaven/Cataclysm-DDA/pull/89717))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-23-2330 ([3f79dd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-23-2330))
+
+* Split contextual functions from map.cpp to map_contextual.cpp ([#89695](https://github.com/CleverRaven/Cataclysm-DDA/pull/89695))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-23-1330 ([627ad3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-23-1330))
 
 * Prevent division by zero in medical UI speed summary ([#89706](https://github.com/CleverRaven/Cataclysm-DDA/pull/89706))
@@ -175,19 +187,9 @@
 * Variantize lakeside cabin ([#89596](https://github.com/CleverRaven/Cataclysm-DDA/pull/89596))
 * Also use lang/Makefile for Windows ([#89614](https://github.com/CleverRaven/Cataclysm-DDA/pull/89614))
 * Manually backport "#89606" ([#89622](https://github.com/CleverRaven/Cataclysm-DDA/pull/89622))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-19-1022 ([f2b83a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-1022))
-
 * Some vanilla monsters can block ([#89641](https://github.com/CleverRaven/Cataclysm-DDA/pull/89641))
 * [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89620](https://github.com/CleverRaven/Cataclysm-DDA/pull/89620))
 * Hub 01 shares public goods ([#89635](https://github.com/CleverRaven/Cataclysm-DDA/pull/89635))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-19-0704 ([799b3a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-19-0704))
-
 * [Sky Island] Remove the collective center from SI raids ([#89637](https://github.com/CleverRaven/Cataclysm-DDA/pull/89637))
 * Split cache-related functions from map.cpp into map_cache.cpp, enable IWYU for map.cpp  ([#89625](https://github.com/CleverRaven/Cataclysm-DDA/pull/89625))
 * Aftershock: Spawn several shells ([#89626](https://github.com/CleverRaven/Cataclysm-DDA/pull/89626))
@@ -226,8 +228,6 @@
 * Remove regional slur from descriptions & dialogue ([#89569](https://github.com/CleverRaven/Cataclysm-DDA/pull/89569))
 * Minor mil. explosive recipe tweaks ([#89565](https://github.com/CleverRaven/Cataclysm-DDA/pull/89565))
 * Weekly Changelog 2026-11-07 to 2026-11-14 ([#89563](https://github.com/CleverRaven/Cataclysm-DDA/pull/89563))
-* having wound prevent body part regeneration ([#89557](https://github.com/CleverRaven/Cataclysm-DDA/pull/89557))
 * Updated descriptions for wound cleaning agents ([#89558](https://github.com/CleverRaven/Cataclysm-DDA/pull/89558))
 * Enable builds with 0.J as target ([#89564](https://github.com/CleverRaven/Cataclysm-DDA/pull/89564))
 * Bump actions versions for node24 ([#89561](https://github.com/CleverRaven/Cataclysm-DDA/pull/89561))
-* [alt-map-key] Add new overmap terrain for XE ([#89553](https://github.com/CleverRaven/Cataclysm-DDA/pull/89553))
