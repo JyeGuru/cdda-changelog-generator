@@ -1,3 +1,10 @@
+* Signpost that the 1-way labyrinth stairwell isn't a mapgen error ([#89744](https://github.com/CleverRaven/Cataclysm-DDA/pull/89744))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-25-0554 ([08e7366](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-25-0554))
+
+* Split item-related functions from map.cpp to map_items.cpp ([#89754](https://github.com/CleverRaven/Cataclysm-DDA/pull/89754))
 * fix double newline regression in new dialogue screen ([#89748](https://github.com/CleverRaven/Cataclysm-DDA/pull/89748))
 * Fix the segfault on examining the prepper's computer. ([#89750](https://github.com/CleverRaven/Cataclysm-DDA/pull/89750))
 * labyrinth scribble-scrabbles ([#89747](https://github.com/CleverRaven/Cataclysm-DDA/pull/89747))
@@ -185,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-11-20-0731 ([958bc34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0731))
 
 * Fix fouling breaking gun name colors ([#89616](https://github.com/CleverRaven/Cataclysm-DDA/pull/89616))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0631 ([da01ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0631))
-
 * new negative trait: Opiate Intolerance ([#89621](https://github.com/CleverRaven/Cataclysm-DDA/pull/89621))
 * labyrinth scribble-scrabbles ([#89648](https://github.com/CleverRaven/Cataclysm-DDA/pull/89648))
 * The Terminal Closes after Murder. ([#89645](https://github.com/CleverRaven/Cataclysm-DDA/pull/89645))
@@ -210,7 +212,6 @@
 * [Xedra Evolved] Sylph Spell rework ([#89607](https://github.com/CleverRaven/Cataclysm-DDA/pull/89607))
 * Editing Isherwood NPC dialogue ([#89602](https://github.com/CleverRaven/Cataclysm-DDA/pull/89602))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89610](https://github.com/CleverRaven/Cataclysm-DDA/pull/89610))
-* Better questgiver dialogue lines ([#89580](https://github.com/CleverRaven/Cataclysm-DDA/pull/89580))
 * Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
 * Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
 * add kuutekitty to wound reviewers ([#89632](https://github.com/CleverRaven/Cataclysm-DDA/pull/89632))
@@ -231,5 +232,4 @@
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
-* 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
