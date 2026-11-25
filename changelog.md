@@ -1,3 +1,6 @@
+* fix double newline regression in new dialogue screen ([#89748](https://github.com/CleverRaven/Cataclysm-DDA/pull/89748))
+* Fix the segfault on examining the prepper's computer. ([#89750](https://github.com/CleverRaven/Cataclysm-DDA/pull/89750))
+* labyrinth scribble-scrabbles ([#89747](https://github.com/CleverRaven/Cataclysm-DDA/pull/89747))
 
 ---
 
@@ -176,7 +179,6 @@
 #### Cataclysm-DDA experimental build 2026-11-20-0840 ([5611db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0840))
 
 * Weekly Changelog 2026-11-09 to 2026-11-16 ([#89587](https://github.com/CleverRaven/Cataclysm-DDA/pull/89587))
-* the warlord arrives ([#89571](https://github.com/CleverRaven/Cataclysm-DDA/pull/89571))
 
 ---
 
@@ -229,7 +231,5 @@
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
-* Fix invalid comparison operator ([#89575](https://github.com/CleverRaven/Cataclysm-DDA/pull/89575))
 * 48x-Locutus can heal improperly-set broken bones ([#89577](https://github.com/CleverRaven/Cataclysm-DDA/pull/89577))
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
-* Expand wound fix skill, allow them to be mandatory or not ([#89573](https://github.com/CleverRaven/Cataclysm-DDA/pull/89573))

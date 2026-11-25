@@ -1,3 +1,6 @@
+* fix double newline regression in new dialogue screen (#89748)
+* Fix the segfault on examining the prepper's computer. (#89750)
+* labyrinth scribble-scrabbles (#89747)
 
 Cataclysm-DDA experimental build 2026-11-24-1832 (d8bad10)
 * make the aircraft carrier spawn in the ocean (#89684)
@@ -95,7 +98,6 @@ Cataclysm-DDA experimental build 2026-11-20-0955 (e422f76)
 
 Cataclysm-DDA experimental build 2026-11-20-0840 (5611db9)
 * Weekly Changelog 2026-11-09 to 2026-11-16 (#89587)
-* the warlord arrives (#89571)
 
 Cataclysm-DDA experimental build 2026-11-20-0731 (958bc34)
 * Fix fouling breaking gun name colors (#89616)
@@ -142,7 +144,5 @@ Cataclysm-DDA experimental build 2026-11-20-0631 (da01ac1)
 * Arvore/Salamander manual backports (#89591)
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance (#89606)
 * [MoM] Fix the Knockdown power (#89598)
-* Fix invalid comparison operator (#89575)
 * 48x-Locutus can heal improperly-set broken bones (#89577)
 * [Bombastic Perks/Magiclysm] Fix negative Difficulty spells (#89583)
-* Expand wound fix skill, allow them to be mandatory or not (#89573)
