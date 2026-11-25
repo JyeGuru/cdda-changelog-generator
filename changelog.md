@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-25-2019 ([ee0bce2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-25-2019))
+
+* Add sandstalkers to Gozu Hell ([#89727](https://github.com/CleverRaven/Cataclysm-DDA/pull/89727))
 * Signpost that the 1-way labyrinth stairwell isn't a mapgen error ([#89744](https://github.com/CleverRaven/Cataclysm-DDA/pull/89744))
 
 ---
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2026-11-20-0840 ([5611db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0840))
 
 * Weekly Changelog 2026-11-09 to 2026-11-16 ([#89587](https://github.com/CleverRaven/Cataclysm-DDA/pull/89587))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0731 ([958bc34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0731))
-
 * Fix fouling breaking gun name colors ([#89616](https://github.com/CleverRaven/Cataclysm-DDA/pull/89616))
 * new negative trait: Opiate Intolerance ([#89621](https://github.com/CleverRaven/Cataclysm-DDA/pull/89621))
 * labyrinth scribble-scrabbles ([#89648](https://github.com/CleverRaven/Cataclysm-DDA/pull/89648))
@@ -232,4 +233,3 @@
 * Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
-* [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89583](https://github.com/CleverRaven/Cataclysm-DDA/pull/89583))
