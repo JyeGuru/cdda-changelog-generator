@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2026-11-26-1842 ([180f230](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-26-1842))
+
+* Allow seasoning food from vehicle storage ([#89758](https://github.com/CleverRaven/Cataclysm-DDA/pull/89758))
+
+---
+
 #### Cataclysm-DDA experimental build 2026-11-26-1438 ([38e45b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-26-1438))
 
 * Marloss Evangelist 5: Tarius Indigo ([#89701](https://github.com/CleverRaven/Cataclysm-DDA/pull/89701))
@@ -197,11 +203,6 @@
 
 * rewrite my flatlander's description ([#89675](https://github.com/CleverRaven/Cataclysm-DDA/pull/89675))
 * Split creature-related functions from map.cpp to map_creature.cpp ([#89674](https://github.com/CleverRaven/Cataclysm-DDA/pull/89674))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-21-0442 ([189cf5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0442))
-
 * Mi-gos can block ([#89657](https://github.com/CleverRaven/Cataclysm-DDA/pull/89657))
 * Split architectural-related functions from map.cpp to map_architectural.cpp ([#89666](https://github.com/CleverRaven/Cataclysm-DDA/pull/89666))
 * allow limb scores of wounds to be multiplicative ([#89651](https://github.com/CleverRaven/Cataclysm-DDA/pull/89651))
@@ -230,7 +231,6 @@
 * Split cache-related functions from map.cpp into map_cache.cpp, enable IWYU for map.cpp  ([#89625](https://github.com/CleverRaven/Cataclysm-DDA/pull/89625))
 * Aftershock: Spawn several shells ([#89626](https://github.com/CleverRaven/Cataclysm-DDA/pull/89626))
 * [Sky Island] Ensure starter kit clothes fit the character ([#89628](https://github.com/CleverRaven/Cataclysm-DDA/pull/89628))
-* [Bombastic Perks/Magiclysm] Fix negative Difficulty spells ([#89610](https://github.com/CleverRaven/Cataclysm-DDA/pull/89610))
 * Hub 01 shares public goods ([#89629](https://github.com/CleverRaven/Cataclysm-DDA/pull/89629))
 * Fix wounds with > INT_MAX healing_progress ([#89617](https://github.com/CleverRaven/Cataclysm-DDA/pull/89617))
 * add kuutekitty to wound reviewers ([#89632](https://github.com/CleverRaven/Cataclysm-DDA/pull/89632))
