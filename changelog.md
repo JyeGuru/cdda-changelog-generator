@@ -1,3 +1,14 @@
+* [Xedra Evolved] Fix `The Cunning Book of Home and Hearth` learning EoC ([#89740](https://github.com/CleverRaven/Cataclysm-DDA/pull/89740))
+* exit fixbots feature room ([#89743](https://github.com/CleverRaven/Cataclysm-DDA/pull/89743))
+* more borgs for labyrinth ([#89746](https://github.com/CleverRaven/Cataclysm-DDA/pull/89746))
+* wound can provide armor penalty for limbs ([#89751](https://github.com/CleverRaven/Cataclysm-DDA/pull/89751))
+* No Typos under the Christmas Tree ([#89760](https://github.com/CleverRaven/Cataclysm-DDA/pull/89760))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-26-0406 ([f24e466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-26-0406))
+
+* [XE] Fix the churning vampire blood mixture not turning into its completed version. ([#89761](https://github.com/CleverRaven/Cataclysm-DDA/pull/89761))
 
 ---
 
@@ -186,12 +197,6 @@
 * Signpost that the 1-way labyrinth stairwell isn't a mapgen error ([#89650](https://github.com/CleverRaven/Cataclysm-DDA/pull/89650))
 * Remove unnessecary debugmsg from spell_effect::spawn_summoned_monster ([#89658](https://github.com/CleverRaven/Cataclysm-DDA/pull/89658))
 * Add the Marloss Evangelists to the lore-faction doc. ([#89592](https://github.com/CleverRaven/Cataclysm-DDA/pull/89592))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-20-0840 ([5611db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-20-0840))
-
-* Weekly Changelog 2026-11-09 to 2026-11-16 ([#89587](https://github.com/CleverRaven/Cataclysm-DDA/pull/89587))
 * Fix fouling breaking gun name colors ([#89616](https://github.com/CleverRaven/Cataclysm-DDA/pull/89616))
 * new negative trait: Opiate Intolerance ([#89621](https://github.com/CleverRaven/Cataclysm-DDA/pull/89621))
 * labyrinth scribble-scrabbles ([#89648](https://github.com/CleverRaven/Cataclysm-DDA/pull/89648))
@@ -223,13 +228,10 @@
 * Aftershock: Spawn several shells ([#89597](https://github.com/CleverRaven/Cataclysm-DDA/pull/89597))
 * Split vehicle-related functions from map.cpp into map_vehicle.cpp ([#89612](https://github.com/CleverRaven/Cataclysm-DDA/pull/89612))
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
-* [Xedra Evolved] Elemental magic rework: Sylph ([#89585](https://github.com/CleverRaven/Cataclysm-DDA/pull/89585))
 * [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89609](https://github.com/CleverRaven/Cataclysm-DDA/pull/89609))
-* Tentacle clothing coverage ([#89590](https://github.com/CleverRaven/Cataclysm-DDA/pull/89590))
 * [Xedra Evolved] Update some Sylph mutations with `"mana": true`, add `activation_msg` ([#89608](https://github.com/CleverRaven/Cataclysm-DDA/pull/89608))
 * Split dialogue-related functions from npctalk.cpp to dialogue.cpp ([#89593](https://github.com/CleverRaven/Cataclysm-DDA/pull/89593))
 * More safety on wound healing progress updates ([#89601](https://github.com/CleverRaven/Cataclysm-DDA/pull/89601))
 * [Martial Mastery]Add PERK flag to all perk melee perks ([#89595](https://github.com/CleverRaven/Cataclysm-DDA/pull/89595))
-* Arvore/Salamander manual backports ([#89591](https://github.com/CleverRaven/Cataclysm-DDA/pull/89591))
 * [Xedra Evolved] Fix Sylph casting equation, slight rebalance ([#89606](https://github.com/CleverRaven/Cataclysm-DDA/pull/89606))
 * [MoM] Fix the Knockdown power ([#89598](https://github.com/CleverRaven/Cataclysm-DDA/pull/89598))
