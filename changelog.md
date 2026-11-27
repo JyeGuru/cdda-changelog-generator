@@ -1,3 +1,4 @@
+* fix 0.5 L jarred pickled Veggies not being sealed ([#89752](https://github.com/CleverRaven/Cataclysm-DDA/pull/89752))
 
 ---
 
@@ -196,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2026-11-21-0658 ([46391a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0658))
 
 * [Magiclysm] Added Enchanted Tempered Steelshod Quarterstaffs ([#89656](https://github.com/CleverRaven/Cataclysm-DDA/pull/89656))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-21-0601 ([bb5ae12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0601))
-
 * rewrite my flatlander's description ([#89675](https://github.com/CleverRaven/Cataclysm-DDA/pull/89675))
 * Split creature-related functions from map.cpp to map_creature.cpp ([#89674](https://github.com/CleverRaven/Cataclysm-DDA/pull/89674))
 * Mi-gos can block ([#89657](https://github.com/CleverRaven/Cataclysm-DDA/pull/89657))
@@ -237,6 +233,5 @@
 * Build with ULFO instead of UDBZ file format for OSX ([#89619](https://github.com/CleverRaven/Cataclysm-DDA/pull/89619))
 * Fix exposed conduit damaging the right leg twice ([#89627](https://github.com/CleverRaven/Cataclysm-DDA/pull/89627))
 * Fix discard_invalid_po.sh ([#89613](https://github.com/CleverRaven/Cataclysm-DDA/pull/89613))
-* Avoid duplicate monster death messages ([#89611](https://github.com/CleverRaven/Cataclysm-DDA/pull/89611))
 * Split vehicle-related functions from map.cpp into map_vehicle.cpp ([#89612](https://github.com/CleverRaven/Cataclysm-DDA/pull/89612))
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
