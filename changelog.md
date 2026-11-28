@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-28-0851 ([5ade8a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-28-0851))
+
+* Stop non mycus from auto eating mycus comestibles ([#89768](https://github.com/CleverRaven/Cataclysm-DDA/pull/89768))
+* Preserve `.template` in character preset names ([#89678](https://github.com/CleverRaven/Cataclysm-DDA/pull/89678))
+
+---
+
+#### Cataclysm-DDA experimental build 2026-11-28-0155 ([e2a428d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-28-0155))
+
+* Add travel to dimension from list iuse ([#89686](https://github.com/CleverRaven/Cataclysm-DDA/pull/89686))
 * fix 0.5 L jarred pickled Veggies not being sealed ([#89752](https://github.com/CleverRaven/Cataclysm-DDA/pull/89752))
 
 ---
@@ -179,23 +192,8 @@
 * Minor construction ui update ([#89677](https://github.com/CleverRaven/Cataclysm-DDA/pull/89677))
 * change wound fix requirements per erk ([#89669](https://github.com/CleverRaven/Cataclysm-DDA/pull/89669))
 * fix gozu hell, gate eoc function with avatar check ([#89688](https://github.com/CleverRaven/Cataclysm-DDA/pull/89688))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-22-0005 ([037e16a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-22-0005))
-
 * Fix the segfault on examining the prepper's computer. ([#89691](https://github.com/CleverRaven/Cataclysm-DDA/pull/89691))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-21-0938 ([2917d66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0938))
-
 * Perf: 25% faster sleep by closing our eyes. ([#89655](https://github.com/CleverRaven/Cataclysm-DDA/pull/89655))
-
----
-
-#### Cataclysm-DDA experimental build 2026-11-21-0658 ([46391a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2026-11-21-0658))
-
 * [Magiclysm] Added Enchanted Tempered Steelshod Quarterstaffs ([#89656](https://github.com/CleverRaven/Cataclysm-DDA/pull/89656))
 * rewrite my flatlander's description ([#89675](https://github.com/CleverRaven/Cataclysm-DDA/pull/89675))
 * Split creature-related functions from map.cpp to map_creature.cpp ([#89674](https://github.com/CleverRaven/Cataclysm-DDA/pull/89674))
@@ -218,7 +216,6 @@
 * Blocks work on a sliding scale alongside new/partial dodge (whatever you want to call it) ([#89640](https://github.com/CleverRaven/Cataclysm-DDA/pull/89640))
 * Make it harder to miss/fail the AltarOS safehouse boiler mission ([#89649](https://github.com/CleverRaven/Cataclysm-DDA/pull/89649))
 * Split damage-related functions from map.cpp to map_damage.cpp ([#89646](https://github.com/CleverRaven/Cataclysm-DDA/pull/89646))
-* Also use lang/Makefile for Windows ([#89614](https://github.com/CleverRaven/Cataclysm-DDA/pull/89614))
 * Manually backport "#89606" ([#89622](https://github.com/CleverRaven/Cataclysm-DDA/pull/89622))
 * Some vanilla monsters can block ([#89641](https://github.com/CleverRaven/Cataclysm-DDA/pull/89641))
 * [Xedra Evolved] Fix Sylph missing _xp_multiplier ([#89620](https://github.com/CleverRaven/Cataclysm-DDA/pull/89620))
@@ -232,6 +229,4 @@
 * add kuutekitty to wound reviewers ([#89632](https://github.com/CleverRaven/Cataclysm-DDA/pull/89632))
 * Build with ULFO instead of UDBZ file format for OSX ([#89619](https://github.com/CleverRaven/Cataclysm-DDA/pull/89619))
 * Fix exposed conduit damaging the right leg twice ([#89627](https://github.com/CleverRaven/Cataclysm-DDA/pull/89627))
-* Fix discard_invalid_po.sh ([#89613](https://github.com/CleverRaven/Cataclysm-DDA/pull/89613))
-* Split vehicle-related functions from map.cpp into map_vehicle.cpp ([#89612](https://github.com/CleverRaven/Cataclysm-DDA/pull/89612))
 * Update game-shipped overmap tileset ([#89615](https://github.com/CleverRaven/Cataclysm-DDA/pull/89615))
